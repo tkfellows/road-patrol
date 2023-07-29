@@ -1,6 +1,7 @@
 import os
 import requests
 import json
+from datetime import datetime
 
 def make_api_request():
     url = 'https://rover.camera/api/v2/roads/coverage'
@@ -15,6 +16,10 @@ def make_api_request():
 
     if response.status_code == 200:
         api_response = response.json()
+
+        # Include the current date and time in the JSON response
+        current_datetime = datetime.now().isoformat()
+        api_response["current_datetime"] = current_datetime
 
         # Get the absolute path for the output file
         output_file_path = os.path.join(os.getcwd(), "api_response.json")
