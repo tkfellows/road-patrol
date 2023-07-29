@@ -4,7 +4,7 @@ function loadJSONData() {
     fetch('api_response.json')
         .then(response => response.json())
         .then(data => {
-            const lastUpdated = new Date().toLocaleString();
+            const lastUpdated = new Date(data.current_datetime).toLocaleString() || 'N/A';
             updatePageTitleAndHeader(data, lastUpdated);
             displayResults(data);
         })
