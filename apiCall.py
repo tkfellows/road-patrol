@@ -1,7 +1,7 @@
-import os
 import requests
 import json
 from datetime import datetime
+import pytz
 
 def make_api_request():
     url = 'https://rover.camera/api/v2/roads/coverage'
@@ -17,18 +17,21 @@ def make_api_request():
     if response.status_code == 200:
         api_response = response.json()
 
-        # Include the current date and time in the JSON response
-        current_datetime = datetime.now().isoformat()
-        api_response["current_datetime"] = current_datetime
+        # Get the current datetime in UTC
+        current_datetime_utc = datetime.utcnow()
 
-        # Get the absolute path for the output file
-        output_file_path = os.path.join(os.getcwd(), "api_response.json")
+        # Convert the datetime to the Toronto time zone
+        toronto_tz = pytz.timezone('America/Toronto')
+        current_datetime_toronto = current_datetime_utc.replace(tzinfo=pytz.utc).astimezone(toronto_tz)
 
-        # Save the API response to the local file
-        with open(output_file_path, "w") as file:
+        # Include the current datetime in the JSON response
+        api_response["current_datetime"] = current_datetime_toronto.isoformat()
+
+        # Save the API response to a local file named "api_response.json"
+        with open("api_response.json", "w") as file:
             json.dump(api_response, file, indent=2)
 
-        print(f"API response saved to '{output_file_path}'.")
+        print("API response saved to 'api_response.json'.")
     else:
         print(f"Failed to make the API request. Status code: {response.status_code}")
 
