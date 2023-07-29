@@ -10,21 +10,18 @@ def make_api_request():
         # "class_number": "3"
     }
 
-    try:
-        response = requests.post(url, json=data, headers=headers)
-        response.raise_for_status()  # Check for any request errors
-        return response.json()
-    except requests.exceptions.RequestException as e:
-        print(f"Error: {e}")
-        return None
+    response = requests.post(url, headers=headers, json=data)
 
-def save_response_to_file(response_data):
-    if response_data:
-        with open('api_response.json', 'w') as file:
-            json.dump(response_data, file, indent=2)
+    if response.status_code == 200:
+        api_response = response.json()
+
+        # Save the API response to a local file named "api_response.json"
+        with open("api_response.json", "w") as file:
+            json.dump(api_response, file, indent=2)
+
+        print("API response saved to 'api_response.json'.")
+    else:
+        print(f"Failed to make the API request. Status code: {response.status_code}")
 
 if __name__ == "__main__":
-    api_response = make_api_request()
-    if api_response:
-        save_response_to_file(api_response)
-        print("API response saved to 'api_response.json'")
+    make_api_request()
