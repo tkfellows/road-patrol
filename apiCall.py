@@ -1,3 +1,4 @@
+import os
 import requests
 import json
 
@@ -15,11 +16,14 @@ def make_api_request():
     if response.status_code == 200:
         api_response = response.json()
 
-        # Save the API response to a local file named "api_response.json"
-        with open("api_response.json", "w") as file:
+        # Get the absolute path for the output file
+        output_file_path = os.path.join(os.getcwd(), "api_response.json")
+
+        # Save the API response to the local file
+        with open(output_file_path, "w") as file:
             json.dump(api_response, file, indent=2)
 
-        print("API response saved to 'api_response.json'.")
+        print(f"API response saved to '{output_file_path}'.")
     else:
         print(f"Failed to make the API request. Status code: {response.status_code}")
 
