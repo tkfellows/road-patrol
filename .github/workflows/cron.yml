@@ -1,0 +1,21 @@
+name: Scheduled Python Script
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' # Run every 10 minutes
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x' # Replace '3.x' with your desired Python version
+
+    - name: Run Python script
+      run: python apiCall.py
