@@ -1,11 +1,11 @@
 name: Scheduled Python Script
 
-# on:
-#   push: # Run when code is pushed to the repository
-
 on:
-  schedule:
-    - cron: '*/10 * * * *' # Run every 10 minutes
+  push: # Run when code is pushed to the repository
+
+# on:
+#   schedule:
+#     - cron: '*/10 * * * *' # Run every 10 minutes
 
 jobs:
   run-script:
