@@ -5,7 +5,11 @@ function loadJSONData() {
         .then(response => response.json())
         .then(data => {
             var dateStr = data.current_datetime;
-            var lastUpdated = new Date(dateStr).toLocaleString() || 'unknown';
+
+            // Set the options for the time zone and format
+            const options = { timeZone: "America/Toronto", year: "numeric", month: "long", day: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit" };
+
+            var lastUpdated = new Date(dateStr).toLocaleString("en-US", options) || 'unknown';
             updatePageTitleAndHeader(data, lastUpdated);
             displayResults(data);
         })
