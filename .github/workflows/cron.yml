@@ -17,5 +17,8 @@ jobs:
       with:
         python-version: '3.x' # Replace '3.x' with your desired Python version
 
-    - name: Run Python script
-      run: python apiCall.py
+    - name: Run Python Script
+      run: |  
+        python -m pip install --upgrade pip
+        pip install -r python/requirements.txt
+        python python/apiCall.py
