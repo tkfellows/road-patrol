@@ -1,7 +1,7 @@
 name: Scheduled Python Script
 
 on:
-  push: # Run when code is pushed to the repositor y
+  push: # Run when code is pushed to the repository
 
 # on:
 #   schedule:
