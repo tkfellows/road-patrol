@@ -2787,7 +2787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-07-29 17:16:56",
+      "patrolled_datetime": "2023-07-29 17:21:56",
       "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
@@ -9152,5 +9152,6 @@
       "name": "GREMIK CR",
       "type": "Semi-Urban"
     }
-  ]
+  ],
+  "current_datetime": "2023-07-29T17:31:25.618363"
 }
