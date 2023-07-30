@@ -6,10 +6,33 @@ body {
 }
 
 .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+    /* ... Other styles for the container ... */
+
+    /* Add the following flexbox properties to position the filterOptions div */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+
+/* Style the barChart canvas to ensure it fits within its container */
+#barChart {
+    /* ... Other styles for the barChart canvas ... */
+}
+
+/* Style the apiResult pre element (if needed) */
+#apiResult {
+    /* ... Other styles for the apiResult container ... */
+}
+
+/* Style the filterOptions div */
+#filterOptions {
+    /* Add any necessary styling for the filterOptions div */
+    margin-top: 20px; /* Add some top margin to separate it from other elements */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 h1 {
     text-align: center;
