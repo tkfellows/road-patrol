@@ -5,13 +5,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Loading...</title>
     <link rel="stylesheet" href="styles.css"> <!-- Add a separate CSS file for styling -->
-
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css"> <!-- DataTables CSS -->
 </head>
 <body>
     <div class="container">
         <h1 id="pageTitle">TSB Road Patrol -</h1>
+        <!-- <div id="apiResponse"></div> -->
         <pre id="apiResponse"></pre>
     </div>
+    
+    <div class="container">
+        <div id="filterOptions">
+            <label for="dataToPlot">Select data to plot:</label>
+            <select id="dataToPlot">
+                <option value="days_since_patrolled">Days Since Patrolled</option>
+                <option value="class_number">Class Number</option>
+                <option value="type">Type</option>
+                <!-- Add more options for other fields you want to plot -->
+            </select>
+        </div>
+
+    </div>
+
+    <div class="container">
+        <canvas id="barChart" width="400" height="200"></canvas> <!-- Canvas for the bar chart -->
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> <!-- jQuery -->
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script> <!-- DataTables JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.0/dist/chart.min.js"></script> <!-- Chart.js -->
     <script src="script.js"></script>
 </body>
 </html>
