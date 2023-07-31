@@ -3337,7 +3337,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-31 15:02:27",
+      "patrolled_datetime": "2023-07-31 15:02:37",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -7587,8 +7587,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-28 15:57:55",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-07-31 15:12:58",
+      "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-07-31T11:08:11.375217-04:00"
+  "current_datetime": "2023-07-31T11:23:19.853657-04:00"
 }
