@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-31 13:00:45",
+      "patrolled_datetime": "2023-07-31 13:26:14",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -4287,7 +4287,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-31 13:20:32",
+      "patrolled_datetime": "2023-07-31 13:22:47",
       "days_since_patrolled": "0",
       "name": "THIRD AVE N",
       "type": "Semi-Urban"
@@ -4587,8 +4587,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-28 14:31:13",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-07-31 13:23:27",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -8027,8 +8027,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-28 14:29:48",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-07-31 13:23:23",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": "Urban"
     },
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-31 13:03:13",
+      "patrolled_datetime": "2023-07-31 13:23:41",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8047,7 +8047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-31 13:02:53",
+      "patrolled_datetime": "2023-07-31 13:24:02",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8057,7 +8057,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-31 13:02:29",
+      "patrolled_datetime": "2023-07-31 13:24:28",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-31 13:02:02",
+      "patrolled_datetime": "2023-07-31 13:25:34",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-07-31T09:24:54.269662-04:00"
+  "current_datetime": "2023-07-31T09:32:37.516101-04:00"
 }
