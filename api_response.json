@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-31 18:18:51",
+      "patrolled_datetime": "2023-07-31 18:28:52",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-07-31T14:25:49.559419-04:00"
+  "current_datetime": "2023-07-31T14:33:16.435022-04:00"
 }
