@@ -6737,7 +6737,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-01 19:24:36",
+      "patrolled_datetime": "2023-08-01 19:34:38",
       "days_since_patrolled": "0",
       "name": "GUELPH ST",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-01T15:32:38.669168-04:00"
+  "current_datetime": "2023-08-01T15:42:19.885504-04:00"
 }
