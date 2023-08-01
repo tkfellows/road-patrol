@@ -4747,7 +4747,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-01 19:47:18",
+      "patrolled_datetime": "2023-08-01 20:02:33",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -4757,7 +4757,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-01 19:46:31",
+      "patrolled_datetime": "2023-08-01 20:02:17",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -4767,7 +4767,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-01 19:45:35",
+      "patrolled_datetime": "2023-08-01 20:00:59",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -5607,8 +5607,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-28 14:16:04",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-01 19:57:14",
+      "days_since_patrolled": "0",
       "name": "ELEVENTH ST N",
       "type": "Semi-Urban"
     },
@@ -5617,7 +5617,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-01 19:12:17",
+      "patrolled_datetime": "2023-08-01 19:56:09",
       "days_since_patrolled": "0",
       "name": "GREMIK CR",
       "type": "Semi-Urban"
@@ -8807,8 +8807,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-28 14:15:34",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-01 19:56:31",
+      "days_since_patrolled": "0",
       "name": "ELEVENTH ST N",
       "type": "Semi-Urban"
     },
@@ -9037,8 +9037,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-28 14:13:31",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-01 19:54:42",
+      "days_since_patrolled": "0",
       "name": "GREMIK CR",
       "type": "Semi-Urban"
     },
@@ -9047,8 +9047,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-28 14:14:34",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-01 19:55:37",
+      "days_since_patrolled": "0",
       "name": "GREMIK CR",
       "type": "Semi-Urban"
     },
@@ -9057,8 +9057,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-28 14:13:14",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-01 19:54:22",
+      "days_since_patrolled": "0",
       "name": "GREMIK CR",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-01T15:52:19.470492-04:00"
+  "current_datetime": "2023-08-01T16:07:54.847029-04:00"
 }
