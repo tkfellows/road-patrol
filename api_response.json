@@ -267,7 +267,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-01 20:45:18",
+      "patrolled_datetime": "2023-08-01 20:53:34",
       "days_since_patrolled": "0",
       "name": "PLEASANTVIEW RD",
       "type": "Rural"
@@ -1077,8 +1077,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-01 20:56:34",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -1297,8 +1297,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-01 20:54:41",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -1317,8 +1317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-01 20:55:53",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2707,8 +2707,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-01 20:56:37",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2737,8 +2737,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-01 20:56:51",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2747,8 +2747,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-01 20:57:47",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2757,8 +2757,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-01 20:58:25",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2767,8 +2767,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-07-31 12:28:04",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-01 20:59:05",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2787,7 +2787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-01 12:21:51",
+      "patrolled_datetime": "2023-08-01 21:00:06",
       "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
@@ -2797,8 +2797,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-01 20:56:48",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-01T16:52:28.356021-04:00"
+  "current_datetime": "2023-08-01T17:06:48.942343-04:00"
 }
