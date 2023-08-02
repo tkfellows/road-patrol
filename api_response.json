@@ -1967,7 +1967,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-02 13:29:31",
+      "patrolled_datetime": "2023-08-02 13:30:05",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -1997,8 +1997,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-17 18:32:29",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-02 13:30:12",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2017,8 +2017,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-17 18:32:21",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-02 13:30:41",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2027,8 +2027,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-17 18:31:44",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-02 13:41:28",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2037,8 +2037,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-17 18:31:40",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-02 13:41:25",
+      "days_since_patrolled": "0",
       "name": "HEA RD",
       "type": "Rural"
     },
@@ -2047,8 +2047,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-17 18:31:36",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-02 13:41:21",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2057,8 +2057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-17 18:23:45",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-02 13:40:35",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2067,8 +2067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-17 18:23:41",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-02 13:40:32",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -4167,7 +4167,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-02 13:26:52",
+      "patrolled_datetime": "2023-08-02 13:26:59",
       "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
@@ -6207,8 +6207,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-17 18:31:48",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-02 13:41:32",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -7347,8 +7347,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-14 17:21:53",
-      "days_since_patrolled": "19",
+      "patrolled_datetime": "2023-08-02 13:40:38",
+      "days_since_patrolled": "0",
       "name": "SANDY LN",
       "type": "Semi-Urban"
     },
@@ -7357,8 +7357,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-17 17:45:51",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-02 13:40:17",
+      "days_since_patrolled": "0",
       "name": "SYMON AVE",
       "type": "Semi-Urban"
     },
@@ -7377,8 +7377,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-17 18:31:21",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-02 13:41:07",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-02T09:32:32.708149-04:00"
+  "current_datetime": "2023-08-02T09:42:19.521649-04:00"
 }
