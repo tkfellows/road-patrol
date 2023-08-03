@@ -857,8 +857,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-01 15:06:58",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-08-03 18:14:52",
+      "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
     },
@@ -1147,8 +1147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-02 16:15:44",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:11:34",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -1677,8 +1677,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-02 16:12:10",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:07:52",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2457,8 +2457,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-02 16:14:33",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:10:20",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2867,8 +2867,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-02 16:17:25",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:13:10",
+      "days_since_patrolled": "0",
       "name": "OLD OLIPHANT RD",
       "type": "Rural"
     },
@@ -3687,8 +3687,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-31 19:02:41",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-03 18:13:34",
+      "days_since_patrolled": "0",
       "name": "WATSON ST",
       "type": "Semi-Urban"
     },
@@ -4177,8 +4177,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-02 13:26:45",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:03:37",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4187,8 +4187,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-02 13:24:36",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:05:51",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4297,8 +4297,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-02 13:26:30",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:05:43",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4397,8 +4397,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-02 16:10:42",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:06:26",
+      "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": ""
     },
@@ -6487,8 +6487,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-02 16:18:21",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:14:07",
+      "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Urban"
     },
@@ -6507,8 +6507,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-02 16:18:00",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:13:45",
+      "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Semi-Urban"
     },
@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-03 15:32:52",
+      "patrolled_datetime": "2023-08-03 18:20:27",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -8497,8 +8497,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-02 16:18:11",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:13:56",
+      "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Semi-Urban"
     },
@@ -8507,8 +8507,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-02 16:18:33",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:14:22",
+      "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Urban"
     },
@@ -8517,8 +8517,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-02 16:19:05",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:14:44",
+      "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
     },
@@ -8527,8 +8527,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-02 16:19:31",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-03 18:15:11",
+      "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-03T14:09:20.622958-04:00"
+  "current_datetime": "2023-08-03T14:25:11.116532-04:00"
 }
