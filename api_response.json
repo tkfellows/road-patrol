@@ -1147,8 +1147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-03 18:42:27",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-04 14:27:01",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -1677,8 +1677,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-03 18:46:30",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-04 14:23:10",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2457,8 +2457,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-03 18:45:04",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-04 14:25:47",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2867,8 +2867,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-03 18:41:06",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-04 14:27:23",
+      "days_since_patrolled": "0",
       "name": "OLD OLIPHANT RD",
       "type": "Rural"
     },
@@ -4307,8 +4307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-03 18:47:39",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-04 14:21:09",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-04 14:14:45",
+      "patrolled_datetime": "2023-08-04 14:20:28",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4397,8 +4397,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-03 18:46:55",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-04 14:21:38",
+      "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-04T10:21:17.754967-04:00"
+  "current_datetime": "2023-08-04T10:32:37.603085-04:00"
 }
