@@ -217,7 +217,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-04 12:25:38",
+      "patrolled_datetime": "2023-08-04 15:28:15",
       "days_since_patrolled": "0",
       "name": "PINE TREE DR",
       "type": "Semi-Urban"
@@ -2787,7 +2787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-04 12:25:14",
+      "patrolled_datetime": "2023-08-04 15:36:22",
       "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
@@ -3587,7 +3587,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-04 12:26:13",
+      "patrolled_datetime": "2023-08-04 15:28:23",
       "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
@@ -3597,7 +3597,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-04 15:27:20",
+      "patrolled_datetime": "2023-08-04 15:27:31",
       "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
@@ -3877,7 +3877,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-04 12:25:27",
+      "patrolled_datetime": "2023-08-04 15:28:30",
       "days_since_patrolled": "0",
       "name": "STONE SCHOOL RD",
       "type": "Rural"
@@ -7777,7 +7777,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-04 12:25:31",
+      "patrolled_datetime": "2023-08-04 15:28:19",
       "days_since_patrolled": "0",
       "name": "PINE TREE DR",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-04T11:32:46.800790-04:00"
+  "current_datetime": "2023-08-04T11:42:18.404562-04:00"
 }
