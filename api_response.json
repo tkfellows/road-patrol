@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 14:42:30",
+      "patrolled_datetime": "2023-08-08 14:56:00",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -4587,8 +4587,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-05 13:35:20",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-08 14:58:43",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -4597,8 +4597,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-05 13:35:09",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-08 14:59:04",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -4617,8 +4617,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-08 14:59:27",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -4687,8 +4687,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-05 13:31:54",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-08 15:01:23",
+      "days_since_patrolled": "0",
       "name": "NINTH ST S",
       "type": "Semi-Urban"
     },
@@ -8037,8 +8037,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-05 15:51:33",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-08 14:58:35",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8047,8 +8047,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-05 15:51:51",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-08 14:58:05",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8057,8 +8057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-05 15:52:14",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-08 14:57:45",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8067,8 +8067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-05 15:53:14",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-08 14:57:22",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-08T10:52:19.062109-04:00"
+  "current_datetime": "2023-08-08T11:07:41.595435-04:00"
 }
