@@ -1167,8 +1167,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-09 20:35:22",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-10 16:35:44",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
     },
@@ -2237,8 +2237,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-09 20:34:18",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-10 16:37:10",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
     },
@@ -2497,8 +2497,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-09 20:34:31",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-10 16:35:59",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
     },
@@ -5877,7 +5877,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 16:34:29",
+      "patrolled_datetime": "2023-08-10 16:34:40",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -6537,8 +6537,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-09 20:33:05",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-10 16:38:43",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
     },
@@ -7067,8 +7067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-09 20:35:29",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-10 16:34:50",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
     },
@@ -8037,8 +8037,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-09 13:07:27",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-10 16:40:32",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8047,8 +8047,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-09 13:07:48",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-10 16:40:28",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8057,8 +8057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-09 13:08:08",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-10 16:40:05",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8067,8 +8067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-09 13:09:15",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-10 16:39:42",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-10T12:38:33.605447-04:00"
+  "current_datetime": "2023-08-10T12:45:47.564317-04:00"
 }
