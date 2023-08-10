@@ -367,8 +367,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-10 17:29:22",
+      "days_since_patrolled": "0",
       "name": "OLD RED BAY RD",
       "type": "Rural"
     },
@@ -797,8 +797,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-25 18:33:01",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-10 17:29:55",
+      "days_since_patrolled": "0",
       "name": "OLD RED BAY RD",
       "type": "Rural"
     },
@@ -4157,8 +4157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-08 18:20:22",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-08-10 17:25:24",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4167,8 +4167,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-08 18:20:37",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-08-10 17:24:55",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4177,8 +4177,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-08 18:20:54",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-08-10 17:24:44",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4187,8 +4187,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-03 18:05:51",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-08-10 17:22:14",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4297,8 +4297,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-03 18:05:43",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-08-10 17:24:21",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4307,8 +4307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-08 19:57:09",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-08-10 17:21:58",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 17:14:21",
+      "patrolled_datetime": "2023-08-10 17:21:13",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -7787,8 +7787,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-08 18:19:56",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-08-10 17:26:22",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -7827,8 +7827,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-19 14:00:34",
-      "days_since_patrolled": "22",
+      "patrolled_datetime": "2023-08-10 17:27:06",
+      "days_since_patrolled": "0",
       "name": "AMABEL-ALBEMARLE",
       "type": "Rural"
     },
@@ -7857,8 +7857,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 17:34:02",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-08-10 17:31:36",
+      "days_since_patrolled": "0",
       "name": "SHORELINE AVE",
       "type": "Semi-Urban"
     },
@@ -7897,8 +7897,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 17:29:59",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-08-10 17:22:05",
+      "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": "Semi-Urban"
     },
@@ -8137,7 +8137,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 17:16:28",
+      "patrolled_datetime": "2023-08-10 17:17:29",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8147,7 +8147,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 17:15:59",
+      "patrolled_datetime": "2023-08-10 17:17:36",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8157,7 +8157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 17:15:55",
+      "patrolled_datetime": "2023-08-10 17:19:08",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8337,7 +8337,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-10 17:16:35",
+      "patrolled_datetime": "2023-08-10 17:16:54",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS RD",
       "type": "Semi-Urban"
@@ -8347,8 +8347,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 17:50:55",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-08-10 17:30:58",
+      "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-10T13:20:37.788061-04:00"
+  "current_datetime": "2023-08-10T13:32:43.165493-04:00"
 }
