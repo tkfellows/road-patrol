@@ -1257,8 +1257,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 17:30:39",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-08-10 17:36:17",
+      "days_since_patrolled": "0",
       "name": "SHORELINE AVE",
       "type": "Semi-Urban"
     },
@@ -3967,8 +3967,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-27 13:24:04",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-10 17:37:38",
+      "days_since_patrolled": "0",
       "name": "BOULTON ST",
       "type": "Semi-Urban"
     },
@@ -7857,7 +7857,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-10 17:31:36",
+      "patrolled_datetime": "2023-08-10 17:35:13",
       "days_since_patrolled": "0",
       "name": "SHORELINE AVE",
       "type": "Semi-Urban"
@@ -7897,7 +7897,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-10 17:22:05",
+      "patrolled_datetime": "2023-08-10 17:36:53",
       "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-10T13:32:43.165493-04:00"
+  "current_datetime": "2023-08-10T13:42:16.546215-04:00"
 }
