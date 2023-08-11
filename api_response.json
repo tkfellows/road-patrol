@@ -217,8 +217,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-10 19:38:07",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:09:11",
+      "days_since_patrolled": "0",
       "name": "PINE TREE DR",
       "type": "Semi-Urban"
     },
@@ -777,8 +777,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 14:35:45",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-11 16:19:38",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -787,8 +787,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-03 14:12:01",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-08-11 16:18:49",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
     },
@@ -1157,8 +1157,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-26 17:36:36",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-11 16:15:59",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
     },
@@ -3587,8 +3587,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-10 19:38:01",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:09:44",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
     },
@@ -3597,8 +3597,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-10 19:37:28",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:10:31",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
     },
@@ -3777,8 +3777,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 19:36:12",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:10:43",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -3787,8 +3787,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 19:36:01",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:10:55",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -3797,8 +3797,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-26 17:38:01",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-11 16:14:44",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
     },
@@ -3837,8 +3837,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 19:35:46",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:11:21",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -3847,8 +3847,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 19:35:24",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:11:48",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -3857,8 +3857,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-11 16:13:03",
+      "days_since_patrolled": "0",
       "name": "LEGION RD",
       "type": "Rural"
     },
@@ -3877,8 +3877,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-10 19:41:24",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:07:48",
+      "days_since_patrolled": "0",
       "name": "STONE SCHOOL RD",
       "type": "Rural"
     },
@@ -5887,8 +5887,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-11 16:12:03",
+      "days_since_patrolled": "0",
       "name": "LEGION RD",
       "type": "Rural"
     },
@@ -7097,7 +7097,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-11 16:04:36",
+      "patrolled_datetime": "2023-08-11 16:05:58",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
@@ -7777,8 +7777,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-10 19:39:30",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:09:04",
+      "days_since_patrolled": "0",
       "name": "PINE TREE DR",
       "type": "Semi-Urban"
     },
@@ -8757,8 +8757,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-26 17:39:10",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-11 16:13:12",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-11T12:09:00.941608-04:00"
+  "current_datetime": "2023-08-11T12:24:41.639257-04:00"
 }
