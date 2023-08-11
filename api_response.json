@@ -1537,8 +1537,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 20:11:06",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 15:59:48",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -2787,7 +2787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-11 15:46:37",
+      "patrolled_datetime": "2023-08-11 15:58:22",
       "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
@@ -2807,8 +2807,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 20:11:03",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:02:03",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -2817,8 +2817,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 19:45:28",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:04:32",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -4457,8 +4457,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 12:04:33",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 15:58:25",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -7097,8 +7097,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 19:42:55",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-11 16:04:36",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-11T11:52:20.544518-04:00"
+  "current_datetime": "2023-08-11T12:09:00.941608-04:00"
 }
