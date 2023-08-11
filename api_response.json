@@ -2787,7 +2787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-11 08:58:59",
+      "patrolled_datetime": "2023-08-11 09:09:00",
       "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-11T05:07:31.487389-04:00"
+  "current_datetime": "2023-08-11T05:19:01.692084-04:00"
 }
