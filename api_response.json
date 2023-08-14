@@ -217,7 +217,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 12:33:57",
+      "patrolled_datetime": "2023-08-14 20:41:31",
       "days_since_patrolled": "0",
       "name": "PINE TREE DR",
       "type": "Semi-Urban"
@@ -2817,7 +2817,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-14 19:58:13",
+      "patrolled_datetime": "2023-08-14 20:46:46",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
@@ -3587,7 +3587,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-14 12:34:27",
+      "patrolled_datetime": "2023-08-14 20:41:22",
       "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
@@ -3597,7 +3597,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-14 12:34:38",
+      "patrolled_datetime": "2023-08-14 20:40:46",
       "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
@@ -3777,7 +3777,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-14 19:28:17",
+      "patrolled_datetime": "2023-08-14 20:40:17",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3787,7 +3787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-14 19:28:28",
+      "patrolled_datetime": "2023-08-14 20:39:49",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3837,7 +3837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-14 19:28:56",
+      "patrolled_datetime": "2023-08-14 20:39:34",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3847,7 +3847,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-14 19:29:22",
+      "patrolled_datetime": "2023-08-14 20:39:11",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3877,7 +3877,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 12:32:32",
+      "patrolled_datetime": "2023-08-14 20:44:45",
       "days_since_patrolled": "0",
       "name": "STONE SCHOOL RD",
       "type": "Rural"
@@ -5877,7 +5877,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-14 20:37:58",
+      "patrolled_datetime": "2023-08-14 20:38:45",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -7097,7 +7097,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-14 12:30:43",
+      "patrolled_datetime": "2023-08-14 20:46:14",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
@@ -7777,7 +7777,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 12:33:46",
+      "patrolled_datetime": "2023-08-14 20:42:49",
       "days_since_patrolled": "0",
       "name": "PINE TREE DR",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-14T16:42:25.304617-04:00"
+  "current_datetime": "2023-08-14T16:52:20.402093-04:00"
 }
