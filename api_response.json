@@ -397,8 +397,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-31 17:40:43",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-14 20:18:41",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -407,8 +407,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 20:09:12",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-14 20:26:40",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -1667,7 +1667,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 20:11:10",
+      "patrolled_datetime": "2023-08-14 20:13:55",
       "days_since_patrolled": "0",
       "name": "SKIPNESS RD W",
       "type": "Rural"
@@ -1747,8 +1747,8 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 19:19:08",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-14 20:28:46",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2227,8 +2227,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 19:32:28",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-14 20:28:34",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -2357,7 +2357,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 20:10:32",
+      "patrolled_datetime": "2023-08-14 20:14:55",
       "days_since_patrolled": "0",
       "name": "C LINE RD",
       "type": "Rural"
@@ -2677,8 +2677,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-14 20:15:44",
+      "days_since_patrolled": "0",
       "name": "C LINE",
       "type": "Rural"
     },
@@ -6587,8 +6587,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-14 20:16:54",
+      "days_since_patrolled": "0",
       "name": "HIGH HILL RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-14T16:20:27.036968-04:00"
+  "current_datetime": "2023-08-14T16:32:44.191828-04:00"
 }
