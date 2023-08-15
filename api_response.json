@@ -1127,8 +1127,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-02 13:51:51",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-15 18:02:54",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -1137,8 +1137,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 18:30:23",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-08-15 18:00:33",
+      "days_since_patrolled": "0",
       "name": "GREIG SETTLEMENT RD",
       "type": "Rural"
     },
@@ -2417,8 +2417,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-02 13:49:29",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-15 18:08:00",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -2437,7 +2437,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-15 17:58:45",
+      "patrolled_datetime": "2023-08-15 17:59:06",
       "days_since_patrolled": "0",
       "name": "QUARRY RD",
       "type": "Rural"
@@ -3207,8 +3207,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-02 13:48:40",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-15 18:08:30",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -3217,8 +3217,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-02 13:48:57",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-15 18:08:15",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -5027,8 +5027,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-15 18:07:21",
+      "days_since_patrolled": "0",
       "name": "BIRCH LN",
       "type": "Rural"
     },
@@ -8307,8 +8307,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-03 17:39:44",
-      "days_since_patrolled": "12",
+      "patrolled_datetime": "2023-08-15 18:10:53",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -8487,8 +8487,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-03 17:40:43",
-      "days_since_patrolled": "12",
+      "patrolled_datetime": "2023-08-15 18:10:10",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-15T14:09:09.999556-04:00"
+  "current_datetime": "2023-08-15T14:24:11.292502-04:00"
 }
