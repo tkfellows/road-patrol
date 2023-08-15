@@ -927,8 +927,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-15 16:28:45",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -1077,8 +1077,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-08 15:37:00",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-08-15 16:25:04",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -1277,8 +1277,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-15 16:28:07",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -1287,8 +1287,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-15 16:27:18",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -1307,8 +1307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-15 16:26:25",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -1317,8 +1317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-08 15:36:15",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-08-15 16:25:55",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -1647,8 +1647,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-15 16:28:14",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2707,8 +2707,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-01 20:56:37",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-15 16:24:23",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2737,8 +2737,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-01 20:56:51",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-15 16:24:12",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2747,8 +2747,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-01 20:57:47",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-15 16:24:08",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2757,7 +2757,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-15 16:22:46",
+      "patrolled_datetime": "2023-08-15 16:23:12",
       "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
@@ -2797,8 +2797,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-01 20:56:48",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-15 16:24:19",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-15T12:27:25.097503-04:00"
+  "current_datetime": "2023-08-15T12:36:29.097242-04:00"
 }
