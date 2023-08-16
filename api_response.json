@@ -1167,7 +1167,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:28:20",
+      "patrolled_datetime": "2023-08-16 19:56:19",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -1607,7 +1607,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-16 12:25:13",
+      "patrolled_datetime": "2023-08-16 19:58:35",
       "days_since_patrolled": "0",
       "name": "",
       "type": ""
@@ -2237,7 +2237,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:29:43",
+      "patrolled_datetime": "2023-08-16 19:55:21",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -2497,7 +2497,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:28:36",
+      "patrolled_datetime": "2023-08-16 19:55:33",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -2807,7 +2807,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:16:37",
+      "patrolled_datetime": "2023-08-16 20:04:05",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
@@ -2817,7 +2817,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:18:59",
+      "patrolled_datetime": "2023-08-16 20:03:33",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
@@ -3307,8 +3307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-11 20:34:40",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-08-16 20:00:31",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -3777,7 +3777,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:25:17",
+      "patrolled_datetime": "2023-08-16 19:58:59",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3787,7 +3787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:25:33",
+      "patrolled_datetime": "2023-08-16 19:58:25",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3837,7 +3837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:25:55",
+      "patrolled_datetime": "2023-08-16 19:58:14",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3847,7 +3847,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:26:23",
+      "patrolled_datetime": "2023-08-16 19:57:51",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3867,8 +3867,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-31 14:40:52",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-16 19:59:51",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -4907,7 +4907,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 18:41:02",
+      "patrolled_datetime": "2023-08-16 19:50:49",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4917,7 +4917,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 18:41:16",
+      "patrolled_datetime": "2023-08-16 19:49:46",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4927,7 +4927,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 18:41:20",
+      "patrolled_datetime": "2023-08-16 19:49:32",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4937,7 +4937,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 18:41:54",
+      "patrolled_datetime": "2023-08-16 19:49:10",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -5137,7 +5137,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 18:42:17",
+      "patrolled_datetime": "2023-08-16 19:48:50",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -5147,7 +5147,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 18:42:38",
+      "patrolled_datetime": "2023-08-16 19:48:30",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -5157,7 +5157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 19:46:08",
+      "patrolled_datetime": "2023-08-16 19:48:08",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -5877,7 +5877,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:27:20",
+      "patrolled_datetime": "2023-08-16 19:57:27",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -6157,7 +6157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 18:41:36",
+      "patrolled_datetime": "2023-08-16 19:49:28",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -6167,8 +6167,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-31 14:49:03",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-08-16 19:59:36",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -6537,7 +6537,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 17:55:55",
+      "patrolled_datetime": "2023-08-16 19:54:14",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -7067,7 +7067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:27:32",
+      "patrolled_datetime": "2023-08-16 19:56:31",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -7097,7 +7097,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 12:20:21",
+      "patrolled_datetime": "2023-08-16 20:02:01",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
@@ -7757,8 +7757,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-10 19:37:07",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-08-16 19:59:24",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 18:03:53",
+      "patrolled_datetime": "2023-08-16 19:51:10",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8047,7 +8047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 18:04:11",
+      "patrolled_datetime": "2023-08-16 19:51:28",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8057,7 +8057,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 18:04:32",
+      "patrolled_datetime": "2023-08-16 19:51:50",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 18:15:09",
+      "patrolled_datetime": "2023-08-16 19:52:47",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-16T15:52:33.186108-04:00"
+  "current_datetime": "2023-08-16T16:08:10.932600-04:00"
 }
