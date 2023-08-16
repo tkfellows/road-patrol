@@ -2557,7 +2557,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 17:30:29",
+      "patrolled_datetime": "2023-08-16 17:48:22",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -2647,7 +2647,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 17:36:43",
+      "patrolled_datetime": "2023-08-16 17:42:29",
       "days_since_patrolled": "0",
       "name": "DAVID DR",
       "type": "Semi-Urban"
@@ -2657,8 +2657,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-03 13:07:04",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-16 17:44:03",
+      "days_since_patrolled": "0",
       "name": "MACDONALD ST",
       "type": "Semi-Urban"
     },
@@ -6947,7 +6947,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 17:31:14",
+      "patrolled_datetime": "2023-08-16 17:46:40",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -6957,7 +6957,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 17:30:43",
+      "patrolled_datetime": "2023-08-16 17:46:55",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -8327,8 +8327,8 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 19:17:50",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-08-16 17:49:08",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-16T13:42:41.868415-04:00"
+  "current_datetime": "2023-08-16T13:52:21.696301-04:00"
 }
