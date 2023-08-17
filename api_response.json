@@ -1147,7 +1147,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 13:22:07",
+      "patrolled_datetime": "2023-08-17 13:22:24",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -1677,8 +1677,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 13:49:10",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 13:26:05",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2457,8 +2457,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 13:51:34",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 13:24:55",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -3677,8 +3677,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 19:35:38",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 13:44:42",
+      "days_since_patrolled": "0",
       "name": "FIDDLEHEAD LN",
       "type": "Semi-Urban"
     },
@@ -3967,8 +3967,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 19:36:39",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 13:45:49",
+      "days_since_patrolled": "0",
       "name": "BOULTON ST",
       "type": "Semi-Urban"
     },
@@ -3977,8 +3977,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 19:34:55",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 13:44:24",
+      "days_since_patrolled": "0",
       "name": "TELFORD S",
       "type": "Semi-Urban"
     },
@@ -3987,8 +3987,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 19:16:20",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 13:33:31",
+      "days_since_patrolled": "0",
       "name": "PHILLIPS PL",
       "type": "Semi-Urban"
     },
@@ -4307,8 +4307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 19:39:11",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 13:47:58",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4317,8 +4317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 19:44:09",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 13:49:33",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4397,8 +4397,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 13:47:50",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 13:26:56",
+      "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": ""
     },
@@ -7897,8 +7897,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 19:38:26",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 13:47:16",
+      "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": "Semi-Urban"
     },
@@ -8857,8 +8857,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 19:16:32",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 13:34:40",
+      "days_since_patrolled": "0",
       "name": "PHILLIPS PL",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-17T09:42:35.004717-04:00"
+  "current_datetime": "2023-08-17T09:52:38.265701-04:00"
 }
