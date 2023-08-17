@@ -1517,8 +1517,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 15:11:40",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 15:16:07",
+      "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
     },
@@ -2837,7 +2837,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-17 14:56:57",
+      "patrolled_datetime": "2023-08-17 15:15:54",
       "days_since_patrolled": "0",
       "name": "ELM RD",
       "type": "Rural"
@@ -3367,7 +3367,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-17 15:03:54",
+      "patrolled_datetime": "2023-08-17 15:13:48",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
@@ -3387,7 +3387,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-17 14:58:15",
+      "patrolled_datetime": "2023-08-17 15:14:14",
       "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Urban"
@@ -3397,7 +3397,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-17 14:57:53",
+      "patrolled_datetime": "2023-08-17 15:15:11",
       "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Rural"
@@ -5997,7 +5997,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-17 12:47:44",
+      "patrolled_datetime": "2023-08-17 15:13:25",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-17T11:07:17.298741-04:00"
+  "current_datetime": "2023-08-17T11:19:54.510694-04:00"
 }
