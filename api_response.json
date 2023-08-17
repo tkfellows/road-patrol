@@ -1537,7 +1537,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 12:06:47",
+      "patrolled_datetime": "2023-08-17 12:28:41",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
@@ -2787,7 +2787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-17 12:06:40",
+      "patrolled_datetime": "2023-08-17 12:27:34",
       "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
@@ -2807,7 +2807,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 12:08:12",
+      "patrolled_datetime": "2023-08-17 12:31:06",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
@@ -2817,8 +2817,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 20:03:33",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 12:33:33",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -3877,8 +3877,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 12:22:15",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 12:36:08",
+      "days_since_patrolled": "0",
       "name": "STONE SCHOOL RD",
       "type": "Rural"
     },
@@ -4457,8 +4457,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 20:05:58",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 12:27:37",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -7097,8 +7097,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 20:02:01",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 12:35:01",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-17T08:13:36.107753-04:00"
+  "current_datetime": "2023-08-17T08:40:51.701297-04:00"
 }
