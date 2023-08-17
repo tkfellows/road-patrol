@@ -1537,8 +1537,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 21:54:24",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 12:06:47",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -2787,7 +2787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-17 11:47:39",
+      "patrolled_datetime": "2023-08-17 12:06:40",
       "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
@@ -2807,8 +2807,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 21:54:20",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-17 12:08:12",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-17T07:52:35.156388-04:00"
+  "current_datetime": "2023-08-17T08:13:36.107753-04:00"
 }
