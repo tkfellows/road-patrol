@@ -4907,8 +4907,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 16:26:02",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-18 15:27:29",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4917,8 +4917,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 16:26:18",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-18 15:27:10",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4927,8 +4927,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 16:26:22",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-18 15:26:49",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4937,8 +4937,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 16:26:59",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-18 15:26:27",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -5137,8 +5137,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 16:27:19",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-18 15:26:09",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -5147,8 +5147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 16:27:43",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-18 15:25:46",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -5157,8 +5157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 16:14:03",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-18 15:25:18",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -6157,8 +6157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 16:26:41",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-18 15:26:45",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8037,8 +8037,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 19:12:04",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-18 15:28:05",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8137,8 +8137,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 16:44:07",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-18 15:23:30",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8147,8 +8147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-17 16:44:10",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-18 15:23:07",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8157,7 +8157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-18 15:22:04",
+      "patrolled_datetime": "2023-08-18 15:23:03",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-18T11:26:41.905499-04:00"
+  "current_datetime": "2023-08-18T11:34:12.869153-04:00"
 }
