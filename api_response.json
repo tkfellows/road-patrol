@@ -2527,8 +2527,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-17 16:22:42",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-21 17:07:19",
+      "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
     },
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-21 17:01:30",
+      "patrolled_datetime": "2023-08-21 17:07:12",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-21 16:30:42",
+      "patrolled_datetime": "2023-08-21 17:14:33",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8047,7 +8047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-21 16:31:01",
+      "patrolled_datetime": "2023-08-21 17:09:05",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8057,7 +8057,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-21 16:31:26",
+      "patrolled_datetime": "2023-08-21 17:08:47",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-21 16:32:30",
+      "patrolled_datetime": "2023-08-21 17:08:24",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-21T13:07:00.297588-04:00"
+  "current_datetime": "2023-08-21T13:20:49.361997-04:00"
 }
