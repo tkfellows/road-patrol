@@ -1687,8 +1687,8 @@
       "class_number": "4",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-03 17:46:16",
-      "days_since_patrolled": "18",
+      "patrolled_datetime": "2023-08-21 15:28:09",
+      "days_since_patrolled": "0",
       "name": "RED BAY RD",
       "type": "Rural"
     },
@@ -2927,7 +2927,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-21 15:16:06",
+      "patrolled_datetime": "2023-08-21 15:16:13",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -2937,8 +2937,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-15 18:16:40",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-08-21 15:18:59",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -8267,8 +8267,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-15 18:11:57",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-08-21 15:21:39",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -8307,8 +8307,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-15 18:11:35",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-08-21 15:23:00",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -8487,8 +8487,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-15 18:10:10",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-08-21 15:24:16",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -8787,7 +8787,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-21 14:52:54",
+      "patrolled_datetime": "2023-08-21 14:54:08",
       "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-21T11:20:42.536207-04:00"
+  "current_datetime": "2023-08-21T11:32:54.991739-04:00"
 }
