@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-21 16:03:33",
+      "patrolled_datetime": "2023-08-21 16:15:34",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4747,8 +4747,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-04 13:08:22",
-      "days_since_patrolled": "17",
+      "patrolled_datetime": "2023-08-21 16:21:55",
+      "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
     },
@@ -5157,8 +5157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-18 15:25:28",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-21 16:19:42",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -5507,8 +5507,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-17 16:28:53",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-21 16:21:10",
+      "days_since_patrolled": "0",
       "name": "SIXTH ST N",
       "type": "Semi-Urban"
     },
@@ -8137,8 +8137,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-18 15:23:30",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-21 16:17:31",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8147,8 +8147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-18 15:23:07",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-21 16:17:07",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8157,8 +8157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-18 15:23:03",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-21 16:17:03",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8337,8 +8337,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-17 16:43:18",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-21 16:17:34",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS RD",
       "type": "Semi-Urban"
     },
@@ -8747,8 +8747,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-04 13:08:42",
-      "days_since_patrolled": "17",
+      "patrolled_datetime": "2023-08-21 16:22:09",
+      "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-21T12:09:40.089373-04:00"
+  "current_datetime": "2023-08-21T12:27:44.454993-04:00"
 }
