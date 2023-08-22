@@ -1407,8 +1407,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 18:34:25",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-22 16:09:02",
+      "days_since_patrolled": "0",
       "name": "BERFORD LAKE RD",
       "type": "Rural"
     },
@@ -1477,7 +1477,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 16:04:09",
+      "patrolled_datetime": "2023-08-22 16:04:23",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -1627,8 +1627,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-21 14:44:59",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 16:08:05",
+      "days_since_patrolled": "0",
       "name": "",
       "type": ""
     },
@@ -2887,8 +2887,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-18 14:59:00",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-22 16:05:03",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -3167,8 +3167,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 18:37:16",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-22 16:10:19",
+      "days_since_patrolled": "0",
       "name": "ROUSE RD",
       "type": "Rural"
     },
@@ -3177,8 +3177,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 18:35:47",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-22 16:10:15",
+      "days_since_patrolled": "0",
       "name": "BERFORD LAKE RD",
       "type": "Rural"
     },
@@ -3317,8 +3317,8 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-21 14:43:30",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 16:06:42",
+      "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Semi-Urban"
     },
@@ -3717,8 +3717,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-21 14:43:14",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 16:05:57",
+      "days_since_patrolled": "0",
       "name": "JENNY",
       "type": ""
     },
@@ -3727,8 +3727,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-18 14:57:39",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-22 16:05:46",
+      "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
     },
@@ -5827,8 +5827,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-21 14:45:16",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 16:08:27",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -5837,8 +5837,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-18 14:58:18",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-22 16:05:39",
+      "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
     },
@@ -6607,8 +6607,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-21 14:44:42",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 16:07:54",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-22T12:09:33.976718-04:00"
+  "current_datetime": "2023-08-22T12:27:32.255329-04:00"
 }
