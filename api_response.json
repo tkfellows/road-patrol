@@ -487,8 +487,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-28 16:35:09",
-      "days_since_patrolled": "25",
+      "patrolled_datetime": "2023-08-22 17:12:39",
+      "days_since_patrolled": "0",
       "name": "BEECH ST",
       "type": "Rural"
     },
@@ -507,8 +507,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-22 17:11:33",
+      "days_since_patrolled": "0",
       "name": "WATER ST",
       "type": "Semi-Urban"
     },
@@ -517,8 +517,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-28 16:33:31",
-      "days_since_patrolled": "25",
+      "patrolled_datetime": "2023-08-22 17:11:14",
+      "days_since_patrolled": "0",
       "name": "HOPE BAY RD",
       "type": "Semi-Urban"
     },
@@ -1107,8 +1107,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-22 17:18:33",
+      "days_since_patrolled": "0",
       "name": "KING\\'S CR",
       "type": "Rural"
     },
@@ -2907,8 +2907,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-28 16:36:31",
-      "days_since_patrolled": "25",
+      "patrolled_datetime": "2023-08-22 17:13:54",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2917,8 +2917,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-07-28 16:38:07",
-      "days_since_patrolled": "25",
+      "patrolled_datetime": "2023-08-22 17:13:58",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -3167,7 +3167,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-22 16:11:03",
+      "patrolled_datetime": "2023-08-22 16:11:36",
       "days_since_patrolled": "0",
       "name": "ROUSE RD",
       "type": "Rural"
@@ -3237,8 +3237,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-15 18:24:33",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-08-22 16:58:57",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -3247,8 +3247,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-21 15:06:00",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 16:57:51",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -6327,7 +6327,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-22 16:21:08",
+      "patrolled_datetime": "2023-08-22 16:55:41",
       "days_since_patrolled": "0",
       "name": "COVENEY\\'S RD",
       "type": "Rural"
@@ -8357,8 +8357,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-21 15:15:17",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 17:02:26",
+      "days_since_patrolled": "0",
       "name": "WAUGH\\'S RD",
       "type": "Rural"
     },
@@ -8827,7 +8827,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-22 16:42:09",
+      "patrolled_datetime": "2023-08-22 16:53:53",
       "days_since_patrolled": "0",
       "name": "COVENEY\\'S RD",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-22T13:07:07.307199-04:00"
+  "current_datetime": "2023-08-22T13:21:10.377763-04:00"
 }
