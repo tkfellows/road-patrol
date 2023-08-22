@@ -3927,7 +3927,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-22 13:42:14",
+      "patrolled_datetime": "2023-08-22 15:35:32",
       "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Semi-Urban"
@@ -4297,7 +4297,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 12:46:52",
+      "patrolled_datetime": "2023-08-22 15:37:08",
       "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
@@ -8347,7 +8347,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-22 15:26:51",
+      "patrolled_datetime": "2023-08-22 15:34:33",
       "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-22T11:32:48.401296-04:00"
+  "current_datetime": "2023-08-22T11:42:27.684904-04:00"
 }
