@@ -4187,7 +4187,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 15:38:14",
+      "patrolled_datetime": "2023-08-22 17:38:14",
       "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
@@ -4297,7 +4297,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 17:37:08",
+      "patrolled_datetime": "2023-08-22 17:38:07",
       "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
@@ -4307,7 +4307,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 15:58:47",
+      "patrolled_datetime": "2023-08-22 17:39:00",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 15:57:52",
+      "patrolled_datetime": "2023-08-22 17:45:40",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-22T13:42:36.785961-04:00"
+  "current_datetime": "2023-08-22T13:52:26.482388-04:00"
 }
