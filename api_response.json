@@ -1107,7 +1107,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-22 17:18:33",
+      "patrolled_datetime": "2023-08-22 17:19:23",
       "days_since_patrolled": "0",
       "name": "KING\\'S CR",
       "type": "Rural"
@@ -1687,8 +1687,8 @@
       "class_number": "4",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-21 15:29:57",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 17:28:10",
+      "days_since_patrolled": "0",
       "name": "RED BAY RD",
       "type": "Rural"
     },
@@ -2937,8 +2937,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-21 15:18:59",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 17:22:08",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -8267,8 +8267,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-21 15:21:39",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 17:24:35",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -8307,8 +8307,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-21 15:23:00",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 17:25:50",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -8487,8 +8487,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-21 15:24:16",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-22 17:26:52",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-22T13:21:10.377763-04:00"
+  "current_datetime": "2023-08-22T13:32:50.123371-04:00"
 }
