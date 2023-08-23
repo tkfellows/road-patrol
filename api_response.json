@@ -4747,7 +4747,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 13:28:07",
+      "patrolled_datetime": "2023-08-23 17:41:05",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -4757,7 +4757,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 13:27:37",
+      "patrolled_datetime": "2023-08-23 17:51:28",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -4907,7 +4907,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-23 17:21:11",
+      "patrolled_datetime": "2023-08-23 17:37:24",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4917,7 +4917,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-23 17:21:29",
+      "patrolled_datetime": "2023-08-23 17:37:41",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4927,7 +4927,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-23 17:21:33",
+      "patrolled_datetime": "2023-08-23 17:37:48",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4937,7 +4937,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-23 17:22:11",
+      "patrolled_datetime": "2023-08-23 17:38:31",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -5197,8 +5197,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-23 17:38:39",
+      "days_since_patrolled": "0",
       "name": "DUFFERIN AVE",
       "type": "Semi-Urban"
     },
@@ -5217,8 +5217,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-23 17:39:02",
+      "days_since_patrolled": "0",
       "name": "GREY AVE",
       "type": "Semi-Urban"
     },
@@ -6157,7 +6157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-23 17:21:51",
+      "patrolled_datetime": "2023-08-23 17:38:06",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8167,7 +8167,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 13:28:48",
+      "patrolled_datetime": "2023-08-23 17:39:40",
       "days_since_patrolled": "0",
       "name": "FOURTH ST N",
       "type": "Urban"
@@ -8177,8 +8177,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 17:59:42",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-08-23 17:39:22",
+      "days_since_patrolled": "0",
       "name": "FOURTH ST N",
       "type": "Semi-Urban"
     },
@@ -8747,7 +8747,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 13:28:39",
+      "patrolled_datetime": "2023-08-23 17:40:29",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-23T13:42:22.029063-04:00"
+  "current_datetime": "2023-08-23T13:52:43.155648-04:00"
 }
