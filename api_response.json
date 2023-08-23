@@ -3927,8 +3927,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-22 15:35:32",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-23 14:01:09",
+      "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Semi-Urban"
     },
@@ -4187,8 +4187,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 17:38:14",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-23 13:58:20",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4297,8 +4297,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 17:38:07",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-23 13:58:55",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4307,8 +4307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 17:52:47",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-23 13:58:05",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4317,8 +4317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 17:52:06",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-23 13:57:22",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4347,8 +4347,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-23 14:00:56",
+      "days_since_patrolled": "0",
       "name": "ROLLING HILLS DR",
       "type": "Semi-Urban"
     },
@@ -5157,7 +5157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-23 13:43:17",
+      "patrolled_datetime": "2023-08-23 13:44:53",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8157,7 +8157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-23 13:46:08",
+      "patrolled_datetime": "2023-08-23 13:47:06",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-23T09:52:17.786527-04:00"
+  "current_datetime": "2023-08-23T10:07:22.650332-04:00"
 }
