@@ -3657,7 +3657,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 14:36:53",
+      "patrolled_datetime": "2023-08-23 14:41:57",
       "days_since_patrolled": "0",
       "name": "SHAMROCK BLVD",
       "type": "Semi-Urban"
@@ -3667,7 +3667,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 14:35:33",
+      "patrolled_datetime": "2023-08-23 14:42:55",
       "days_since_patrolled": "0",
       "name": "WHITEFISH BLVD",
       "type": "Semi-Urban"
@@ -5777,8 +5777,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-25 18:22:20",
-      "days_since_patrolled": "29",
+      "patrolled_datetime": "2023-08-23 14:46:03",
+      "days_since_patrolled": "0",
       "name": "BAY ST",
       "type": "Semi-Urban"
     },
@@ -7897,7 +7897,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 14:34:21",
+      "patrolled_datetime": "2023-08-23 14:43:48",
       "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-23T10:42:42.354485-04:00"
+  "current_datetime": "2023-08-23T10:52:22.248013-04:00"
 }
