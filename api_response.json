@@ -1257,8 +1257,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 19:27:55",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-24 13:43:05",
+      "days_since_patrolled": "0",
       "name": "SHORELINE AVE",
       "type": "Semi-Urban"
     },
@@ -3997,8 +3997,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-25 18:20:39",
-      "days_since_patrolled": "30",
+      "patrolled_datetime": "2023-08-24 13:42:39",
+      "days_since_patrolled": "0",
       "name": "CHURCH ST",
       "type": "Semi-Urban"
     },
@@ -4007,7 +4007,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-24 13:39:48",
+      "patrolled_datetime": "2023-08-24 13:41:53",
       "days_since_patrolled": "0",
       "name": "MCKENZIE ST",
       "type": "Semi-Urban"
@@ -5777,8 +5777,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 19:27:10",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-24 13:43:09",
+      "days_since_patrolled": "0",
       "name": "BAY ST",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-24T09:44:57.354403-04:00"
+  "current_datetime": "2023-08-24T09:52:21.427518-04:00"
 }
