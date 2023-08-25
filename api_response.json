@@ -1147,8 +1147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-24 14:15:23",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-25 14:44:16",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -1477,8 +1477,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 16:04:23",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-25 14:40:57",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2457,8 +2457,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-24 14:14:03",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-25 14:46:06",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2887,8 +2887,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 16:05:03",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-25 14:40:39",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -3727,8 +3727,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 16:05:46",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-25 14:39:19",
+      "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
     },
@@ -5837,8 +5837,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-22 16:05:39",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-25 14:39:57",
+      "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
     },
@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-25 14:37:07",
+      "patrolled_datetime": "2023-08-25 14:37:12",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -7667,8 +7667,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-25 14:39:07",
+      "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Semi-Urban"
     },
@@ -7677,8 +7677,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-18 14:57:23",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-08-25 14:39:00",
+      "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
     },
@@ -8517,8 +8517,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-24 14:18:58",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-25 14:38:02",
+      "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
     },
@@ -8527,8 +8527,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-24 14:19:18",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-25 14:37:38",
+      "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-25T10:42:44.288032-04:00"
+  "current_datetime": "2023-08-25T10:52:19.939598-04:00"
 }
