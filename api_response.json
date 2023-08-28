@@ -57,8 +57,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 19:42:10",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-28 12:37:06",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -167,8 +167,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 16:25:58",
-      "days_since_patrolled": "20",
+      "patrolled_datetime": "2023-08-28 12:36:23",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Semi-Urban"
     },
@@ -1557,8 +1557,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 16:25:37",
-      "days_since_patrolled": "20",
+      "patrolled_datetime": "2023-08-28 12:35:52",
+      "days_since_patrolled": "0",
       "name": "ALICE ST",
       "type": "Semi-Urban"
     },
@@ -2727,8 +2727,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-28 12:35:23",
+      "days_since_patrolled": "0",
       "name": "ELIZABETH DR",
       "type": "Semi-Urban"
     },
@@ -2747,8 +2747,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-15 16:24:08",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-28 12:35:10",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2757,8 +2757,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-15 16:23:12",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-28 12:34:13",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2767,8 +2767,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-15 16:22:39",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-28 12:33:30",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2777,8 +2777,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-31 12:29:11",
-      "days_since_patrolled": "28",
+      "patrolled_datetime": "2023-08-28 12:33:34",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 5",
       "type": "Rural"
     },
@@ -2787,8 +2787,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-24 19:28:28",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-28 12:32:31",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -5907,8 +5907,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 20:10:44",
-      "days_since_patrolled": "12",
+      "patrolled_datetime": "2023-08-28 12:31:35",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -7107,8 +7107,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 19:40:46",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-28 12:38:07",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-28T08:14:46.828056-04:00"
+  "current_datetime": "2023-08-28T08:43:43.072807-04:00"
 }
