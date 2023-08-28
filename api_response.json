@@ -617,8 +617,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 19:53:46",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-08-28 13:27:20",
+      "days_since_patrolled": "0",
       "name": "SIXTH ST N",
       "type": "Rural"
     },
@@ -5367,8 +5367,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 17:35:44",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-08-28 13:29:38",
+      "days_since_patrolled": "0",
       "name": "D LINE",
       "type": "Rural"
     },
@@ -5507,7 +5507,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 13:15:23",
+      "patrolled_datetime": "2023-08-28 13:26:39",
       "days_since_patrolled": "0",
       "name": "SIXTH ST N",
       "type": "Semi-Urban"
@@ -5547,7 +5547,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 13:20:53",
+      "patrolled_datetime": "2023-08-28 13:25:51",
       "days_since_patrolled": "0",
       "name": "YORK AVE",
       "type": "Semi-Urban"
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-28 13:11:47",
+      "patrolled_datetime": "2023-08-28 13:30:13",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-28T09:27:14.413530-04:00"
+  "current_datetime": "2023-08-28T09:35:00.307271-04:00"
 }
