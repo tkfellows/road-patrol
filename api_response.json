@@ -407,8 +407,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-15 16:34:34",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-28 12:58:49",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -1207,7 +1207,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 12:46:50",
+      "patrolled_datetime": "2023-08-28 12:48:34",
       "days_since_patrolled": "0",
       "name": "CROOKED HILL RD",
       "type": "Rural"
@@ -1747,8 +1747,8 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-17 19:02:15",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-08-28 13:02:23",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -1757,8 +1757,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 20:11:05",
-      "days_since_patrolled": "17",
+      "patrolled_datetime": "2023-08-28 12:52:36",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
     },
@@ -2227,8 +2227,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-15 16:36:15",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-28 13:01:10",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -2537,8 +2537,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-25 19:18:27",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-28 13:10:36",
+      "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
     },
@@ -2667,8 +2667,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-14 20:05:56",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-28 12:49:07",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -6917,8 +6917,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 19:09:44",
-      "days_since_patrolled": "17",
+      "patrolled_datetime": "2023-08-28 12:53:53",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
     },
@@ -6947,8 +6947,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 17:46:40",
-      "days_since_patrolled": "12",
+      "patrolled_datetime": "2023-08-28 12:49:36",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -6977,8 +6977,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 20:13:32",
-      "days_since_patrolled": "17",
+      "patrolled_datetime": "2023-08-28 12:51:35",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
     },
@@ -8047,8 +8047,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-25 19:12:46",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-28 13:12:13",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8057,8 +8057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-25 19:13:06",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-28 13:12:09",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8067,8 +8067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-25 19:14:06",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-08-28 13:11:47",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-28T08:59:50.204559-04:00"
+  "current_datetime": "2023-08-28T09:18:39.056523-04:00"
 }
