@@ -1207,8 +1207,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 20:05:52",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-28 12:46:50",
+      "days_since_patrolled": "0",
       "name": "CROOKED HILL RD",
       "type": "Rural"
     },
@@ -7077,8 +7077,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 20:03:19",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-28 12:45:12",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -7107,7 +7107,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 12:38:07",
+      "patrolled_datetime": "2023-08-28 12:39:43",
       "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-28T08:43:43.072807-04:00"
+  "current_datetime": "2023-08-28T08:59:50.204559-04:00"
 }
