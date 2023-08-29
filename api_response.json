@@ -427,8 +427,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-31 12:36:00",
-      "days_since_patrolled": "29",
+      "patrolled_datetime": "2023-08-29 19:46:31",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 5",
       "type": "Rural"
     },
@@ -2707,8 +2707,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-15 16:24:23",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-29 19:37:51",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2717,7 +2717,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-29 19:37:28",
+      "patrolled_datetime": "2023-08-29 19:37:36",
       "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Semi-Urban"
@@ -2737,8 +2737,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-15 16:24:12",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-29 19:38:04",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2747,8 +2747,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-28 12:35:10",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-29 19:38:52",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2757,8 +2757,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-28 12:34:13",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-29 19:39:28",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -2777,8 +2777,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 12:33:34",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-29 19:40:26",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 5",
       "type": "Rural"
     },
@@ -2797,8 +2797,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-15 16:24:19",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-08-29 19:37:57",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -7127,8 +7127,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 19:52:19",
-      "days_since_patrolled": "15",
+      "patrolled_datetime": "2023-08-29 19:43:09",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 5",
       "type": "Rural"
     },
@@ -7137,8 +7137,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 19:50:24",
-      "days_since_patrolled": "15",
+      "patrolled_datetime": "2023-08-29 19:41:20",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 5",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-29T15:42:37.693281-04:00"
+  "current_datetime": "2023-08-29T15:52:24.001214-04:00"
 }
