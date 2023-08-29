@@ -8557,7 +8557,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-29 13:45:00",
+      "patrolled_datetime": "2023-08-29 14:00:02",
       "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-29T09:52:44.981893-04:00"
+  "current_datetime": "2023-08-29T10:07:29.082477-04:00"
 }
