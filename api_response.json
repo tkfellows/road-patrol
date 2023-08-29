@@ -1187,8 +1187,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 20:31:40",
-      "days_since_patrolled": "18",
+      "patrolled_datetime": "2023-08-29 12:27:16",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -1617,8 +1617,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-25 19:25:32",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-29 12:21:45",
+      "days_since_patrolled": "0",
       "name": "",
       "type": ""
     },
@@ -2557,8 +2557,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 17:48:22",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-29 12:30:16",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2577,8 +2577,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 20:29:42",
-      "days_since_patrolled": "18",
+      "patrolled_datetime": "2023-08-29 12:28:46",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2617,8 +2617,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 20:25:50",
-      "days_since_patrolled": "18",
+      "patrolled_datetime": "2023-08-29 12:36:58",
+      "days_since_patrolled": "0",
       "name": "MAPLE DR",
       "type": "Semi-Urban"
     },
@@ -2627,8 +2627,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 20:21:23",
-      "days_since_patrolled": "18",
+      "patrolled_datetime": "2023-08-29 12:37:11",
+      "days_since_patrolled": "0",
       "name": "MAPLE LN",
       "type": "Semi-Urban"
     },
@@ -3307,8 +3307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 20:00:31",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-29 12:24:12",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -3587,8 +3587,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-25 19:25:52",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-29 12:21:06",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
     },
@@ -3597,8 +3597,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-25 19:25:48",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-08-29 12:22:26",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
     },
@@ -3867,8 +3867,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 19:59:51",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-29 12:23:23",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -6167,8 +6167,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 19:59:36",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-29 12:23:08",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -7087,8 +7087,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-11 20:33:18",
-      "days_since_patrolled": "18",
+      "patrolled_datetime": "2023-08-29 12:25:51",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -7757,8 +7757,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-16 19:59:24",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-08-29 12:22:53",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-29T08:14:21.903418-04:00"
+  "current_datetime": "2023-08-29T08:43:26.773717-04:00"
 }
