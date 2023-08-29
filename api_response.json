@@ -57,8 +57,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 12:37:06",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-29 19:36:51",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -167,8 +167,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 12:36:23",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-29 19:37:15",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Semi-Urban"
     },
@@ -2317,8 +2317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-14 20:07:36",
-      "days_since_patrolled": "15",
+      "patrolled_datetime": "2023-08-29 19:30:32",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2337,8 +2337,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-14 20:06:52",
-      "days_since_patrolled": "15",
+      "patrolled_datetime": "2023-08-29 19:29:49",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2667,8 +2667,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-28 12:49:07",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-29 19:29:05",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2717,8 +2717,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-08 15:37:17",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-08-29 19:37:28",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Semi-Urban"
     },
@@ -6947,7 +6947,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-29 19:28:35",
+      "patrolled_datetime": "2023-08-29 19:28:43",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -7107,8 +7107,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 12:39:43",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-29 19:35:44",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -8297,8 +8297,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-14 19:38:37",
-      "days_since_patrolled": "15",
+      "patrolled_datetime": "2023-08-29 19:33:07",
+      "days_since_patrolled": "0",
       "name": "BLIND LINE",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-29T15:32:45.769088-04:00"
+  "current_datetime": "2023-08-29T15:42:37.693281-04:00"
 }
