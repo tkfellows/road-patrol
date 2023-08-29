@@ -357,7 +357,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-29 12:45:47",
+      "patrolled_datetime": "2023-08-29 18:34:39",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -757,7 +757,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-29 12:47:28",
+      "patrolled_datetime": "2023-08-29 18:33:59",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -777,7 +777,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-29 12:45:12",
+      "patrolled_datetime": "2023-08-29 18:36:12",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1097,7 +1097,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-29 18:31:34",
+      "patrolled_datetime": "2023-08-29 18:32:17",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -6527,8 +6527,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-22 19:33:38",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-08-29 18:37:34",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-29T14:34:01.559777-04:00"
+  "current_datetime": "2023-08-29T14:42:41.933322-04:00"
 }
