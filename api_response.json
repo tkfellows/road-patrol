@@ -627,8 +627,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-27 17:39:49",
-      "days_since_patrolled": "34",
+      "patrolled_datetime": "2023-08-30 20:28:32",
+      "days_since_patrolled": "0",
       "name": "GRAHAM CR",
       "type": "Semi-Urban"
     },
@@ -1187,7 +1187,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 15:46:47",
+      "patrolled_datetime": "2023-08-30 20:38:37",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -1747,7 +1747,7 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 17:03:06",
+      "patrolled_datetime": "2023-08-30 20:33:49",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -2577,7 +2577,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 16:18:33",
+      "patrolled_datetime": "2023-08-30 20:37:12",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -4547,7 +4547,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:26:36",
+      "patrolled_datetime": "2023-08-30 20:26:51",
       "days_since_patrolled": "0",
       "name": "WALKER WAY",
       "type": "Semi-Urban"
@@ -4557,7 +4557,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:25:59",
+      "patrolled_datetime": "2023-08-30 20:32:50",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -4577,7 +4577,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-30 17:09:18",
+      "patrolled_datetime": "2023-08-30 20:31:24",
       "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
@@ -4617,7 +4617,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-30 20:21:02",
+      "patrolled_datetime": "2023-08-30 20:21:24",
       "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
@@ -7917,7 +7917,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 17:08:41",
+      "patrolled_datetime": "2023-08-30 20:30:33",
       "days_since_patrolled": "0",
       "name": "BIRCH ST",
       "type": "Semi-Urban"
@@ -8327,7 +8327,7 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 16:20:20",
+      "patrolled_datetime": "2023-08-30 20:35:27",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -8377,8 +8377,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-27 17:40:10",
-      "days_since_patrolled": "34",
+      "patrolled_datetime": "2023-08-30 20:28:44",
+      "days_since_patrolled": "0",
       "name": "BIRCH ST",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-30T16:32:48.747043-04:00"
+  "current_datetime": "2023-08-30T16:42:36.471109-04:00"
 }
