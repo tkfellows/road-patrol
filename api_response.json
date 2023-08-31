@@ -4027,8 +4027,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-31 14:59:26",
+      "days_since_patrolled": "0",
       "name": "THOMAS CT",
       "type": "Cottage"
     },
@@ -4107,8 +4107,8 @@
       "class_number": "0",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-31 14:51:17",
+      "days_since_patrolled": "0",
       "name": "RUTHERFORD PT S",
       "type": "Semi-Urban"
     },
@@ -5777,7 +5777,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 14:46:42",
+      "patrolled_datetime": "2023-08-31 15:00:36",
       "days_since_patrolled": "0",
       "name": "BAY ST",
       "type": "Semi-Urban"
@@ -7897,7 +7897,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 14:16:08",
+      "patrolled_datetime": "2023-08-31 15:02:35",
       "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-31T10:52:30.595486-04:00"
+  "current_datetime": "2023-08-31T11:08:04.677087-04:00"
 }
