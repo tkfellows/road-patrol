@@ -4137,8 +4137,8 @@
       "class_number": "0",
       "class_name": "100",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-08-31 14:44:58",
+      "days_since_patrolled": "0",
       "name": "MCLACHLAN ST",
       "type": "Rural"
     },
@@ -4147,8 +4147,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-18 15:40:32",
-      "days_since_patrolled": "44",
+      "patrolled_datetime": "2023-08-31 14:43:41",
+      "days_since_patrolled": "0",
       "name": "CHARLESWORTH CR",
       "type": "Semi-Urban"
     },
@@ -5157,7 +5157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-31 14:38:36",
+      "patrolled_datetime": "2023-08-31 14:39:33",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -5777,8 +5777,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-24 14:07:10",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-08-31 14:46:42",
+      "days_since_patrolled": "0",
       "name": "BAY ST",
       "type": "Semi-Urban"
     },
@@ -7817,8 +7817,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-24 13:00:25",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-08-31 14:43:17",
+      "days_since_patrolled": "0",
       "name": "SOUTH OLIPHANT RD",
       "type": "Rural"
     },
@@ -8137,7 +8137,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-31 14:24:36",
+      "patrolled_datetime": "2023-08-31 14:39:58",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8147,7 +8147,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-31 14:24:12",
+      "patrolled_datetime": "2023-08-31 14:40:02",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8157,7 +8157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-31 14:24:08",
+      "patrolled_datetime": "2023-08-31 14:41:38",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-31T10:42:19.126679-04:00"
+  "current_datetime": "2023-08-31T10:52:30.595486-04:00"
 }
