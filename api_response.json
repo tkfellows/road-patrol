@@ -667,7 +667,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 12:45:11",
+      "patrolled_datetime": "2023-08-31 15:22:50",
       "days_since_patrolled": "0",
       "name": "FIRST ST N",
       "type": "Semi-Urban"
@@ -677,8 +677,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 15:12:31",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-31 15:22:19",
+      "days_since_patrolled": "0",
       "name": "DAVIDSON DR",
       "type": "Semi-Urban"
     },
@@ -4237,8 +4237,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 13:50:42",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-31 15:24:54",
+      "days_since_patrolled": "0",
       "name": "SECOND ST N",
       "type": "Semi-Urban"
     },
@@ -4247,8 +4247,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 13:11:00",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-08-31 15:24:02",
+      "days_since_patrolled": "0",
       "name": "SECOND ST N",
       "type": "Semi-Urban"
     },
@@ -4287,7 +4287,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 12:46:00",
+      "patrolled_datetime": "2023-08-31 15:23:36",
       "days_since_patrolled": "0",
       "name": "THIRD AVE N",
       "type": "Semi-Urban"
@@ -4737,7 +4737,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 12:58:35",
+      "patrolled_datetime": "2023-08-31 15:27:00",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -4777,7 +4777,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 12:50:46",
+      "patrolled_datetime": "2023-08-31 15:25:36",
       "days_since_patrolled": "0",
       "name": "SECOND AVE N",
       "type": "Semi-Urban"
@@ -4837,8 +4837,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-21 16:27:04",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-08-31 15:25:59",
+      "days_since_patrolled": "0",
       "name": "MILDMAY LN",
       "type": "Semi-Urban"
     },
@@ -4897,7 +4897,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 12:46:52",
+      "patrolled_datetime": "2023-08-31 15:24:31",
       "days_since_patrolled": "0",
       "name": "THIRD ST N",
       "type": "Semi-Urban"
@@ -4907,7 +4907,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-31 15:17:34",
+      "patrolled_datetime": "2023-08-31 15:17:42",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8027,7 +8027,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 12:56:42",
+      "patrolled_datetime": "2023-08-31 15:27:22",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": "Urban"
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-31 12:42:59",
+      "patrolled_datetime": "2023-08-31 15:18:20",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8047,7 +8047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-31 12:42:42",
+      "patrolled_datetime": "2023-08-31 15:18:45",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8107,7 +8107,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 12:42:16",
+      "patrolled_datetime": "2023-08-31 15:20:18",
       "days_since_patrolled": "0",
       "name": "LAKELAND DR",
       "type": "Semi-Urban"
@@ -8127,7 +8127,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 12:45:30",
+      "patrolled_datetime": "2023-08-31 15:23:07",
       "days_since_patrolled": "0",
       "name": "RIPLEY LN",
       "type": "Semi-Urban"
@@ -8247,7 +8247,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 12:46:40",
+      "patrolled_datetime": "2023-08-31 15:24:17",
       "days_since_patrolled": "0",
       "name": "THIRD AVE N",
       "type": "Semi-Urban"
@@ -8257,7 +8257,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 12:49:55",
+      "patrolled_datetime": "2023-08-31 15:24:50",
       "days_since_patrolled": "0",
       "name": "SECOND AVE N",
       "type": "Semi-Urban"
@@ -8887,8 +8887,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-03 19:09:07",
-      "days_since_patrolled": "28",
+      "patrolled_datetime": "2023-08-31 15:22:31",
+      "days_since_patrolled": "0",
       "name": "ALBEMARLE CR",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-08-31T11:21:22.634785-04:00"
+  "current_datetime": "2023-08-31T11:33:04.073148-04:00"
 }
