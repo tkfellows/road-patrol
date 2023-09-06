@@ -1167,7 +1167,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 14:32:50",
+      "patrolled_datetime": "2023-09-06 20:42:06",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -2237,7 +2237,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 14:31:44",
+      "patrolled_datetime": "2023-09-06 20:41:01",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -2497,7 +2497,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 14:31:58",
+      "patrolled_datetime": "2023-09-06 20:41:12",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -3587,7 +3587,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-09-06 12:19:46",
+      "patrolled_datetime": "2023-09-06 20:45:35",
       "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
@@ -3597,8 +3597,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-31 16:15:10",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-09-06 20:45:32",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
     },
@@ -3777,7 +3777,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 14:35:41",
+      "patrolled_datetime": "2023-09-06 20:44:39",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3787,7 +3787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 14:35:15",
+      "patrolled_datetime": "2023-09-06 20:44:27",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3827,8 +3827,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 16:22:20",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-09-06 20:43:48",
+      "days_since_patrolled": "0",
       "name": "ROYAL LN",
       "type": "Semi-Urban"
     },
@@ -3837,7 +3837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 14:34:57",
+      "patrolled_datetime": "2023-09-06 20:44:13",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3847,7 +3847,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 14:34:30",
+      "patrolled_datetime": "2023-09-06 20:43:45",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -5877,7 +5877,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 14:34:03",
+      "patrolled_datetime": "2023-09-06 20:43:17",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -6537,7 +6537,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:33:49",
+      "patrolled_datetime": "2023-09-06 20:39:48",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -7067,7 +7067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 14:33:00",
+      "patrolled_datetime": "2023-09-06 20:42:19",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -7757,8 +7757,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-30 14:33:02",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-09-06 20:45:07",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -8047,7 +8047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 20:36:45",
+      "patrolled_datetime": "2023-09-06 20:36:52",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8057,7 +8057,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:45:05",
+      "patrolled_datetime": "2023-09-06 20:37:18",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:44:41",
+      "patrolled_datetime": "2023-09-06 20:38:16",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-06T16:42:29.663247-04:00"
+  "current_datetime": "2023-09-06T16:52:35.825894-04:00"
 }
