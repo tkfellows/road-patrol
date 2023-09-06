@@ -4747,8 +4747,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 12:59:31",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-09-06 20:15:09",
+      "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
     },
@@ -4757,7 +4757,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 20:04:08",
+      "patrolled_datetime": "2023-09-06 20:14:28",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -4767,7 +4767,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 20:12:19",
+      "patrolled_datetime": "2023-09-06 20:13:30",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -4907,7 +4907,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:46:07",
+      "patrolled_datetime": "2023-09-06 20:21:46",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4917,7 +4917,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:46:26",
+      "patrolled_datetime": "2023-09-06 20:21:35",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4927,7 +4927,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:46:29",
+      "patrolled_datetime": "2023-09-06 20:21:18",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4937,7 +4937,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:47:09",
+      "patrolled_datetime": "2023-09-06 20:20:55",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -5137,7 +5137,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:47:33",
+      "patrolled_datetime": "2023-09-06 20:20:36",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -5177,8 +5177,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 18:00:09",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-09-06 20:18:44",
+      "days_since_patrolled": "0",
       "name": "WELLINGTON ST",
       "type": "Semi-Urban"
     },
@@ -5187,8 +5187,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-09-06 20:19:35",
+      "days_since_patrolled": "0",
       "name": "BRANT AVE",
       "type": "Semi-Urban"
     },
@@ -5207,8 +5207,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 18:00:37",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-09-06 20:16:51",
+      "days_since_patrolled": "0",
       "name": "SIMCOE AVE",
       "type": "Semi-Urban"
     },
@@ -5407,7 +5407,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 19:05:51",
+      "patrolled_datetime": "2023-09-06 20:19:47",
       "days_since_patrolled": "0",
       "name": "FIFTH ST N",
       "type": "Semi-Urban"
@@ -5597,7 +5597,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 20:05:54",
+      "patrolled_datetime": "2023-09-06 20:13:34",
       "days_since_patrolled": "0",
       "name": "KING EDWARD AVE",
       "type": "Semi-Urban"
@@ -6157,7 +6157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:46:48",
+      "patrolled_datetime": "2023-09-06 20:21:15",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8007,8 +8007,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 17:18:32",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-09-06 20:23:43",
+      "days_since_patrolled": "0",
       "name": "BANNISTER DR",
       "type": "Semi-Urban"
     },
@@ -8017,7 +8017,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 14:04:34",
+      "patrolled_datetime": "2023-09-06 20:22:54",
       "days_since_patrolled": "0",
       "name": "COMMUNITY CENTRE DR",
       "type": "Semi-Urban"
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:45:51",
+      "patrolled_datetime": "2023-09-06 20:22:21",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8047,7 +8047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:45:24",
+      "patrolled_datetime": "2023-09-06 20:22:43",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-06T16:21:07.623922-04:00"
+  "current_datetime": "2023-09-06T16:32:59.729985-04:00"
 }
