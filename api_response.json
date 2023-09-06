@@ -377,8 +377,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-11 19:07:25",
-      "days_since_patrolled": "26",
+      "patrolled_datetime": "2023-09-06 16:43:11",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -387,8 +387,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-11 19:07:08",
-      "days_since_patrolled": "26",
+      "patrolled_datetime": "2023-09-06 16:42:54",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -937,8 +937,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-11 19:06:18",
-      "days_since_patrolled": "26",
+      "patrolled_datetime": "2023-09-06 16:42:06",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -1747,8 +1747,8 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:33:49",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-09-06 16:40:05",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -1757,8 +1757,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 12:52:36",
-      "days_since_patrolled": "9",
+      "patrolled_datetime": "2023-09-06 16:46:01",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
     },
@@ -1827,8 +1827,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-09-06 16:42:10",
+      "days_since_patrolled": "0",
       "name": "20TH ST S",
       "type": ""
     },
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 16:38:26",
+      "patrolled_datetime": "2023-09-06 16:38:54",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -4557,8 +4557,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:32:50",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-09-06 16:41:25",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -4577,8 +4577,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-30 20:31:24",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-09-06 16:41:54",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -6917,8 +6917,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 12:53:53",
-      "days_since_patrolled": "9",
+      "patrolled_datetime": "2023-09-06 16:44:56",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
     },
@@ -6957,8 +6957,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-31 12:36:32",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-09-06 16:48:23",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -6977,8 +6977,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 12:51:35",
-      "days_since_patrolled": "9",
+      "patrolled_datetime": "2023-09-06 16:48:06",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-06T12:44:20.874843-04:00"
+  "current_datetime": "2023-09-06T12:52:40.826426-04:00"
 }
