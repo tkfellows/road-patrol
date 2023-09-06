@@ -1147,7 +1147,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 15:50:31",
+      "patrolled_datetime": "2023-09-06 18:12:45",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -1487,8 +1487,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-17 17:21:04",
-      "days_since_patrolled": "20",
+      "patrolled_datetime": "2023-09-06 18:10:59",
+      "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
     },
@@ -1497,8 +1497,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-09-06 18:11:06",
+      "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
     },
@@ -1517,8 +1517,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 19:25:36",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-09-06 18:09:19",
+      "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
     },
@@ -2867,8 +2867,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 13:36:44",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-09-06 18:11:45",
+      "days_since_patrolled": "0",
       "name": "OLD OLIPHANT RD",
       "type": "Rural"
     },
@@ -6997,7 +6997,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 18:01:03",
+      "patrolled_datetime": "2023-09-06 18:07:24",
       "days_since_patrolled": "0",
       "name": "BOAT LAKE RD",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-06T14:09:51.517052-04:00"
+  "current_datetime": "2023-09-06T14:26:07.740825-04:00"
 }
