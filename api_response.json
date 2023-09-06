@@ -3797,7 +3797,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 12:23:40",
+      "patrolled_datetime": "2023-09-06 12:22:39",
       "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-06T09:42:26.602460-04:00"
+  "current_datetime": "2023-09-06T09:52:27.150794-04:00"
 }
