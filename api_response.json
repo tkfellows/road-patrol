@@ -177,8 +177,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-08 15:33:07",
-      "days_since_patrolled": "29",
+      "patrolled_datetime": "2023-09-06 19:26:40",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -207,8 +207,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-08 15:34:20",
-      "days_since_patrolled": "29",
+      "patrolled_datetime": "2023-09-06 19:25:56",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -267,8 +267,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-01 20:53:34",
-      "days_since_patrolled": "36",
+      "patrolled_datetime": "2023-09-06 19:24:17",
+      "days_since_patrolled": "0",
       "name": "PLEASANTVIEW RD",
       "type": "Rural"
     },
@@ -397,8 +397,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-15 16:32:46",
-      "days_since_patrolled": "22",
+      "patrolled_datetime": "2023-09-06 19:17:04",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -407,7 +407,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 19:14:01",
+      "patrolled_datetime": "2023-09-06 19:15:06",
       "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
@@ -1767,8 +1767,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-31 17:48:25",
-      "days_since_patrolled": "37",
+      "patrolled_datetime": "2023-09-06 19:21:55",
+      "days_since_patrolled": "0",
       "name": "PLEASANTVIEW RD",
       "type": "Rural"
     },
@@ -2317,8 +2317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-31 12:34:52",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-09-06 19:27:28",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2337,8 +2337,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-31 12:35:35",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-09-06 19:27:42",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -8477,8 +8477,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-15 16:31:13",
-      "days_since_patrolled": "22",
+      "patrolled_datetime": "2023-09-06 19:20:27",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-06T15:22:42.865340-04:00"
+  "current_datetime": "2023-09-06T15:32:52.617911-04:00"
 }
