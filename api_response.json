@@ -4757,8 +4757,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:15:18",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-09-06 20:04:08",
+      "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
     },
@@ -4767,8 +4767,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:14:01",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-09-06 20:12:19",
+      "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
     },
@@ -4827,8 +4827,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-17 16:42:17",
-      "days_since_patrolled": "20",
+      "patrolled_datetime": "2023-09-06 20:06:31",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS RD",
       "type": "Semi-Urban"
     },
@@ -5527,7 +5527,7 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "2023-09-06 20:03:41",
+      "patrolled_datetime": "2023-09-06 20:03:54",
       "days_since_patrolled": "0",
       "name": "EIGHTH ST N",
       "type": "Semi-Urban"
@@ -5597,8 +5597,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:14:16",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-09-06 20:05:54",
+      "days_since_patrolled": "0",
       "name": "KING EDWARD AVE",
       "type": "Semi-Urban"
     },
@@ -5687,8 +5687,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 13:25:27",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-09-06 20:11:38",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS RD",
       "type": "Semi-Urban"
     },
@@ -5707,8 +5707,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 19:05:57",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-09-06 20:10:21",
+      "days_since_patrolled": "0",
       "name": "ELORA ST",
       "type": "Semi-Urban"
     },
@@ -5717,8 +5717,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 19:05:36",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-09-06 20:10:33",
+      "days_since_patrolled": "0",
       "name": "MARINA AVE",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-06T16:08:17.238457-04:00"
+  "current_datetime": "2023-09-06T16:21:07.623922-04:00"
 }
