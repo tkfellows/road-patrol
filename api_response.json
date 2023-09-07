@@ -727,8 +727,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-03 14:39:10",
-      "days_since_patrolled": "35",
+      "patrolled_datetime": "2023-09-07 13:43:59",
+      "days_since_patrolled": "0",
       "name": "BOAT LAKE RD",
       "type": "Rural"
     },
@@ -1087,8 +1087,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-17 15:17:59",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-09-07 13:45:45",
+      "days_since_patrolled": "0",
       "name": "BOAT LAKE RD",
       "type": "Rural"
     },
@@ -1517,8 +1517,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 18:09:19",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-07 13:47:39",
+      "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
     },
@@ -1527,8 +1527,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 17:59:37",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-07 13:38:55",
+      "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
     },
@@ -2837,8 +2837,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 19:23:47",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-09-07 13:48:24",
+      "days_since_patrolled": "0",
       "name": "ELM RD",
       "type": "Rural"
     },
@@ -3397,8 +3397,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 19:23:13",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-09-07 13:48:43",
+      "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-07T09:42:29.168694-04:00"
+  "current_datetime": "2023-09-07T09:52:40.461773-04:00"
 }
