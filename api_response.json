@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 12:59:49",
+      "patrolled_datetime": "2023-09-08 14:03:46",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -4737,7 +4737,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 13:18:45",
+      "patrolled_datetime": "2023-09-08 13:52:58",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -5227,7 +5227,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 13:30:21",
+      "patrolled_datetime": "2023-09-08 13:49:32",
       "days_since_patrolled": "0",
       "name": "HURON AVE",
       "type": "Semi-Urban"
@@ -5407,7 +5407,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 13:48:42",
+      "patrolled_datetime": "2023-09-08 13:48:50",
       "days_since_patrolled": "0",
       "name": "FIFTH ST N",
       "type": "Semi-Urban"
@@ -7947,8 +7947,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-23 18:14:14",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-09-08 13:53:25",
+      "days_since_patrolled": "0",
       "name": "THIRD AVE S",
       "type": "Semi-Urban"
     },
@@ -8027,7 +8027,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 13:11:13",
+      "patrolled_datetime": "2023-09-08 13:53:57",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": "Urban"
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 13:01:49",
+      "patrolled_datetime": "2023-09-08 13:54:16",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8047,7 +8047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 13:01:31",
+      "patrolled_datetime": "2023-09-08 14:02:07",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8057,7 +8057,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 13:01:13",
+      "patrolled_datetime": "2023-09-08 14:02:31",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 13:00:51",
+      "patrolled_datetime": "2023-09-08 14:03:37",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8167,8 +8167,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 17:11:12",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 13:50:09",
+      "days_since_patrolled": "0",
       "name": "FOURTH ST N",
       "type": "Urban"
     },
@@ -8177,7 +8177,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 13:24:52",
+      "patrolled_datetime": "2023-09-08 13:49:54",
       "days_since_patrolled": "0",
       "name": "FOURTH ST N",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T09:52:24.111690-04:00"
+  "current_datetime": "2023-09-08T10:07:09.314311-04:00"
 }
