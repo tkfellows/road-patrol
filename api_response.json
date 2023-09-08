@@ -4317,8 +4317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 16:06:21",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 15:12:45",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8157,8 +8157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:02:50",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 15:11:46",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T11:33:09.310828-04:00"
+  "current_datetime": "2023-09-08T11:42:14.860363-04:00"
 }
