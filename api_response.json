@@ -1147,7 +1147,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 17:18:44",
+      "patrolled_datetime": "2023-09-08 18:00:35",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -1677,7 +1677,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 17:14:49",
+      "patrolled_datetime": "2023-09-08 18:04:31",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -2457,7 +2457,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 17:17:30",
+      "patrolled_datetime": "2023-09-08 18:00:46",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -2867,7 +2867,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:59:02",
+      "patrolled_datetime": "2023-09-08 17:59:20",
       "days_since_patrolled": "0",
       "name": "OLD OLIPHANT RD",
       "type": "Rural"
@@ -4307,7 +4307,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 16:58:36",
+      "patrolled_datetime": "2023-09-08 18:13:00",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4397,7 +4397,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 17:13:11",
+      "patrolled_datetime": "2023-09-08 18:04:53",
       "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": ""
@@ -7897,7 +7897,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:12:49",
+      "patrolled_datetime": "2023-09-08 18:14:04",
       "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T14:09:43.271579-04:00"
+  "current_datetime": "2023-09-08T14:25:33.069078-04:00"
 }
