@@ -357,7 +357,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 16:13:35",
+      "patrolled_datetime": "2023-09-08 18:33:35",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -757,7 +757,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 16:12:54",
+      "patrolled_datetime": "2023-09-08 18:35:13",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1097,7 +1097,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 16:07:49",
+      "patrolled_datetime": "2023-09-08 18:36:45",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1657,8 +1657,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-07 13:09:53",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-08 18:30:59",
+      "days_since_patrolled": "0",
       "name": "RANKIN BRIDGE RD",
       "type": "Rural"
     },
@@ -2247,8 +2247,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-07 13:11:47",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-08 18:32:49",
+      "days_since_patrolled": "0",
       "name": "RANKIN BRIDGE RD",
       "type": "Rural"
     },
@@ -2447,8 +2447,8 @@
       "class_number": "0",
       "class_name": "200",
       "ownership": "Private",
-      "patrolled_datetime": "2023-09-06 13:51:41",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 18:31:03",
+      "days_since_patrolled": "0",
       "name": "REDGATE RD (PVT)",
       "type": "Rural"
     },
@@ -8147,7 +8147,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 16:54:11",
+      "patrolled_datetime": "2023-09-08 18:28:02",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T14:33:00.243652-04:00"
+  "current_datetime": "2023-09-08T14:42:35.242272-04:00"
 }
