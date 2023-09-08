@@ -1147,7 +1147,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 15:44:10",
+      "patrolled_datetime": "2023-09-08 17:18:44",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -1677,7 +1677,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 15:40:32",
+      "patrolled_datetime": "2023-09-08 17:14:49",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -2457,7 +2457,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 15:42:59",
+      "patrolled_datetime": "2023-09-08 17:17:30",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -2867,7 +2867,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 15:44:46",
+      "patrolled_datetime": "2023-09-08 17:19:42",
       "days_since_patrolled": "0",
       "name": "OLD OLIPHANT RD",
       "type": "Rural"
@@ -3677,7 +3677,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 15:35:10",
+      "patrolled_datetime": "2023-09-08 17:10:27",
       "days_since_patrolled": "0",
       "name": "FIDDLEHEAD LN",
       "type": "Semi-Urban"
@@ -3967,7 +3967,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 15:37:18",
+      "patrolled_datetime": "2023-09-08 17:11:23",
       "days_since_patrolled": "0",
       "name": "BOULTON ST",
       "type": "Semi-Urban"
@@ -3987,7 +3987,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 15:34:32",
+      "patrolled_datetime": "2023-09-08 17:09:45",
       "days_since_patrolled": "0",
       "name": "PHILLIPS PL",
       "type": "Semi-Urban"
@@ -4307,7 +4307,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 15:14:37",
+      "patrolled_datetime": "2023-09-08 16:58:36",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 15:13:53",
+      "patrolled_datetime": "2023-09-08 16:57:49",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4397,7 +4397,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 15:39:00",
+      "patrolled_datetime": "2023-09-08 17:13:11",
       "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": ""
@@ -7897,7 +7897,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 15:38:38",
+      "patrolled_datetime": "2023-09-08 17:12:49",
       "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": "Semi-Urban"
@@ -8157,7 +8157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 16:54:43",
+      "patrolled_datetime": "2023-09-08 16:55:35",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8857,7 +8857,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 15:34:45",
+      "patrolled_datetime": "2023-09-08 17:10:04",
       "days_since_patrolled": "0",
       "name": "PHILLIPS PL",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T13:07:05.670304-04:00"
+  "current_datetime": "2023-09-08T13:21:07.101091-04:00"
 }
