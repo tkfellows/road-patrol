@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:27:44",
+      "patrolled_datetime": "2023-09-08 17:32:44",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T13:32:37.791812-04:00"
+  "current_datetime": "2023-09-08T13:42:13.384581-04:00"
 }
