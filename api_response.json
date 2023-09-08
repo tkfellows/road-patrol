@@ -677,7 +677,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 13:23:01",
+      "patrolled_datetime": "2023-09-08 14:58:24",
       "days_since_patrolled": "0",
       "name": "DAVIDSON DR",
       "type": "Semi-Urban"
@@ -1757,7 +1757,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 14:33:26",
+      "patrolled_datetime": "2023-09-08 14:51:50",
       "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
@@ -2227,8 +2227,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-07 19:43:57",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-08 14:53:50",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -4557,8 +4557,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 16:41:25",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:55:19",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -4587,7 +4587,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 14:27:23",
+      "patrolled_datetime": "2023-09-08 14:57:28",
       "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
@@ -4597,7 +4597,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 14:27:41",
+      "patrolled_datetime": "2023-09-08 14:57:20",
       "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
@@ -4617,7 +4617,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 14:28:07",
+      "patrolled_datetime": "2023-09-08 14:56:58",
       "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
@@ -4627,7 +4627,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 14:28:36",
+      "patrolled_datetime": "2023-09-08 14:56:36",
       "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
@@ -4637,7 +4637,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 14:29:01",
+      "patrolled_datetime": "2023-09-08 14:56:07",
       "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
@@ -4647,7 +4647,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 14:29:09",
+      "patrolled_datetime": "2023-09-08 14:55:45",
       "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
@@ -4907,7 +4907,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 13:10:18",
+      "patrolled_datetime": "2023-09-08 14:58:21",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4917,7 +4917,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 13:23:23",
+      "patrolled_datetime": "2023-09-08 14:58:39",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4927,7 +4927,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 13:23:27",
+      "patrolled_datetime": "2023-09-08 14:58:43",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4937,7 +4937,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 13:24:10",
+      "patrolled_datetime": "2023-09-08 14:59:17",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -5137,8 +5137,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 20:20:36",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:59:39",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -5367,8 +5367,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 13:38:48",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 15:00:46",
+      "days_since_patrolled": "0",
       "name": "D LINE",
       "type": "Rural"
     },
@@ -5417,8 +5417,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 19:59:42",
-      "days_since_patrolled": "9",
+      "patrolled_datetime": "2023-09-08 15:00:36",
+      "days_since_patrolled": "0",
       "name": "FIFTH ST N",
       "type": "Semi-Urban"
     },
@@ -5767,7 +5767,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 14:29:15",
+      "patrolled_datetime": "2023-09-08 14:55:38",
       "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
@@ -6157,7 +6157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 13:23:47",
+      "patrolled_datetime": "2023-09-08 14:58:58",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -6977,7 +6977,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 14:48:20",
+      "patrolled_datetime": "2023-09-08 14:50:45",
       "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 14:17:29",
+      "patrolled_datetime": "2023-09-08 14:58:11",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T10:52:14.186443-04:00"
+  "current_datetime": "2023-09-08T11:06:41.889917-04:00"
 }
