@@ -347,7 +347,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 18:45:22",
+      "patrolled_datetime": "2023-09-08 19:20:02",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -357,7 +357,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 18:49:15",
+      "patrolled_datetime": "2023-09-08 19:16:36",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -757,7 +757,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 18:48:31",
+      "patrolled_datetime": "2023-09-08 19:18:22",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -767,7 +767,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 19:12:46",
+      "patrolled_datetime": "2023-09-08 19:14:15",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -777,7 +777,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 18:52:54",
+      "patrolled_datetime": "2023-09-08 19:15:58",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1097,7 +1097,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 18:46:48",
+      "patrolled_datetime": "2023-09-08 19:19:49",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T15:22:35.158987-04:00"
+  "current_datetime": "2023-09-08T15:32:51.419673-04:00"
 }
