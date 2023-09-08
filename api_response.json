@@ -147,8 +147,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-07 19:54:02",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-08 21:14:58",
+      "days_since_patrolled": "0",
       "name": "BLIND LINE",
       "type": "Rural"
     },
@@ -2677,8 +2677,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-07 19:52:15",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-08 21:13:14",
+      "days_since_patrolled": "0",
       "name": "C LINE",
       "type": "Rural"
     },
@@ -7107,8 +7107,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-07 19:58:44",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-08 21:18:44",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -8297,8 +8297,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-07 19:56:15",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-08 21:17:05",
+      "days_since_patrolled": "0",
       "name": "BLIND LINE",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T17:16:59.613106-04:00"
+  "current_datetime": "2023-09-08T17:24:26.652803-04:00"
 }
