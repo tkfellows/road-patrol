@@ -377,8 +377,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:10:56",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:30:49",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -387,8 +387,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:10:39",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:30:32",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -937,8 +937,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:09:49",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:29:48",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -1757,8 +1757,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 16:46:01",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:33:26",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
     },
@@ -4577,8 +4577,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:09:38",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:29:37",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -4617,7 +4617,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 14:27:44",
+      "patrolled_datetime": "2023-09-08 14:28:07",
       "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
@@ -4627,8 +4627,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:08:38",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:28:36",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -4637,8 +4637,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:08:57",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:29:01",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -4647,8 +4647,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:09:07",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:29:09",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -5767,8 +5767,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:09:14",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:29:15",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -6917,8 +6917,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-07 19:44:04",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-08 14:32:24",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
     },
@@ -6947,8 +6947,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:29:00",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:35:23",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -6977,8 +6977,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 16:48:06",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-08 14:35:17",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T10:32:59.540047-04:00"
+  "current_datetime": "2023-09-08T10:42:29.776543-04:00"
 }
