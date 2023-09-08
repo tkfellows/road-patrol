@@ -2867,7 +2867,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:20:27",
+      "patrolled_datetime": "2023-09-08 17:59:02",
       "days_since_patrolled": "0",
       "name": "OLD OLIPHANT RD",
       "type": "Rural"
@@ -2877,8 +2877,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-29 18:13:05",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-09-08 17:57:53",
+      "days_since_patrolled": "0",
       "name": "FOGDEN CR",
       "type": "Semi-Urban"
     },
@@ -6487,7 +6487,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:21:21",
+      "patrolled_datetime": "2023-09-08 17:56:46",
       "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Urban"
@@ -6507,7 +6507,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:21:00",
+      "patrolled_datetime": "2023-09-08 17:57:40",
       "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Semi-Urban"
@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:47:45",
+      "patrolled_datetime": "2023-09-08 17:55:15",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -8497,7 +8497,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:21:11",
+      "patrolled_datetime": "2023-09-08 17:56:57",
       "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Semi-Urban"
@@ -8507,7 +8507,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:21:37",
+      "patrolled_datetime": "2023-09-08 17:56:35",
       "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Urban"
@@ -8517,7 +8517,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:22:00",
+      "patrolled_datetime": "2023-09-08 17:56:13",
       "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
@@ -8527,7 +8527,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:22:27",
+      "patrolled_datetime": "2023-09-08 17:55:48",
       "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T13:52:21.722847-04:00"
+  "current_datetime": "2023-09-08T14:09:43.271579-04:00"
 }
