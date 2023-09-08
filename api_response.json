@@ -5957,7 +5957,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 16:21:40",
+      "patrolled_datetime": "2023-09-08 16:26:41",
       "days_since_patrolled": "0",
       "name": "FOREST PL",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T12:27:57.811497-04:00"
+  "current_datetime": "2023-09-08T12:37:21.227652-04:00"
 }
