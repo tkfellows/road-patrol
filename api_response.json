@@ -347,7 +347,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 16:06:28",
+      "patrolled_datetime": "2023-09-08 18:45:00",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1097,7 +1097,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 18:36:45",
+      "patrolled_datetime": "2023-09-08 18:45:44",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -2847,7 +2847,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 16:01:42",
+      "patrolled_datetime": "2023-09-08 18:44:27",
       "days_since_patrolled": "0",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
@@ -2857,7 +2857,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 16:00:59",
+      "patrolled_datetime": "2023-09-08 18:38:35",
       "days_since_patrolled": "0",
       "name": "MEADOWLAND RD",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T14:42:35.242272-04:00"
+  "current_datetime": "2023-09-08T14:52:21.088889-04:00"
 }
