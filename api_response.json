@@ -397,8 +397,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-07 19:49:33",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-08 20:50:01",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -407,7 +407,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 20:47:45",
+      "patrolled_datetime": "2023-09-08 20:48:16",
       "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
@@ -6587,8 +6587,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-07 19:50:50",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-08 20:56:15",
+      "days_since_patrolled": "0",
       "name": "HIGH HILL RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-08T16:52:29.454451-04:00"
+  "current_datetime": "2023-09-08T17:06:44.052733-04:00"
 }
