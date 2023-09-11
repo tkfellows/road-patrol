@@ -357,8 +357,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 19:35:33",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-09-11 18:18:24",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -757,8 +757,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 19:34:51",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-09-11 18:18:45",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -1657,8 +1657,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 18:30:59",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-09-11 18:15:49",
+      "days_since_patrolled": "0",
       "name": "RANKIN BRIDGE RD",
       "type": "Rural"
     },
@@ -2247,8 +2247,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 18:32:49",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-09-11 18:16:01",
+      "days_since_patrolled": "0",
       "name": "RANKIN BRIDGE RD",
       "type": "Rural"
     },
@@ -3677,7 +3677,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-11 15:37:05",
+      "patrolled_datetime": "2023-09-11 17:33:10",
       "days_since_patrolled": "0",
       "name": "FIDDLEHEAD LN",
       "type": "Semi-Urban"
@@ -3967,7 +3967,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-11 15:37:32",
+      "patrolled_datetime": "2023-09-11 17:34:14",
       "days_since_patrolled": "0",
       "name": "BOULTON ST",
       "type": "Semi-Urban"
@@ -3977,7 +3977,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-11 14:37:13",
+      "patrolled_datetime": "2023-09-11 17:32:50",
       "days_since_patrolled": "0",
       "name": "TELFORD S",
       "type": "Semi-Urban"
@@ -4307,7 +4307,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-11 15:40:08",
+      "patrolled_datetime": "2023-09-11 18:09:18",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-11 15:42:08",
+      "patrolled_datetime": "2023-09-11 18:11:20",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4337,8 +4337,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 15:15:00",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-09-11 17:36:29",
+      "days_since_patrolled": "0",
       "name": "PIERCE ST N",
       "type": "Rural"
     },
@@ -4417,8 +4417,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 14:15:18",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-09-11 17:41:53",
+      "days_since_patrolled": "0",
       "name": "PIERCE ST S",
       "type": "Semi-Urban"
     },
@@ -4427,8 +4427,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-31 14:15:07",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-09-11 17:41:28",
+      "days_since_patrolled": "0",
       "name": "LAURDO CR",
       "type": "Semi-Urban"
     },
@@ -5777,8 +5777,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 18:59:08",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-09-11 16:51:13",
+      "days_since_patrolled": "0",
       "name": "BAY ST",
       "type": "Semi-Urban"
     },
@@ -6137,8 +6137,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 16:17:38",
-      "days_since_patrolled": "26",
+      "patrolled_datetime": "2023-09-11 18:12:45",
+      "days_since_patrolled": "0",
       "name": "INDIAN TRL",
       "type": "Semi-Urban"
     },
@@ -7817,7 +7817,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-11 16:28:32",
+      "patrolled_datetime": "2023-09-11 16:29:26",
       "days_since_patrolled": "0",
       "name": "SOUTH OLIPHANT RD",
       "type": "Rural"
@@ -7897,7 +7897,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-11 15:39:24",
+      "patrolled_datetime": "2023-09-11 18:08:32",
       "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": "Semi-Urban"
@@ -8147,7 +8147,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-11 16:26:33",
+      "patrolled_datetime": "2023-09-11 18:12:49",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8157,7 +8157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-11 16:28:01",
+      "patrolled_datetime": "2023-09-11 18:12:42",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-11T14:09:56.208072-04:00"
+  "current_datetime": "2023-09-11T14:26:35.555274-04:00"
 }
