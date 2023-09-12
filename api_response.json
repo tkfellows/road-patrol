@@ -1607,7 +1607,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-09-12 12:27:55",
+      "patrolled_datetime": "2023-09-12 16:38:10",
       "days_since_patrolled": "0",
       "name": "",
       "type": ""
@@ -3617,8 +3617,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-09-11 20:52:40",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-12 16:37:54",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -3757,7 +3757,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-12 16:30:50",
+      "patrolled_datetime": "2023-09-12 16:37:16",
       "days_since_patrolled": "0",
       "name": "ELIZABETH ST",
       "type": "Urban"
@@ -3767,8 +3767,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-24 16:34:26",
-      "days_since_patrolled": "19",
+      "patrolled_datetime": "2023-09-12 16:37:37",
+      "days_since_patrolled": "0",
       "name": "SOPHIA ST",
       "type": "Urban"
     },
@@ -3777,7 +3777,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 12:27:59",
+      "patrolled_datetime": "2023-09-12 16:38:18",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3787,7 +3787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 16:30:34",
+      "patrolled_datetime": "2023-09-12 16:38:35",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3837,7 +3837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 16:30:16",
+      "patrolled_datetime": "2023-09-12 16:42:30",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-12T12:38:58.213513-04:00"
+  "current_datetime": "2023-09-12T12:46:17.057150-04:00"
 }
