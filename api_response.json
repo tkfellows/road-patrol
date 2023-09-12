@@ -2237,7 +2237,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 12:32:27",
+      "patrolled_datetime": "2023-09-12 15:59:04",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-12 15:30:45",
+      "patrolled_datetime": "2023-09-12 15:55:17",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -2557,7 +2557,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 13:17:26",
+      "patrolled_datetime": "2023-09-12 16:01:40",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -2617,8 +2617,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 14:45:06",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-09-12 16:02:50",
+      "days_since_patrolled": "0",
       "name": "MAPLE DR",
       "type": "Semi-Urban"
     },
@@ -6537,7 +6537,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 12:33:58",
+      "patrolled_datetime": "2023-09-12 15:56:58",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -6547,8 +6547,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-06 19:32:03",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-09-12 16:00:43",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 15:47:17",
+      "patrolled_datetime": "2023-09-12 15:52:41",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-12T11:52:25.416170-04:00"
+  "current_datetime": "2023-09-12T12:09:59.362747-04:00"
 }
