@@ -1187,8 +1187,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:38:52",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-09-12 19:21:54",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2557,7 +2557,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 18:54:43",
+      "patrolled_datetime": "2023-09-12 19:18:34",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -2577,8 +2577,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:37:12",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-09-12 19:20:24",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2617,7 +2617,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-12 18:38:43",
+      "patrolled_datetime": "2023-09-12 19:11:23",
       "days_since_patrolled": "0",
       "name": "MAPLE DR",
       "type": "Semi-Urban"
@@ -2627,7 +2627,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-12 18:40:09",
+      "patrolled_datetime": "2023-09-12 19:13:27",
       "days_since_patrolled": "0",
       "name": "MAPLE LN",
       "type": "Semi-Urban"
@@ -6957,7 +6957,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 18:41:04",
+      "patrolled_datetime": "2023-09-12 19:17:14",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -6967,7 +6967,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-12 18:40:34",
+      "patrolled_datetime": "2023-09-12 19:14:40",
       "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Semi-Urban"
@@ -7087,8 +7087,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:40:33",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-09-12 19:23:25",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-12T15:52:16.447595-04:00"
+  "current_datetime": "2023-09-12T16:08:07.681878-04:00"
 }
