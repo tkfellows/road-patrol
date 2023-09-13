@@ -347,8 +347,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-11 20:00:11",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-13 12:51:40",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -747,8 +747,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-11 18:26:51",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-13 12:40:31",
+      "days_since_patrolled": "0",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
     },
@@ -2847,8 +2847,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-11 20:01:34",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-13 12:41:18",
+      "days_since_patrolled": "0",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
     },
@@ -4467,7 +4467,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 12:25:24",
+      "patrolled_datetime": "2023-09-13 12:39:40",
       "days_since_patrolled": "0",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-13T08:43:46.423961-04:00"
+  "current_datetime": "2023-09-13T09:00:24.501757-04:00"
 }
