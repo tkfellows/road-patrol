@@ -1677,8 +1677,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 18:04:31",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-09-13 15:45:29",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2457,8 +2457,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 18:00:46",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-09-13 15:45:50",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -4307,8 +4307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-11 18:09:18",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-13 15:43:34",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 15:35:03",
+      "patrolled_datetime": "2023-09-13 15:42:53",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4397,8 +4397,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-08 18:04:53",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-09-13 15:44:04",
+      "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-13T11:42:16.083449-04:00"
+  "current_datetime": "2023-09-13T11:52:16.893642-04:00"
 }
