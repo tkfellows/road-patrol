@@ -8017,7 +8017,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-14 16:41:56",
+      "patrolled_datetime": "2023-09-14 16:46:57",
       "days_since_patrolled": "0",
       "name": "COMMUNITY CENTRE DR",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-14T12:46:07.845867-04:00"
+  "current_datetime": "2023-09-14T12:53:15.146819-04:00"
 }
