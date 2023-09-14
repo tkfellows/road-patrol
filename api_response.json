@@ -347,7 +347,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 18:09:25",
+      "patrolled_datetime": "2023-09-13 20:28:10",
       "days_since_patrolled": "1",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -357,7 +357,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 18:13:23",
+      "patrolled_datetime": "2023-09-13 19:43:48",
       "days_since_patrolled": "1",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -747,7 +747,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 18:02:29",
+      "patrolled_datetime": "2023-09-13 20:23:09",
       "days_since_patrolled": "1",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
@@ -757,7 +757,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 18:12:37",
+      "patrolled_datetime": "2023-09-13 19:45:31",
       "days_since_patrolled": "1",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1097,7 +1097,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 18:10:43",
+      "patrolled_datetime": "2023-09-13 19:50:23",
       "days_since_patrolled": "1",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1527,7 +1527,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 16:13:35",
+      "patrolled_datetime": "2023-09-13 20:32:03",
       "days_since_patrolled": "1",
       "name": "NORTHACRES RD",
       "type": "Rural"
@@ -1657,7 +1657,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 15:21:21",
+      "patrolled_datetime": "2023-09-13 19:41:02",
       "days_since_patrolled": "1",
       "name": "RANKIN BRIDGE RD",
       "type": "Rural"
@@ -2247,7 +2247,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 15:18:03",
+      "patrolled_datetime": "2023-09-13 19:42:58",
       "days_since_patrolled": "1",
       "name": "RANKIN BRIDGE RD",
       "type": "Rural"
@@ -2557,7 +2557,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 14:42:49",
+      "patrolled_datetime": "2023-09-13 19:08:14",
       "days_since_patrolled": "1",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -2577,8 +2577,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-12 19:20:24",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-13 19:08:17",
+      "days_since_patrolled": "1",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2617,7 +2617,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 14:41:21",
+      "patrolled_datetime": "2023-09-13 19:06:48",
       "days_since_patrolled": "1",
       "name": "MAPLE DR",
       "type": "Semi-Urban"
@@ -2847,7 +2847,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 18:07:28",
+      "patrolled_datetime": "2023-09-13 20:29:04",
       "days_since_patrolled": "1",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
@@ -2857,7 +2857,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-13 16:14:37",
+      "patrolled_datetime": "2023-09-13 20:30:07",
       "days_since_patrolled": "1",
       "name": "MEADOWLAND RD",
       "type": "Rural"
@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 15:42:53",
+      "patrolled_datetime": "2023-09-13 19:36:17",
       "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4907,8 +4907,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 17:12:04",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-13 19:18:39",
+      "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4917,8 +4917,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 15:05:04",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-13 19:18:54",
+      "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4927,8 +4927,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 15:04:48",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-13 19:18:58",
+      "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4937,8 +4937,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 15:04:27",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-13 19:19:30",
+      "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -5137,8 +5137,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 15:04:05",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-13 19:19:50",
+      "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -5147,8 +5147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-11 16:24:05",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-09-13 19:20:11",
+      "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -5157,8 +5157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-11 16:26:01",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-09-13 19:22:13",
+      "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -6157,8 +6157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-12 15:04:44",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-13 19:19:15",
+      "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -6537,7 +6537,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 18:18:43",
+      "patrolled_datetime": "2023-09-13 19:11:37",
       "days_since_patrolled": "1",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -6547,7 +6547,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 14:44:23",
+      "patrolled_datetime": "2023-09-13 19:09:48",
       "days_since_patrolled": "1",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 18:23:39",
+      "patrolled_datetime": "2023-09-13 19:18:28",
       "days_since_patrolled": "1",
       "name": "MAIN ST",
       "type": ""
@@ -8047,7 +8047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 18:23:55",
+      "patrolled_datetime": "2023-09-13 19:18:10",
       "days_since_patrolled": "1",
       "name": "MAIN ST",
       "type": ""
@@ -8057,7 +8057,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 18:24:18",
+      "patrolled_datetime": "2023-09-13 19:17:53",
       "days_since_patrolled": "1",
       "name": "MAIN ST",
       "type": ""
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 18:24:24",
+      "patrolled_datetime": "2023-09-13 19:17:30",
       "days_since_patrolled": "1",
       "name": "MAIN ST",
       "type": ""
@@ -8137,8 +8137,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-11 16:26:29",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-09-13 19:22:39",
+      "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8147,7 +8147,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 15:21:27",
+      "patrolled_datetime": "2023-09-13 19:37:55",
       "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8157,7 +8157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 15:23:00",
+      "patrolled_datetime": "2023-09-13 19:37:51",
       "days_since_patrolled": "1",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-14T10:32:54.960670-04:00"
+  "current_datetime": "2023-09-14T10:42:22.622900-04:00"
 }
