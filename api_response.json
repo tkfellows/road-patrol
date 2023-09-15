@@ -1607,8 +1607,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-09-13 21:05:48",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-15 12:35:49",
+      "days_since_patrolled": "0",
       "name": "",
       "type": ""
     },
@@ -1617,8 +1617,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-09-14 12:36:22",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-15 12:35:42",
+      "days_since_patrolled": "0",
       "name": "",
       "type": ""
     },
@@ -3587,8 +3587,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-09-14 21:20:49",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-15 12:35:24",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
     },
@@ -3597,8 +3597,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-09-14 21:20:46",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-15 12:35:35",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
     },
@@ -3617,8 +3617,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-09-14 21:20:16",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-15 12:35:46",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -3777,8 +3777,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 21:05:55",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-15 12:35:53",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -3787,8 +3787,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 21:06:09",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-15 12:36:03",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -3837,8 +3837,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 21:06:37",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-15 12:36:24",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -3847,8 +3847,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-13 21:07:05",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-09-15 12:36:46",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-15T08:14:19.207339-04:00"
+  "current_datetime": "2023-09-15T08:42:41.467718-04:00"
 }
