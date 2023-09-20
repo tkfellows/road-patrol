@@ -2117,8 +2117,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-17 18:23:23",
-      "days_since_patrolled": "65",
+      "patrolled_datetime": "2023-09-20 15:20:08",
+      "days_since_patrolled": "0",
       "name": "WARREN ST",
       "type": "Semi-Urban"
     },
@@ -2137,8 +2137,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-09-20 15:17:26",
+      "days_since_patrolled": "0",
       "name": "MARGUARETTA ST",
       "type": "Semi-Urban"
     },
@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-20 14:49:38",
+      "patrolled_datetime": "2023-09-20 14:54:39",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-20T11:42:26.974189-04:00"
+  "current_datetime": "2023-09-20T11:52:35.235130-04:00"
 }
