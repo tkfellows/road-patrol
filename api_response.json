@@ -347,7 +347,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-21 14:25:08",
+      "patrolled_datetime": "2023-09-21 14:35:09",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-21T10:33:15.321446-04:00"
+  "current_datetime": "2023-09-21T10:42:38.738813-04:00"
 }
