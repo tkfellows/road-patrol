@@ -1747,8 +1747,8 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-12 13:42:32",
-      "days_since_patrolled": "15",
+      "patrolled_datetime": "2023-09-27 13:35:29",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-27 13:26:36",
+      "patrolled_datetime": "2023-09-27 13:35:37",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -4517,8 +4517,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 18:37:40",
-      "days_since_patrolled": "42",
+      "patrolled_datetime": "2023-09-27 13:33:51",
+      "days_since_patrolled": "0",
       "name": "SANDY PINES TRL",
       "type": "Semi-Urban"
     },
@@ -4527,8 +4527,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 18:37:48",
-      "days_since_patrolled": "42",
+      "patrolled_datetime": "2023-09-27 13:33:12",
+      "days_since_patrolled": "0",
       "name": "PINE FOREST DR",
       "type": "Semi-Urban"
     },
@@ -4537,8 +4537,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 18:37:24",
-      "days_since_patrolled": "42",
+      "patrolled_datetime": "2023-09-27 13:32:48",
+      "days_since_patrolled": "0",
       "name": "MELBERT PL",
       "type": "Semi-Urban"
     },
@@ -5737,8 +5737,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-16 18:29:15",
-      "days_since_patrolled": "42",
+      "patrolled_datetime": "2023-09-27 13:33:48",
+      "days_since_patrolled": "0",
       "name": "PINE FOREST DR",
       "type": "Rural"
     },
@@ -8327,8 +8327,8 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-22 20:55:54",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-09-27 13:35:33",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-27T09:32:39.918214-04:00"
+  "current_datetime": "2023-09-27T09:42:40.109328-04:00"
 }
