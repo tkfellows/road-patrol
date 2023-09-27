@@ -2537,8 +2537,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-26 20:42:14",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-09-27 13:26:36",
+      "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
     },
@@ -5267,8 +5267,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 13:38:15",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-09-27 13:23:03",
+      "days_since_patrolled": "0",
       "name": "DEER TRAIL RD",
       "type": "Semi-Urban"
     },
@@ -5357,7 +5357,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-27 13:16:52",
+      "patrolled_datetime": "2023-09-27 13:21:51",
       "days_since_patrolled": "0",
       "name": "JEWEL BRIDGE RD",
       "type": "Semi-Urban"
@@ -5367,8 +5367,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-14 17:35:56",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-09-27 13:24:31",
+      "days_since_patrolled": "0",
       "name": "D LINE",
       "type": "Rural"
     },
@@ -5377,8 +5377,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 19:57:18",
-      "days_since_patrolled": "19",
+      "patrolled_datetime": "2023-09-27 13:22:23",
+      "days_since_patrolled": "0",
       "name": "D LINE",
       "type": "Semi-Urban"
     },
@@ -5397,7 +5397,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-27 13:17:36",
+      "patrolled_datetime": "2023-09-27 13:20:09",
       "days_since_patrolled": "0",
       "name": "DORENA CR",
       "type": "Semi-Urban"
@@ -8067,8 +8067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-21 16:17:08",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-09-27 13:25:49",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-09-27T09:24:06.366093-04:00"
+  "current_datetime": "2023-09-27T09:32:39.918214-04:00"
 }
