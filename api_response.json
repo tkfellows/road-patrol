@@ -347,7 +347,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-03 17:02:30",
+      "patrolled_datetime": "2023-10-03 18:12:21",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1097,7 +1097,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-03 17:01:21",
+      "patrolled_datetime": "2023-10-03 18:21:28",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1517,7 +1517,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-03 17:07:13",
+      "patrolled_datetime": "2023-10-03 18:07:18",
       "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
@@ -1527,7 +1527,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-03 17:06:14",
+      "patrolled_datetime": "2023-10-03 18:09:07",
       "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
@@ -2847,7 +2847,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-03 17:03:11",
+      "patrolled_datetime": "2023-10-03 18:10:41",
       "days_since_patrolled": "0",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
@@ -2857,7 +2857,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-03 17:04:11",
+      "patrolled_datetime": "2023-10-03 18:10:07",
       "days_since_patrolled": "0",
       "name": "MEADOWLAND RD",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-03T14:10:32.253267-04:00"
+  "current_datetime": "2023-10-03T14:29:49.831437-04:00"
 }
