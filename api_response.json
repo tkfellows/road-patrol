@@ -8007,8 +8007,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-20 12:34:43",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-10-03 20:44:56",
+      "days_since_patrolled": "0",
       "name": "BANNISTER DR",
       "type": "Semi-Urban"
     },
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-03 20:37:28",
+      "patrolled_datetime": "2023-10-03 20:45:28",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8047,8 +8047,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-27 13:39:45",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-10-03 20:45:53",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8057,8 +8057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-27 13:39:24",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-10-03 20:46:17",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8067,8 +8067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-27 13:38:57",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-10-03 20:47:05",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8087,8 +8087,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-12 17:14:50",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-10-03 20:45:32",
+      "days_since_patrolled": "0",
       "name": "ROBERT AVE",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-03T16:42:18.474191-04:00"
+  "current_datetime": "2023-10-03T16:52:32.114961-04:00"
 }
