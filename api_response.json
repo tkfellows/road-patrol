@@ -2617,7 +2617,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 17:47:43",
+      "patrolled_datetime": "2023-10-05 17:55:33",
       "days_since_patrolled": "0",
       "name": "MAPLE DR",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-05T13:52:21.010681-04:00"
+  "current_datetime": "2023-10-05T14:10:30.672960-04:00"
 }
