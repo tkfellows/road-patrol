@@ -2487,7 +2487,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 20:37:07",
+      "patrolled_datetime": "2023-10-05 20:38:35",
       "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
@@ -3777,8 +3777,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-03 20:57:26",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-10-05 20:47:03",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -3787,8 +3787,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-03 20:57:14",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-10-05 20:46:52",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -3837,8 +3837,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-03 20:56:57",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-10-05 20:46:37",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -3847,8 +3847,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-03 20:56:33",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-10-05 20:46:11",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
     },
@@ -5877,7 +5877,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-05 20:40:00",
+      "patrolled_datetime": "2023-10-05 20:45:38",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-05T16:42:26.163294-04:00"
+  "current_datetime": "2023-10-05T16:52:28.722021-04:00"
 }
