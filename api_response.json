@@ -1657,8 +1657,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 20:12:51",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 16:19:53",
+      "days_since_patrolled": "0",
       "name": "RANKIN BRIDGE RD",
       "type": "Rural"
     },
@@ -2247,8 +2247,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 20:32:05",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 16:20:03",
+      "days_since_patrolled": "0",
       "name": "RANKIN BRIDGE RD",
       "type": "Rural"
     },
@@ -4317,8 +4317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-05 20:08:18",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 16:15:43",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4807,8 +4807,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-27 14:04:10",
-      "days_since_patrolled": "9",
+      "patrolled_datetime": "2023-10-06 16:05:46",
+      "days_since_patrolled": "0",
       "name": "SECOND AVE N",
       "type": "Semi-Urban"
     },
@@ -4817,8 +4817,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-27 14:04:22",
-      "days_since_patrolled": "9",
+      "patrolled_datetime": "2023-10-06 16:05:56",
+      "days_since_patrolled": "0",
       "name": "SECOND AVE N",
       "type": "Semi-Urban"
     },
@@ -4827,8 +4827,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-27 14:05:39",
-      "days_since_patrolled": "9",
+      "patrolled_datetime": "2023-10-06 16:07:05",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS RD",
       "type": "Semi-Urban"
     },
@@ -6737,8 +6737,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-01 19:40:44",
-      "days_since_patrolled": "66",
+      "patrolled_datetime": "2023-10-06 16:06:32",
+      "days_since_patrolled": "0",
       "name": "GUELPH ST",
       "type": "Semi-Urban"
     },
@@ -8137,8 +8137,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-05 19:40:48",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 16:08:30",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8147,8 +8147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-05 20:09:50",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 16:17:11",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8157,8 +8157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-05 20:09:44",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 16:17:03",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8337,8 +8337,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-27 14:06:40",
-      "days_since_patrolled": "9",
+      "patrolled_datetime": "2023-10-06 16:07:59",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS RD",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-06T12:10:08.673151-04:00"
+  "current_datetime": "2023-10-06T12:29:06.955570-04:00"
 }
