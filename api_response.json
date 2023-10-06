@@ -357,8 +357,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 20:31:39",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 13:10:56",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -757,8 +757,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 20:30:56",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 13:11:03",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -777,8 +777,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 20:33:59",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 13:10:20",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -787,8 +787,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 20:36:01",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 13:08:43",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
     },
@@ -1197,8 +1197,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 16:15:58",
-      "days_since_patrolled": "37",
+      "patrolled_datetime": "2023-10-06 13:02:25",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -2487,8 +2487,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 20:38:35",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 13:07:07",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -2507,8 +2507,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-03 12:34:20",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-10-06 13:04:56",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -2587,8 +2587,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-18 21:55:49",
-      "days_since_patrolled": "18",
+      "patrolled_datetime": "2023-10-06 13:03:15",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -3057,7 +3057,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-06 12:54:52",
+      "patrolled_datetime": "2023-10-06 12:56:21",
       "days_since_patrolled": "0",
       "name": "FIELDSIDE RD",
       "type": "Rural"
@@ -7077,8 +7077,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-28 12:45:12",
-      "days_since_patrolled": "39",
+      "patrolled_datetime": "2023-10-06 13:01:02",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -7107,8 +7107,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 21:19:23",
-      "days_since_patrolled": "28",
+      "patrolled_datetime": "2023-10-06 12:58:48",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-06T09:00:20.933820-04:00"
+  "current_datetime": "2023-10-06T09:24:27.149282-04:00"
 }
