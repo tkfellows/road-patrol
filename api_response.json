@@ -1517,8 +1517,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 16:10:41",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 16:41:05",
+      "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
     },
@@ -1527,7 +1527,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-06 16:38:07",
+      "patrolled_datetime": "2023-10-06 16:39:31",
       "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-06T12:39:44.861568-04:00"
+  "current_datetime": "2023-10-06T12:46:42.602002-04:00"
 }
