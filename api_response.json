@@ -8267,7 +8267,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-06 19:26:03",
+      "patrolled_datetime": "2023-10-06 19:30:11",
       "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
@@ -8307,7 +8307,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-06 17:06:26",
+      "patrolled_datetime": "2023-10-06 19:29:34",
       "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-06T15:32:54.436887-04:00"
+  "current_datetime": "2023-10-06T15:42:13.667162-04:00"
 }
