@@ -347,8 +347,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 20:26:02",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 16:34:09",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -357,7 +357,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-06 13:40:05",
+      "patrolled_datetime": "2023-10-06 16:22:09",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -757,7 +757,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-06 13:39:27",
+      "patrolled_datetime": "2023-10-06 16:24:11",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1097,7 +1097,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-06 13:37:29",
+      "patrolled_datetime": "2023-10-06 16:33:09",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1527,8 +1527,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 16:08:42",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 16:38:07",
+      "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
     },
@@ -2247,7 +2247,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-06 16:20:03",
+      "patrolled_datetime": "2023-10-06 16:21:12",
       "days_since_patrolled": "0",
       "name": "RANKIN BRIDGE RD",
       "type": "Rural"
@@ -2847,8 +2847,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 20:24:47",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 16:34:42",
+      "days_since_patrolled": "0",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
     },
@@ -2857,8 +2857,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-05 20:24:06",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-06 16:37:42",
+      "days_since_patrolled": "0",
       "name": "MEADOWLAND RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-06T12:29:06.955570-04:00"
+  "current_datetime": "2023-10-06T12:39:44.861568-04:00"
 }
