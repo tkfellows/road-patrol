@@ -407,8 +407,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-06 15:26:53",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-10-10 17:18:05",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -1747,7 +1747,7 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-10 17:14:03",
+      "patrolled_datetime": "2023-10-10 17:14:41",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -2227,7 +2227,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-10 15:29:24",
+      "patrolled_datetime": "2023-10-10 17:16:43",
       "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
@@ -4557,7 +4557,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-10 15:29:28",
+      "patrolled_datetime": "2023-10-10 17:14:48",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -5737,8 +5737,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-27 13:33:59",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-10-10 17:14:44",
+      "days_since_patrolled": "0",
       "name": "PINE FOREST DR",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-10T13:21:10.897603-04:00"
+  "current_datetime": "2023-10-10T13:32:43.016409-04:00"
 }
