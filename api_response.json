@@ -3587,7 +3587,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-10 12:38:09",
+      "patrolled_datetime": "2023-10-10 20:40:58",
       "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
@@ -3597,7 +3597,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-10 12:38:53",
+      "patrolled_datetime": "2023-10-10 20:40:54",
       "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
@@ -3777,7 +3777,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-10 15:14:54",
+      "patrolled_datetime": "2023-10-10 20:40:32",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3787,7 +3787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-10 15:15:07",
+      "patrolled_datetime": "2023-10-10 20:40:17",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3837,7 +3837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-10 15:15:30",
+      "patrolled_datetime": "2023-10-10 20:40:06",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3847,7 +3847,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-10 15:15:56",
+      "patrolled_datetime": "2023-10-10 20:39:40",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -5877,7 +5877,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-10 15:16:55",
+      "patrolled_datetime": "2023-10-10 20:39:14",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -7057,8 +7057,8 @@
       "class_number": "0",
       "class_name": "100",
       "ownership": "Private",
-      "patrolled_datetime": "2023-08-29 20:40:52",
-      "days_since_patrolled": "42",
+      "patrolled_datetime": "2023-10-10 20:38:14",
+      "days_since_patrolled": "0",
       "name": "ROGER\\'S CR (PVT)",
       "type": "Rural"
     },
@@ -7067,7 +7067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-10 15:17:06",
+      "patrolled_datetime": "2023-10-10 20:38:10",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-10T16:42:26.985060-04:00"
+  "current_datetime": "2023-10-10T16:52:49.772781-04:00"
 }
