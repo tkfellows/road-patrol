@@ -5207,7 +5207,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-11 16:35:19",
+      "patrolled_datetime": "2023-10-11 16:38:33",
       "days_since_patrolled": "0",
       "name": "SIMCOE AVE",
       "type": "Semi-Urban"
@@ -5407,7 +5407,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-11 16:35:09",
+      "patrolled_datetime": "2023-10-11 16:37:57",
       "days_since_patrolled": "0",
       "name": "FIFTH ST N",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-11T12:39:53.086878-04:00"
+  "current_datetime": "2023-10-11T12:47:07.000782-04:00"
 }
