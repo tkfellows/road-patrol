@@ -197,7 +197,7 @@
       "class_number": "0",
       "class_name": "Local",
       "ownership": "Private",
-      "patrolled_datetime": "2023-10-12 15:53:50",
+      "patrolled_datetime": "2023-10-12 17:53:19",
       "days_since_patrolled": "0",
       "name": "GOLF COURSE RD (PVT)",
       "type": "Semi-Urban"
@@ -2307,7 +2307,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-12 17:32:48",
+      "patrolled_datetime": "2023-10-12 18:03:20",
       "days_since_patrolled": "0",
       "name": "CAMP RD",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-12T13:52:29.786903-04:00"
+  "current_datetime": "2023-10-12T14:10:36.422276-04:00"
 }
