@@ -177,7 +177,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-12 16:13:36",
+      "patrolled_datetime": "2023-10-12 16:45:33",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -2307,7 +2307,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-12 16:12:40",
+      "patrolled_datetime": "2023-10-12 17:17:45",
       "days_since_patrolled": "0",
       "name": "CAMP RD",
       "type": "Semi-Urban"
@@ -2317,7 +2317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-12 16:14:19",
+      "patrolled_datetime": "2023-10-12 16:44:49",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -2337,7 +2337,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-12 16:15:02",
+      "patrolled_datetime": "2023-10-12 16:44:07",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -2557,7 +2557,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-12 16:17:15",
+      "patrolled_datetime": "2023-10-12 16:42:31",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -2667,7 +2667,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-12 16:15:26",
+      "patrolled_datetime": "2023-10-12 16:43:25",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -6537,7 +6537,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-12 16:38:14",
+      "patrolled_datetime": "2023-10-12 16:39:43",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -6547,7 +6547,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-12 13:12:20",
+      "patrolled_datetime": "2023-10-12 16:41:16",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -6947,7 +6947,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-12 16:15:48",
+      "patrolled_datetime": "2023-10-12 16:43:05",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -6957,7 +6957,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-12 16:15:59",
+      "patrolled_datetime": "2023-10-12 16:42:41",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-12T13:07:26.799125-04:00"
+  "current_datetime": "2023-10-12T13:22:39.695573-04:00"
 }
