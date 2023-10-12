@@ -177,8 +177,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-11 18:04:40",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-12 13:25:16",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2307,8 +2307,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-11 18:03:35",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-12 13:30:26",
+      "days_since_patrolled": "0",
       "name": "CAMP RD",
       "type": "Semi-Urban"
     },
@@ -2317,8 +2317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-11 18:05:28",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-12 13:24:33",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2337,7 +2337,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-12 13:23:42",
+      "patrolled_datetime": "2023-10-12 13:23:52",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-12T09:27:46.181102-04:00"
+  "current_datetime": "2023-10-12T09:36:40.432746-04:00"
 }
