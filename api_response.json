@@ -4477,8 +4477,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-18 16:15:35",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-19 15:36:44",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-19T11:32:59.940858-04:00"
+  "current_datetime": "2023-10-19T11:42:14.572497-04:00"
 }
