@@ -8587,7 +8587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-23 13:35:20",
+      "patrolled_datetime": "2023-10-23 13:45:21",
       "days_since_patrolled": "0",
       "name": "FRANK ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-23T09:42:16.511026-04:00"
+  "current_datetime": "2023-10-23T09:52:22.357660-04:00"
 }
