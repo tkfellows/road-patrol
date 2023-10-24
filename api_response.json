@@ -347,8 +347,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-18 19:00:10",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-10-24 15:47:46",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -1097,8 +1097,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-18 18:59:26",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-10-24 15:48:07",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -2847,8 +2847,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-18 19:00:43",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-10-24 15:45:49",
+      "days_since_patrolled": "0",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
     },
@@ -2857,8 +2857,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-18 19:01:22",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-10-24 15:41:17",
+      "days_since_patrolled": "0",
       "name": "MEADOWLAND RD",
       "type": "Rural"
     },
@@ -4467,8 +4467,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-19 17:49:02",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-10-24 15:41:10",
+      "days_since_patrolled": "0",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
     },
@@ -7007,7 +7007,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-24 15:36:17",
+      "patrolled_datetime": "2023-10-24 15:36:24",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -7017,8 +7017,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-10 18:28:29",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-10-24 15:38:15",
+      "days_since_patrolled": "0",
       "name": "MEADOWLAND RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-24T11:42:17.979277-04:00"
+  "current_datetime": "2023-10-24T11:52:39.418863-04:00"
 }
