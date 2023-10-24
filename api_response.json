@@ -347,7 +347,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-24 16:48:15",
+      "patrolled_datetime": "2023-10-24 16:48:59",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -1517,8 +1517,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-18 19:04:30",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-10-24 16:54:18",
+      "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
     },
@@ -1527,8 +1527,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-18 19:02:47",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-10-24 16:52:16",
+      "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
     },
@@ -2837,8 +2837,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-23 17:50:07",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-24 16:54:27",
+      "days_since_patrolled": "0",
       "name": "ELM RD",
       "type": "Rural"
     },
@@ -2847,7 +2847,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-24 15:45:49",
+      "patrolled_datetime": "2023-10-24 16:49:30",
       "days_since_patrolled": "0",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
@@ -2857,7 +2857,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-24 15:41:17",
+      "patrolled_datetime": "2023-10-24 16:50:42",
       "days_since_patrolled": "0",
       "name": "MEADOWLAND RD",
       "type": "Rural"
@@ -6997,8 +6997,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-11 15:11:46",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-10-24 16:52:24",
+      "days_since_patrolled": "0",
       "name": "BOAT LAKE RD",
       "type": "Rural"
     },
@@ -8277,8 +8277,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-23 17:49:26",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-24 17:01:24",
+      "days_since_patrolled": "0",
       "name": "ELM RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-24T12:52:38.727610-04:00"
+  "current_datetime": "2023-10-24T13:07:18.735976-04:00"
 }
