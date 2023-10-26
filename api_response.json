@@ -867,7 +867,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-26 17:17:42",
+      "patrolled_datetime": "2023-10-26 17:18:38",
       "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
@@ -8677,7 +8677,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-26 17:16:46",
+      "patrolled_datetime": "2023-10-26 17:25:41",
       "days_since_patrolled": "0",
       "name": "MCNAUGHTON ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-26T13:21:34.684254-04:00"
+  "current_datetime": "2023-10-26T13:32:43.331299-04:00"
 }
