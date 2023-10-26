@@ -297,8 +297,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-19 13:15:09",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-10-26 13:11:25",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -307,8 +307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-19 13:15:13",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-10-26 13:10:32",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1067,8 +1067,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-06 20:01:22",
-      "days_since_patrolled": "20",
+      "patrolled_datetime": "2023-10-26 13:11:43",
+      "days_since_patrolled": "0",
       "name": "MALLORY BEACH RD",
       "type": "Semi-Urban"
     },
@@ -1327,8 +1327,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-19 13:13:59",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-10-26 13:11:39",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1397,8 +1397,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-19 13:14:05",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-10-26 13:11:32",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2967,8 +2967,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-19 13:13:34",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-10-26 13:15:46",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -6187,8 +6187,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-19 13:13:37",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-10-26 13:11:57",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -6347,8 +6347,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Private",
-      "patrolled_datetime": "2023-07-13 18:17:30",
-      "days_since_patrolled": "105",
+      "patrolled_datetime": "2023-10-26 13:12:59",
+      "days_since_patrolled": "0",
       "name": "GATIS LN (PVT)",
       "type": "Semi-Urban"
     },
@@ -6987,8 +6987,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-19 13:13:51",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-10-26 13:11:54",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-26T09:16:30.395279-04:00"
+  "current_datetime": "2023-10-26T09:29:45.471910-04:00"
 }
