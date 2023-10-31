@@ -377,8 +377,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-15 15:24:10",
-      "days_since_patrolled": "46",
+      "patrolled_datetime": "2023-10-31 12:59:23",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -387,8 +387,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-15 15:23:56",
-      "days_since_patrolled": "46",
+      "patrolled_datetime": "2023-10-31 13:00:14",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -407,8 +407,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-12 14:45:57",
-      "days_since_patrolled": "19",
+      "patrolled_datetime": "2023-10-31 12:57:07",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -627,8 +627,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:28:32",
-      "days_since_patrolled": "62",
+      "patrolled_datetime": "2023-10-31 13:11:28",
+      "days_since_patrolled": "0",
       "name": "GRAHAM CR",
       "type": "Semi-Urban"
     },
@@ -937,8 +937,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-15 15:23:10",
-      "days_since_patrolled": "46",
+      "patrolled_datetime": "2023-10-31 13:00:29",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -1667,7 +1667,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 12:53:39",
+      "patrolled_datetime": "2023-10-31 12:54:52",
       "days_since_patrolled": "0",
       "name": "SKIPNESS RD W",
       "type": "Rural"
@@ -4497,8 +4497,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-02 15:21:08",
-      "days_since_patrolled": "29",
+      "patrolled_datetime": "2023-10-31 13:08:10",
+      "days_since_patrolled": "0",
       "name": "MAPLEPORT CR",
       "type": "Semi-Urban"
     },
@@ -4577,8 +4577,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-02 15:21:52",
-      "days_since_patrolled": "29",
+      "patrolled_datetime": "2023-10-31 13:00:32",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -6917,8 +6917,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-12 14:43:53",
-      "days_since_patrolled": "19",
+      "patrolled_datetime": "2023-10-31 12:58:59",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Rural"
     },
@@ -7907,8 +7907,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-07-27 17:39:12",
-      "days_since_patrolled": "96",
+      "patrolled_datetime": "2023-10-31 13:10:26",
+      "days_since_patrolled": "0",
       "name": "GRAHAM CR",
       "type": "Semi-Urban"
     },
@@ -7917,8 +7917,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-02 15:21:19",
-      "days_since_patrolled": "29",
+      "patrolled_datetime": "2023-10-31 13:08:39",
+      "days_since_patrolled": "0",
       "name": "BIRCH ST",
       "type": "Semi-Urban"
     },
@@ -8377,8 +8377,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 20:28:44",
-      "days_since_patrolled": "62",
+      "patrolled_datetime": "2023-10-31 13:11:41",
+      "days_since_patrolled": "0",
       "name": "BIRCH ST",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-31T08:58:58.826248-04:00"
+  "current_datetime": "2023-10-31T09:16:45.951922-04:00"
 }
