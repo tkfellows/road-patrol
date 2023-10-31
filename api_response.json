@@ -847,7 +847,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:02:21",
+      "patrolled_datetime": "2023-10-31 18:05:15",
       "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
@@ -3427,7 +3427,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 17:47:37",
+      "patrolled_datetime": "2023-10-31 17:49:35",
       "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
@@ -3737,7 +3737,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:05:53",
+      "patrolled_datetime": "2023-10-31 18:03:55",
       "days_since_patrolled": "0",
       "name": "DANIEL ST",
       "type": "Semi-Urban"
@@ -6447,7 +6447,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:02:07",
+      "patrolled_datetime": "2023-10-31 18:05:37",
       "days_since_patrolled": "0",
       "name": "LOUISA ST",
       "type": "Urban"
@@ -7677,7 +7677,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:06:15",
+      "patrolled_datetime": "2023-10-31 18:04:35",
       "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
@@ -7687,7 +7687,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 09:55:30",
+      "patrolled_datetime": "2023-10-31 18:00:07",
       "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
@@ -8387,7 +8387,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 11:05:56",
+      "patrolled_datetime": "2023-10-31 17:58:06",
       "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
@@ -8397,7 +8397,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 11:05:07",
+      "patrolled_datetime": "2023-10-31 17:59:03",
       "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
@@ -8517,8 +8517,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-26 13:59:21",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-10-31 18:05:03",
+      "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
     },
@@ -8527,7 +8527,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 09:55:02",
+      "patrolled_datetime": "2023-10-31 18:00:35",
       "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
@@ -8537,8 +8537,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-30 14:47:49",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-31 17:59:32",
+      "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
     },
@@ -8597,8 +8597,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-30 10:42:07",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-10-31 17:57:26",
+      "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
     },
@@ -8607,7 +8607,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 11:05:26",
+      "patrolled_datetime": "2023-10-31 17:58:31",
       "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
@@ -8617,7 +8617,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 11:05:43",
+      "patrolled_datetime": "2023-10-31 17:58:16",
       "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
@@ -8627,7 +8627,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 11:06:09",
+      "patrolled_datetime": "2023-10-31 17:57:46",
       "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-31T13:52:30.584097-04:00"
+  "current_datetime": "2023-10-31T14:10:12.268023-04:00"
 }
