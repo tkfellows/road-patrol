@@ -1147,8 +1147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-23 12:30:45",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-10-31 17:23:49",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -1677,8 +1677,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-23 12:09:16",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-10-31 17:20:17",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2457,8 +2457,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-23 12:29:40",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-10-31 17:22:37",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2867,8 +2867,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-23 12:06:02",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-10-31 17:25:36",
+      "days_since_patrolled": "0",
       "name": "OLD OLIPHANT RD",
       "type": "Rural"
     },
@@ -3697,7 +3697,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:03:54",
+      "patrolled_datetime": "2023-10-31 17:26:34",
       "days_since_patrolled": "0",
       "name": "WATSON ST",
       "type": "Urban"
@@ -4307,7 +4307,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-31 17:03:31",
+      "patrolled_datetime": "2023-10-31 17:18:31",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-31 17:17:37",
+      "patrolled_datetime": "2023-10-31 17:17:48",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4397,8 +4397,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-09-15 14:47:53",
-      "days_since_patrolled": "46",
+      "patrolled_datetime": "2023-10-31 17:18:58",
+      "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": ""
     },
@@ -6507,7 +6507,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:04:16",
+      "patrolled_datetime": "2023-10-31 17:26:07",
       "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Semi-Urban"
@@ -8547,7 +8547,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:03:28",
+      "patrolled_datetime": "2023-10-31 17:26:38",
       "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-31T13:22:01.778744-04:00"
+  "current_datetime": "2023-10-31T13:32:58.771749-04:00"
 }
