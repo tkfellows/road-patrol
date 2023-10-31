@@ -6447,7 +6447,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 18:05:37",
+      "patrolled_datetime": "2023-10-31 18:05:48",
       "days_since_patrolled": "0",
       "name": "LOUISA ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-10-31T14:10:12.268023-04:00"
+  "current_datetime": "2023-10-31T14:26:57.572638-04:00"
 }
