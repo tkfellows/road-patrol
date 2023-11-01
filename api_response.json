@@ -837,7 +837,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 19:08:18",
+      "patrolled_datetime": "2023-10-31 19:08:41",
       "days_since_patrolled": "1",
       "name": "WILLIAM ST",
       "type": "Urban"
@@ -847,7 +847,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 18:05:15",
+      "patrolled_datetime": "2023-10-31 19:08:49",
       "days_since_patrolled": "1",
       "name": "WILLIAM ST",
       "type": "Urban"
@@ -857,7 +857,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:02:38",
+      "patrolled_datetime": "2023-10-31 19:09:03",
       "days_since_patrolled": "1",
       "name": "WILLIAM ST",
       "type": "Urban"
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-31 09:51:41",
+      "patrolled_datetime": "2023-10-31 19:11:16",
       "days_since_patrolled": "1",
       "name": "JENNY ST",
       "type": ""
@@ -7727,7 +7727,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:07:33",
+      "patrolled_datetime": "2023-10-31 19:10:21",
       "days_since_patrolled": "1",
       "name": "MCNAUGHTON ST",
       "type": "Urban"
@@ -8517,7 +8517,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 18:05:03",
+      "patrolled_datetime": "2023-10-31 19:08:52",
       "days_since_patrolled": "1",
       "name": "GOULD ST",
       "type": "Urban"
@@ -8667,7 +8667,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:08:05",
+      "patrolled_datetime": "2023-10-31 19:09:24",
       "days_since_patrolled": "1",
       "name": "MCNAUGHTON ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-01T06:08:37.800851-04:00"
+  "current_datetime": "2023-11-01T06:26:23.446171-04:00"
 }
