@@ -1617,8 +1617,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-11 20:30:17",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-11-01 18:45:52",
+      "days_since_patrolled": "0",
       "name": "",
       "type": ""
     },
@@ -3157,8 +3157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-31 12:27:14",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-01 18:44:44",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -3587,8 +3587,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-18 16:21:27",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-01 18:46:10",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
     },
@@ -3597,8 +3597,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-18 16:21:24",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-01 18:46:02",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
     },
@@ -3607,8 +3607,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-31 12:28:01",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-01 18:45:26",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -3617,8 +3617,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-31 12:28:08",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-01 18:45:38",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -3767,8 +3767,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-18 16:20:27",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-01 18:45:30",
+      "days_since_patrolled": "0",
       "name": "SOPHIA ST",
       "type": "Urban"
     },
@@ -3877,8 +3877,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-11 12:43:26",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-11-01 18:46:06",
+      "days_since_patrolled": "0",
       "name": "STONE SCHOOL RD",
       "type": "Rural"
     },
@@ -4467,8 +4467,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-24 15:41:10",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-11-01 18:42:04",
+      "days_since_patrolled": "0",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
     },
@@ -4477,8 +4477,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-31 12:26:06",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-01 18:43:39",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -4487,8 +4487,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-31 12:24:27",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-01 18:42:00",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -5867,8 +5867,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-31 12:27:50",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-01 18:45:20",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -7007,7 +7007,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-01 18:39:53",
+      "patrolled_datetime": "2023-11-01 18:40:43",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-01T14:42:57.846857-04:00"
+  "current_datetime": "2023-11-01T14:52:33.540972-04:00"
 }
