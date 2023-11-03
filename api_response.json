@@ -8717,7 +8717,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-03 14:36:28",
+      "patrolled_datetime": "2023-11-03 14:46:29",
       "days_since_patrolled": "0",
       "name": "SCOTT ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-03T10:42:28.093639-04:00"
+  "current_datetime": "2023-11-03T10:52:25.874615-04:00"
 }
