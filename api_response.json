@@ -1147,8 +1147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-31 17:23:49",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-03 17:34:20",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -1477,8 +1477,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-23 12:31:00",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-03 17:33:26",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -1677,8 +1677,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-31 17:20:17",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-03 17:37:27",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2457,8 +2457,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-31 17:22:37",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-03 17:36:37",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2887,8 +2887,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-23 12:31:41",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-03 17:33:11",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -3317,7 +3317,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-03 17:31:29",
+      "patrolled_datetime": "2023-11-03 17:31:48",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Semi-Urban"
@@ -3717,7 +3717,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-03 15:30:29",
+      "patrolled_datetime": "2023-11-03 17:31:55",
       "days_since_patrolled": "0",
       "name": "JENNY",
       "type": ""
@@ -3727,7 +3727,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-03 15:30:40",
+      "patrolled_datetime": "2023-11-03 17:32:02",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-03 15:30:49",
+      "patrolled_datetime": "2023-11-03 17:32:39",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-03T13:32:40.639994-04:00"
+  "current_datetime": "2023-11-03T13:42:13.401521-04:00"
 }
