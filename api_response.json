@@ -297,8 +297,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-26 13:37:26",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-06 16:54:01",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -307,8 +307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-26 13:37:36",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-06 16:53:01",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1067,8 +1067,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-26 13:11:43",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-06 16:56:48",
+      "days_since_patrolled": "0",
       "name": "MALLORY BEACH RD",
       "type": "Semi-Urban"
     },
@@ -1327,8 +1327,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-26 13:36:22",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-06 16:54:16",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1397,8 +1397,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-26 13:36:30",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-06 16:54:05",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1417,8 +1417,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-26 13:37:40",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-06 16:52:54",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1427,8 +1427,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-26 13:37:54",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-06 16:52:45",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1627,8 +1627,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-26 13:09:51",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-06 16:52:17",
+      "days_since_patrolled": "0",
       "name": "",
       "type": ""
     },
@@ -3317,7 +3317,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-06 16:50:49",
+      "patrolled_datetime": "2023-11-06 16:50:53",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Semi-Urban"
@@ -5827,8 +5827,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-26 13:38:23",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-06 16:52:35",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -6177,8 +6177,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-10-19 12:21:24",
-      "days_since_patrolled": "18",
+      "patrolled_datetime": "2023-11-06 16:52:48",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -6607,8 +6607,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-10-26 13:39:49",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-11-06 16:51:56",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-06T11:52:32.862077-05:00"
+  "current_datetime": "2023-11-06T12:07:19.661018-05:00"
 }
