@@ -1067,7 +1067,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-06 16:56:57",
+      "patrolled_datetime": "2023-11-06 17:00:34",
       "days_since_patrolled": "0",
       "name": "MALLORY BEACH RD",
       "type": "Semi-Urban"
@@ -3117,8 +3117,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-06 17:03:38",
+      "days_since_patrolled": "0",
       "name": "7TH AVE",
       "type": "Semi-Urban"
     },
@@ -5047,8 +5047,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-06 17:05:04",
+      "days_since_patrolled": "0",
       "name": "14TH AVE",
       "type": "Semi-Urban"
     },
@@ -5057,8 +5057,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-06 17:04:52",
+      "days_since_patrolled": "0",
       "name": "13TH AVE",
       "type": "Semi-Urban"
     },
@@ -5067,8 +5067,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-06 17:04:41",
+      "days_since_patrolled": "0",
       "name": "12TH AVE",
       "type": "Semi-Urban"
     },
@@ -5077,7 +5077,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-06 17:03:19",
+      "patrolled_datetime": "2023-11-06 17:05:19",
       "days_since_patrolled": "0",
       "name": "MALLORY BEACH RD",
       "type": "Semi-Urban"
@@ -5087,8 +5087,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-06 17:04:31",
+      "days_since_patrolled": "0",
       "name": "11TH AVE",
       "type": "Semi-Urban"
     },
@@ -5107,8 +5107,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-06 17:03:58",
+      "days_since_patrolled": "0",
       "name": "9TH AVE",
       "type": "Semi-Urban"
     },
@@ -6237,8 +6237,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-06 17:12:58",
+      "days_since_patrolled": "0",
       "name": "4TH AVE",
       "type": "Semi-Urban"
     },
@@ -6247,8 +6247,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-06 17:23:26",
+      "days_since_patrolled": "0",
       "name": "3RD AVE",
       "type": "Semi-Urban"
     },
@@ -6257,7 +6257,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-06 17:03:09",
+      "patrolled_datetime": "2023-11-06 17:28:31",
       "days_since_patrolled": "0",
       "name": "MALLORY BEACH RD",
       "type": "Semi-Urban"
@@ -6277,7 +6277,7 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "2023-11-06 17:02:24",
+      "patrolled_datetime": "2023-11-06 17:28:27",
       "days_since_patrolled": "0",
       "name": "1ST AVE",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-06T12:22:28.457507-05:00"
+  "current_datetime": "2023-11-06T12:32:56.376044-05:00"
 }
