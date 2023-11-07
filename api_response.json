@@ -397,8 +397,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-12 14:47:39",
-      "days_since_patrolled": "26",
+      "patrolled_datetime": "2023-11-07 16:05:17",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -407,8 +407,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 12:57:07",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-07 16:04:28",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -847,7 +847,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 11:44:07",
+      "patrolled_datetime": "2023-11-07 16:05:07",
       "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
@@ -857,8 +857,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-03 22:36:19",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-07 16:05:20",
+      "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
     },
@@ -867,8 +867,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-02 19:14:21",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-11-07 16:05:35",
+      "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
     },
@@ -1747,8 +1747,8 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-12 14:42:01",
-      "days_since_patrolled": "26",
+      "patrolled_datetime": "2023-11-07 16:00:19",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2227,8 +2227,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-12 14:43:49",
-      "days_since_patrolled": "26",
+      "patrolled_datetime": "2023-11-07 16:02:21",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 15:47:33",
+      "patrolled_datetime": "2023-11-07 15:59:10",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -2867,8 +2867,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-03 18:08:28",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-07 16:09:25",
+      "days_since_patrolled": "0",
       "name": "OLD OLIPHANT RD",
       "type": "Rural"
     },
@@ -2877,8 +2877,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 17:57:53",
-      "days_since_patrolled": "60",
+      "patrolled_datetime": "2023-11-07 16:09:01",
+      "days_since_patrolled": "0",
       "name": "FOGDEN CR",
       "type": "Semi-Urban"
     },
@@ -3697,8 +3697,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 17:26:34",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-07 16:08:16",
+      "days_since_patrolled": "0",
       "name": "WATSON ST",
       "type": "Urban"
     },
@@ -5847,7 +5847,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 11:44:04",
+      "patrolled_datetime": "2023-11-07 16:04:55",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -5857,7 +5857,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 11:46:54",
+      "patrolled_datetime": "2023-11-07 16:04:52",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -6397,8 +6397,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:03:12",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-07 16:05:45",
+      "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
     },
@@ -6507,8 +6507,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 17:26:07",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-07 16:08:43",
+      "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Semi-Urban"
     },
@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 15:43:06",
+      "patrolled_datetime": "2023-11-07 15:58:07",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -8547,8 +8547,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 17:26:50",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-07 16:05:59",
+      "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-07T10:52:38.844910-05:00"
+  "current_datetime": "2023-11-07T11:10:34.522579-05:00"
 }
