@@ -87,7 +87,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:18:37",
+      "patrolled_datetime": "2023-11-07 16:57:17",
       "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Rural"
@@ -347,8 +347,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-06 21:23:36",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-07 17:02:15",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -357,8 +357,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-06 21:18:25",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-07 16:51:59",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -367,7 +367,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:42:34",
+      "patrolled_datetime": "2023-11-07 16:54:22",
       "days_since_patrolled": "0",
       "name": "OLD RED BAY RD",
       "type": "Rural"
@@ -757,8 +757,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-06 21:20:15",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-07 16:53:42",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -767,7 +767,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:47:33",
+      "patrolled_datetime": "2023-11-07 16:49:27",
       "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
@@ -777,8 +777,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-18 18:51:22",
-      "days_since_patrolled": "20",
+      "patrolled_datetime": "2023-11-07 16:51:19",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -797,7 +797,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:41:49",
+      "patrolled_datetime": "2023-11-07 16:54:51",
       "days_since_patrolled": "0",
       "name": "OLD RED BAY RD",
       "type": "Rural"
@@ -1097,8 +1097,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-06 21:22:44",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-07 17:00:41",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -1267,7 +1267,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:19:03",
+      "patrolled_datetime": "2023-11-07 16:56:30",
       "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Semi-Urban"
@@ -1927,7 +1927,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:17:56",
+      "patrolled_datetime": "2023-11-07 16:59:12",
       "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Rural"
@@ -2457,7 +2457,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 16:16:21",
+      "patrolled_datetime": "2023-11-07 17:01:34",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -3917,7 +3917,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:47:35",
+      "patrolled_datetime": "2023-11-07 16:52:36",
       "days_since_patrolled": "0",
       "name": "SUGARBUSH RD",
       "type": "Semi-Urban"
@@ -3927,7 +3927,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:39:56",
+      "patrolled_datetime": "2023-11-07 16:56:02",
       "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-07T11:52:40.812891-05:00"
+  "current_datetime": "2023-11-07T12:07:16.926423-05:00"
 }
