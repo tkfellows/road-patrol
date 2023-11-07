@@ -367,7 +367,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:54:22",
+      "patrolled_datetime": "2023-11-07 18:29:04",
       "days_since_patrolled": "0",
       "name": "OLD RED BAY RD",
       "type": "Rural"
@@ -1937,7 +1937,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 16:21:20",
+      "patrolled_datetime": "2023-11-07 18:28:11",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -1947,8 +1947,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Private",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-07 18:27:40",
+      "days_since_patrolled": "0",
       "name": "RESORT RD (PVT)",
       "type": "Semi-Urban"
     },
@@ -1957,7 +1957,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 16:36:49",
+      "patrolled_datetime": "2023-11-07 18:27:36",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -1967,7 +1967,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 16:36:42",
+      "patrolled_datetime": "2023-11-07 18:26:58",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -1997,7 +1997,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 16:35:47",
+      "patrolled_datetime": "2023-11-07 18:25:58",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -2017,7 +2017,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 16:35:39",
+      "patrolled_datetime": "2023-11-07 18:25:47",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -2037,7 +2037,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:35:06",
+      "patrolled_datetime": "2023-11-07 18:24:52",
       "days_since_patrolled": "0",
       "name": "HEA RD",
       "type": "Rural"
@@ -6207,7 +6207,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 16:35:14",
+      "patrolled_datetime": "2023-11-07 18:25:17",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -7317,8 +7317,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-07 18:24:49",
+      "days_since_patrolled": "0",
       "name": "HEA RD",
       "type": "Rural"
     },
@@ -7357,7 +7357,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 18:19:31",
+      "patrolled_datetime": "2023-11-07 18:25:08",
       "days_since_patrolled": "0",
       "name": "SYMON AVE",
       "type": "Semi-Urban"
@@ -7827,8 +7827,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-03 17:45:25",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-07 18:28:58",
+      "days_since_patrolled": "0",
       "name": "AMABEL-ALBEMARLE",
       "type": "Rural"
     },
@@ -8847,8 +8847,8 @@
       "class_number": "6",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-07 18:22:08",
+      "days_since_patrolled": "0",
       "name": "REID\\'S POINT RD",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-07T13:26:48.935930-05:00"
+  "current_datetime": "2023-11-07T13:35:19.917260-05:00"
 }
