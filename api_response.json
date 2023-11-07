@@ -2237,7 +2237,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 14:58:53",
+      "patrolled_datetime": "2023-11-07 15:08:21",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 14:56:37",
+      "patrolled_datetime": "2023-11-07 15:13:30",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -6517,7 +6517,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 14:05:40",
+      "patrolled_datetime": "2023-11-07 15:17:32",
       "days_since_patrolled": "0",
       "name": "SAUBLE WOODS CR",
       "type": "Semi-Urban"
@@ -6537,7 +6537,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 14:58:18",
+      "patrolled_datetime": "2023-11-07 15:09:55",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -8057,7 +8057,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 14:30:42",
+      "patrolled_datetime": "2023-11-07 15:15:17",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 14:44:12",
+      "patrolled_datetime": "2023-11-07 15:14:54",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8107,7 +8107,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 14:06:34",
+      "patrolled_datetime": "2023-11-07 15:15:52",
       "days_since_patrolled": "0",
       "name": "LAKELAND DR",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-07T10:08:24.098235-05:00"
+  "current_datetime": "2023-11-07T10:22:06.519834-05:00"
 }
