@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 20:26:36",
+      "patrolled_datetime": "2023-11-07 20:36:37",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -8007,7 +8007,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 14:29:43",
+      "patrolled_datetime": "2023-11-07 20:37:21",
       "days_since_patrolled": "0",
       "name": "BANNISTER DR",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-07T15:33:11.757786-05:00"
+  "current_datetime": "2023-11-07T15:42:45.066754-05:00"
 }
