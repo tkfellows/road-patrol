@@ -617,8 +617,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-11 16:28:14",
-      "days_since_patrolled": "27",
+      "patrolled_datetime": "2023-11-07 13:58:16",
+      "days_since_patrolled": "0",
       "name": "SIXTH ST N",
       "type": "Rural"
     },
@@ -667,8 +667,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-10 20:03:48",
-      "days_since_patrolled": "28",
+      "patrolled_datetime": "2023-11-07 13:49:44",
+      "days_since_patrolled": "0",
       "name": "FIRST ST N",
       "type": "Semi-Urban"
     },
@@ -677,8 +677,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 13:32:34",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-07 13:48:27",
+      "days_since_patrolled": "0",
       "name": "DAVIDSON DR",
       "type": "Semi-Urban"
     },
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 13:40:54",
+      "patrolled_datetime": "2023-11-07 14:02:23",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -4287,8 +4287,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-02 15:57:42",
-      "days_since_patrolled": "36",
+      "patrolled_datetime": "2023-11-07 13:50:22",
+      "days_since_patrolled": "0",
       "name": "THIRD AVE N",
       "type": "Semi-Urban"
     },
@@ -4787,8 +4787,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-11 19:06:19",
-      "days_since_patrolled": "27",
+      "patrolled_datetime": "2023-11-07 13:56:18",
+      "days_since_patrolled": "0",
       "name": "SECOND AVE N",
       "type": "Semi-Urban"
     },
@@ -4897,8 +4897,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-10 20:11:12",
-      "days_since_patrolled": "28",
+      "patrolled_datetime": "2023-11-07 13:51:23",
+      "days_since_patrolled": "0",
       "name": "THIRD ST N",
       "type": "Semi-Urban"
     },
@@ -5367,8 +5367,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 16:24:16",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-07 14:00:25",
+      "days_since_patrolled": "0",
       "name": "D LINE",
       "type": "Rural"
     },
@@ -5417,8 +5417,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 16:26:38",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-07 13:58:49",
+      "days_since_patrolled": "0",
       "name": "FIFTH ST N",
       "type": "Semi-Urban"
     },
@@ -5487,8 +5487,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 16:30:54",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-07 13:56:33",
+      "days_since_patrolled": "0",
       "name": "THIRD AVE N",
       "type": "Semi-Urban"
     },
@@ -5507,8 +5507,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 16:43:08",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-07 13:57:45",
+      "days_since_patrolled": "0",
       "name": "SIXTH ST N",
       "type": "Semi-Urban"
     },
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 13:41:58",
+      "patrolled_datetime": "2023-11-07 14:01:41",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8107,7 +8107,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 13:47:34",
+      "patrolled_datetime": "2023-11-07 13:47:50",
       "days_since_patrolled": "0",
       "name": "LAKELAND DR",
       "type": "Semi-Urban"
@@ -8187,8 +8187,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-06 14:00:06",
-      "days_since_patrolled": "62",
+      "patrolled_datetime": "2023-11-07 13:54:30",
+      "days_since_patrolled": "0",
       "name": "ESSEX ST",
       "type": "Semi-Urban"
     },
@@ -8197,8 +8197,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-30 13:37:12",
-      "days_since_patrolled": "69",
+      "patrolled_datetime": "2023-11-07 13:54:45",
+      "days_since_patrolled": "0",
       "name": "LAMBTON ST",
       "type": "Semi-Urban"
     },
@@ -8247,8 +8247,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-10 20:09:09",
-      "days_since_patrolled": "28",
+      "patrolled_datetime": "2023-11-07 13:51:12",
+      "days_since_patrolled": "0",
       "name": "THIRD AVE N",
       "type": "Semi-Urban"
     },
@@ -8257,8 +8257,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-11 19:07:42",
-      "days_since_patrolled": "27",
+      "patrolled_datetime": "2023-11-07 13:51:59",
+      "days_since_patrolled": "0",
       "name": "SECOND AVE N",
       "type": "Semi-Urban"
     },
@@ -8287,8 +8287,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-11 19:06:54",
-      "days_since_patrolled": "27",
+      "patrolled_datetime": "2023-11-07 13:54:59",
+      "days_since_patrolled": "0",
       "name": "SECOND AVE N",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-07T08:52:30.269426-05:00"
+  "current_datetime": "2023-11-07T09:07:33.955402-05:00"
 }
