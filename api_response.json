@@ -367,8 +367,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-03 17:58:04",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-07 16:42:34",
+      "days_since_patrolled": "0",
       "name": "OLD RED BAY RD",
       "type": "Rural"
     },
@@ -767,8 +767,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-18 18:50:00",
-      "days_since_patrolled": "20",
+      "patrolled_datetime": "2023-11-07 16:47:33",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -797,8 +797,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-03 17:58:38",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-07 16:41:49",
+      "days_since_patrolled": "0",
       "name": "OLD RED BAY RD",
       "type": "Rural"
     },
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:38:32",
+      "patrolled_datetime": "2023-11-07 16:45:38",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -3917,8 +3917,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-03 17:56:32",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-07 16:47:35",
+      "days_since_patrolled": "0",
       "name": "SUGARBUSH RD",
       "type": "Semi-Urban"
     },
@@ -5967,8 +5967,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-07 16:41:25",
+      "days_since_patrolled": "0",
       "name": "BEECHWOOD DR",
       "type": "Semi-Urban"
     },
@@ -6537,7 +6537,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 15:09:55",
+      "patrolled_datetime": "2023-11-07 16:47:26",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -7807,7 +7807,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:40:31",
+      "patrolled_datetime": "2023-11-07 16:40:47",
       "days_since_patrolled": "0",
       "name": "TAMARAC RD",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-07T11:42:47.765941-05:00"
+  "current_datetime": "2023-11-07T11:52:40.812891-05:00"
 }
