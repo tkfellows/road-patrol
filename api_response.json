@@ -7557,7 +7557,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-08 18:33:38",
+      "patrolled_datetime": "2023-11-08 18:43:39",
       "days_since_patrolled": "0",
       "name": "TYSON ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-08T13:42:49.701618-05:00"
+  "current_datetime": "2023-11-08T13:52:17.457887-05:00"
 }
