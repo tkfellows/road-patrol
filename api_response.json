@@ -177,8 +177,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 19:41:46",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-09 13:58:58",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -197,7 +197,7 @@
       "class_number": "0",
       "class_name": "Local",
       "ownership": "Private",
-      "patrolled_datetime": "2023-11-09 13:43:53",
+      "patrolled_datetime": "2023-11-09 13:48:50",
       "days_since_patrolled": "0",
       "name": "GOLF COURSE RD (PVT)",
       "type": "Semi-Urban"
@@ -2307,7 +2307,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 13:46:43",
+      "patrolled_datetime": "2023-11-09 13:57:56",
       "days_since_patrolled": "0",
       "name": "CAMP RD",
       "type": "Semi-Urban"
@@ -2317,8 +2317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 19:42:30",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-09 13:59:41",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2337,8 +2337,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 19:43:13",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-09 14:00:25",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 13:47:14",
+      "patrolled_datetime": "2023-11-09 14:00:20",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -2557,8 +2557,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 19:45:33",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-09 14:02:31",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2667,8 +2667,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 19:43:34",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-09 14:00:47",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -6947,8 +6947,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 19:44:02",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-09 14:01:07",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -6957,8 +6957,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 19:44:12",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-09 14:01:18",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -8017,8 +8017,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 14:30:05",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-09 14:02:41",
+      "days_since_patrolled": "0",
       "name": "COMMUNITY CENTRE DR",
       "type": "Semi-Urban"
     },
@@ -8057,8 +8057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 20:42:25",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-09 14:02:09",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8067,8 +8067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 20:43:26",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-09 14:01:39",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-09T08:52:19.692564-05:00"
+  "current_datetime": "2023-11-09T09:07:19.971000-05:00"
 }
