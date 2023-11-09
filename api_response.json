@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 16:35:50",
+      "patrolled_datetime": "2023-11-09 16:40:51",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -4267,7 +4267,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 16:35:06",
+      "patrolled_datetime": "2023-11-09 16:39:05",
       "days_since_patrolled": "0",
       "name": "ST EDMUNDS CR",
       "type": "Semi-Urban"
@@ -4277,7 +4277,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 16:34:56",
+      "patrolled_datetime": "2023-11-09 16:40:49",
       "days_since_patrolled": "0",
       "name": "LINDSAY ST",
       "type": "Semi-Urban"
@@ -9007,8 +9007,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-09 16:39:09",
+      "days_since_patrolled": "0",
       "name": "ST EDMUNDS CR",
       "type": "Semi-Urban"
     },
@@ -9017,8 +9017,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-09 16:39:28",
+      "days_since_patrolled": "0",
       "name": "ST EDMUNDS CR",
       "type": "Semi-Urban"
     },
@@ -9107,8 +9107,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-09 16:39:40",
+      "days_since_patrolled": "0",
       "name": "ST EDMUNDS CR",
       "type": "Semi-Urban"
     },
@@ -9117,8 +9117,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-09 16:40:03",
+      "days_since_patrolled": "0",
       "name": "ST EDMUNDS CR",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-09T11:40:02.955466-05:00"
+  "current_datetime": "2023-11-09T11:47:22.348968-05:00"
 }
