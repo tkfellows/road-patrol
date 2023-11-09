@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 16:40:51",
+      "patrolled_datetime": "2023-11-09 16:45:51",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -4277,7 +4277,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 16:40:49",
+      "patrolled_datetime": "2023-11-09 16:45:50",
       "days_since_patrolled": "0",
       "name": "LINDSAY ST",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-09T11:47:22.348968-05:00"
+  "current_datetime": "2023-11-09T11:54:39.243627-05:00"
 }
