@@ -2537,8 +2537,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-08 14:01:32",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-09 13:07:08",
+      "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-09T07:58:56.312517-05:00"
+  "current_datetime": "2023-11-09T08:16:52.445760-05:00"
 }
