@@ -3357,7 +3357,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-10 17:57:56",
+      "patrolled_datetime": "2023-11-10 18:22:54",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -3367,7 +3367,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-10 17:58:13",
+      "patrolled_datetime": "2023-11-10 18:22:51",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
@@ -5987,7 +5987,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-10 18:21:18",
+      "patrolled_datetime": "2023-11-10 18:21:35",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
@@ -5997,7 +5997,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-10 18:03:58",
+      "patrolled_datetime": "2023-11-10 18:22:36",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
@@ -8367,7 +8367,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-10 17:57:59",
+      "patrolled_datetime": "2023-11-10 18:23:26",
       "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Semi-Urban"
@@ -8637,8 +8637,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-06 16:14:44",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-10 18:24:02",
+      "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-10T13:26:59.244796-05:00"
+  "current_datetime": "2023-11-10T13:35:10.088021-05:00"
 }
