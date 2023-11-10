@@ -3347,7 +3347,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-10 11:46:36",
+      "patrolled_datetime": "2023-11-10 19:31:14",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -3357,7 +3357,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-10 19:15:43",
+      "patrolled_datetime": "2023-11-10 19:28:59",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -3367,7 +3367,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-10 19:15:58",
+      "patrolled_datetime": "2023-11-10 19:28:55",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
@@ -3387,8 +3387,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 20:26:40",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-10 19:29:19",
+      "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Urban"
     },
@@ -7697,8 +7697,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 20:26:25",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-10 19:29:51",
+      "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
     },
@@ -8397,8 +8397,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 08:28:26",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-10 19:30:11",
+      "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-10T14:23:16.817921-05:00"
+  "current_datetime": "2023-11-10T14:32:47.696176-05:00"
 }
