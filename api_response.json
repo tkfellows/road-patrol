@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-10 05:36:37",
+      "patrolled_datetime": "2023-11-10 05:46:38",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-10T00:42:34.797652-05:00"
+  "current_datetime": "2023-11-10T00:52:21.481098-05:00"
 }
