@@ -1187,8 +1187,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-22 21:34:32",
-      "days_since_patrolled": "52",
+      "patrolled_datetime": "2023-11-13 21:35:07",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 21:28:31",
+      "patrolled_datetime": "2023-11-13 21:29:47",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -2577,8 +2577,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-03 12:36:06",
-      "days_since_patrolled": "41",
+      "patrolled_datetime": "2023-11-13 21:33:36",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 21:26:10",
+      "patrolled_datetime": "2023-11-13 21:36:12",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -7087,8 +7087,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-22 21:36:06",
-      "days_since_patrolled": "52",
+      "patrolled_datetime": "2023-11-13 21:36:43",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -8327,8 +8327,8 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 14:04:22",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-13 21:31:52",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-13T16:33:44.178407-05:00"
+  "current_datetime": "2023-11-13T16:42:14.588164-05:00"
 }
