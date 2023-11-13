@@ -3317,7 +3317,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 16:48:19",
+      "patrolled_datetime": "2023-11-13 16:49:26",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Semi-Urban"
@@ -3717,7 +3717,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 11:48:43",
+      "patrolled_datetime": "2023-11-13 16:49:36",
       "days_since_patrolled": "0",
       "name": "JENNY",
       "type": ""
@@ -3727,7 +3727,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 11:48:32",
+      "patrolled_datetime": "2023-11-13 16:49:44",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -4557,7 +4557,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 16:44:43",
+      "patrolled_datetime": "2023-11-13 17:01:04",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 11:43:43",
+      "patrolled_datetime": "2023-11-13 17:00:35",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-13T11:52:32.482742-05:00"
+  "current_datetime": "2023-11-13T12:07:25.303715-05:00"
 }
