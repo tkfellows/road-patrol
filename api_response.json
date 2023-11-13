@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 16:28:11",
+      "patrolled_datetime": "2023-11-13 18:00:35",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -4907,7 +4907,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 17:40:19",
+      "patrolled_datetime": "2023-11-13 17:47:45",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4917,7 +4917,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 17:40:36",
+      "patrolled_datetime": "2023-11-13 17:47:33",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4927,7 +4927,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 17:40:40",
+      "patrolled_datetime": "2023-11-13 17:47:19",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4937,7 +4937,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 17:41:22",
+      "patrolled_datetime": "2023-11-13 17:47:01",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 17:45:41",
+      "patrolled_datetime": "2023-11-13 18:05:44",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -6157,7 +6157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 17:40:58",
+      "patrolled_datetime": "2023-11-13 17:47:15",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -8017,8 +8017,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 21:42:04",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-13 17:48:38",
+      "days_since_patrolled": "0",
       "name": "COMMUNITY CENTRE DR",
       "type": "Semi-Urban"
     },
@@ -8037,8 +8037,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-09 21:41:42",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-13 17:48:21",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8047,8 +8047,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-09 21:42:00",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-13 17:48:35",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8057,8 +8057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-09 21:42:25",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-13 17:49:00",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8067,8 +8067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-09 21:43:21",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-13 17:49:58",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8177,7 +8177,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 17:46:20",
+      "patrolled_datetime": "2023-11-13 17:46:35",
       "days_since_patrolled": "0",
       "name": "FOURTH ST N",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-13T12:52:31.691166-05:00"
+  "current_datetime": "2023-11-13T13:10:25.220134-05:00"
 }
