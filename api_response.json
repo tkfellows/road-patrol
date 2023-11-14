@@ -407,7 +407,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 20:23:20",
+      "patrolled_datetime": "2023-11-14 20:24:00",
       "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
@@ -1747,7 +1747,7 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 20:02:58",
+      "patrolled_datetime": "2023-11-14 20:27:10",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -2227,7 +2227,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 20:05:59",
+      "patrolled_datetime": "2023-11-14 20:25:58",
       "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 20:02:48",
+      "patrolled_datetime": "2023-11-14 20:28:28",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -5737,7 +5737,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 20:03:58",
+      "patrolled_datetime": "2023-11-14 20:26:05",
       "days_since_patrolled": "0",
       "name": "PINE FOREST DR",
       "type": "Rural"
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 20:19:56",
+      "patrolled_datetime": "2023-11-14 20:24:57",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-14T15:27:14.881370-05:00"
+  "current_datetime": "2023-11-14T15:34:14.834609-05:00"
 }
