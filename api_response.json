@@ -397,8 +397,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 17:26:23",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-14 20:08:28",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -407,8 +407,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 17:28:19",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-14 20:08:08",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -1747,8 +1747,8 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 17:30:15",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-14 20:02:58",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2227,8 +2227,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 17:30:11",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-14 20:05:59",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 20:02:16",
+      "patrolled_datetime": "2023-11-14 20:02:48",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -4557,8 +4557,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 17:32:48",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-14 20:04:02",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -5737,8 +5737,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-10 17:14:44",
-      "days_since_patrolled": "35",
+      "patrolled_datetime": "2023-11-14 20:03:58",
+      "days_since_patrolled": "0",
       "name": "PINE FOREST DR",
       "type": "Rural"
     },
@@ -6397,7 +6397,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 14:40:38",
+      "patrolled_datetime": "2023-11-14 20:14:53",
       "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
@@ -6457,8 +6457,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 17:29:50",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-14 20:14:32",
+      "days_since_patrolled": "0",
       "name": "JOHN ST",
       "type": "Urban"
     },
@@ -6937,8 +6937,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 17:23:06",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-14 20:10:15",
+      "days_since_patrolled": "0",
       "name": "WESTERN RD",
       "type": "Rural"
     },
@@ -7617,7 +7617,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 14:39:04",
+      "patrolled_datetime": "2023-11-14 20:06:53",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -7627,8 +7627,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 10:10:56",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-14 20:14:04",
+      "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-14T15:08:02.949252-05:00"
+  "current_datetime": "2023-11-14T15:20:15.561234-05:00"
 }
