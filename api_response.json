@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 20:28:28",
+      "patrolled_datetime": "2023-11-14 20:35:20",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -5367,8 +5367,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 18:46:31",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-11-14 20:36:41",
+      "days_since_patrolled": "0",
       "name": "D LINE",
       "type": "Rural"
     },
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 20:24:57",
+      "patrolled_datetime": "2023-11-14 20:34:59",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 19:34:49",
+      "patrolled_datetime": "2023-11-14 20:37:30",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8047,7 +8047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 19:35:10",
+      "patrolled_datetime": "2023-11-14 20:37:17",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8057,7 +8057,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 19:35:31",
+      "patrolled_datetime": "2023-11-14 20:37:00",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 19:36:41",
+      "patrolled_datetime": "2023-11-14 20:36:38",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-14T15:34:14.834609-05:00"
+  "current_datetime": "2023-11-14T15:42:18.143830-05:00"
 }
