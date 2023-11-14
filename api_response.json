@@ -3477,7 +3477,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 16:15:50",
+      "patrolled_datetime": "2023-11-14 17:24:03",
       "days_since_patrolled": "0",
       "name": "TAYLOR ST",
       "type": "Urban"
@@ -3497,7 +3497,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 16:15:42",
+      "patrolled_datetime": "2023-11-14 17:23:46",
       "days_since_patrolled": "0",
       "name": "CHARLES ST",
       "type": "Semi-Urban"
@@ -8387,7 +8387,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 16:17:53",
+      "patrolled_datetime": "2023-11-14 17:23:11",
       "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
@@ -8607,7 +8607,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 17:22:31",
+      "patrolled_datetime": "2023-11-14 17:22:38",
       "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
@@ -8617,7 +8617,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 15:57:24",
+      "patrolled_datetime": "2023-11-14 17:22:52",
       "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
@@ -8627,7 +8627,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 16:17:37",
+      "patrolled_datetime": "2023-11-14 17:23:22",
       "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-14T12:25:51.155570-05:00"
+  "current_datetime": "2023-11-14T12:32:55.899168-05:00"
 }
