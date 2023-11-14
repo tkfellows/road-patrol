@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 19:42:25",
+      "patrolled_datetime": "2023-11-14 20:02:16",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -6417,7 +6417,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 14:39:36",
+      "patrolled_datetime": "2023-11-14 20:04:16",
       "days_since_patrolled": "0",
       "name": "DAWSON ST",
       "type": "Urban"
@@ -7547,8 +7547,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-02 13:30:24",
-      "days_since_patrolled": "12",
+      "patrolled_datetime": "2023-11-14 20:03:33",
+      "days_since_patrolled": "0",
       "name": "FRANK ST",
       "type": "Urban"
     },
@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 19:48:27",
+      "patrolled_datetime": "2023-11-14 19:57:57",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -8577,8 +8577,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 17:34:59",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-14 20:03:49",
+      "days_since_patrolled": "0",
       "name": "FRANK ST",
       "type": "Urban"
     },
@@ -8587,8 +8587,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 11:50:29",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-14 20:03:20",
+      "days_since_patrolled": "0",
       "name": "FRANK ST",
       "type": "Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-14T14:52:33.878549-05:00"
+  "current_datetime": "2023-11-14T15:08:02.949252-05:00"
 }
