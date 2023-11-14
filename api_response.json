@@ -1617,7 +1617,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-14 16:13:53",
+      "patrolled_datetime": "2023-11-14 19:07:01",
       "days_since_patrolled": "0",
       "name": "",
       "type": ""
@@ -3587,7 +3587,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-14 13:32:00",
+      "patrolled_datetime": "2023-11-14 19:06:29",
       "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
@@ -3597,7 +3597,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-14 13:32:33",
+      "patrolled_datetime": "2023-11-14 19:06:38",
       "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
@@ -3617,7 +3617,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-14 16:13:57",
+      "patrolled_datetime": "2023-11-14 19:07:05",
       "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
@@ -7847,8 +7847,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 18:39:12",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-14 19:07:30",
+      "days_since_patrolled": "0",
       "name": "SHORELINE AVE",
       "type": "Semi-Urban"
     },
@@ -7857,7 +7857,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 19:02:05",
+      "patrolled_datetime": "2023-11-14 19:03:58",
       "days_since_patrolled": "0",
       "name": "SHORELINE AVE",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-14T14:05:38.453020-05:00"
+  "current_datetime": "2023-11-14T14:13:31.366668-05:00"
 }
