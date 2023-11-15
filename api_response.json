@@ -4737,7 +4737,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-15 17:36:37",
+      "patrolled_datetime": "2023-11-15 17:36:51",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -4787,7 +4787,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-15 16:46:16",
+      "patrolled_datetime": "2023-11-15 17:39:08",
       "days_since_patrolled": "0",
       "name": "SECOND AVE N",
       "type": "Semi-Urban"
@@ -4797,7 +4797,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-15 16:45:43",
+      "patrolled_datetime": "2023-11-15 17:40:11",
       "days_since_patrolled": "0",
       "name": "SECOND AVE N",
       "type": "Semi-Urban"
@@ -5167,8 +5167,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 14:46:07",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-15 17:38:36",
+      "days_since_patrolled": "0",
       "name": "LAMBTON ST",
       "type": "Semi-Urban"
     },
@@ -5467,8 +5467,8 @@
       "class_number": "0",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "2023-10-11 19:05:22",
-      "days_since_patrolled": "35",
+      "patrolled_datetime": "2023-11-15 17:39:40",
+      "days_since_patrolled": "0",
       "name": "SEVENTH ST N",
       "type": "Semi-Urban"
     },
@@ -5507,8 +5507,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 18:23:11",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-15 17:39:20",
+      "days_since_patrolled": "0",
       "name": "SIXTH ST N",
       "type": "Semi-Urban"
     },
@@ -5537,8 +5537,8 @@
       "class_number": "0",
       "class_name": "UR",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "2023-10-31 16:30:38",
-      "days_since_patrolled": "15",
+      "patrolled_datetime": "2023-11-15 17:39:58",
+      "days_since_patrolled": "0",
       "name": "EIGHTH ST N",
       "type": "Semi-Urban"
     },
@@ -5587,7 +5587,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-15 16:44:30",
+      "patrolled_datetime": "2023-11-15 17:40:33",
       "days_since_patrolled": "0",
       "name": "TENTH ST N",
       "type": "Semi-Urban"
@@ -5617,7 +5617,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-15 16:44:24",
+      "patrolled_datetime": "2023-11-15 17:49:31",
       "days_since_patrolled": "0",
       "name": "GREMIK CR",
       "type": "Semi-Urban"
@@ -8167,8 +8167,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-11 16:47:21",
-      "days_since_patrolled": "35",
+      "patrolled_datetime": "2023-11-15 17:37:13",
+      "days_since_patrolled": "0",
       "name": "FOURTH ST N",
       "type": "Urban"
     },
@@ -8287,7 +8287,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-15 16:46:52",
+      "patrolled_datetime": "2023-11-15 17:38:44",
       "days_since_patrolled": "0",
       "name": "SECOND AVE N",
       "type": "Semi-Urban"
@@ -8407,7 +8407,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-15 16:44:52",
+      "patrolled_datetime": "2023-11-15 17:40:51",
       "days_since_patrolled": "0",
       "name": "SECOND AVE N",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-15T12:42:18.770141-05:00"
+  "current_datetime": "2023-11-15T12:52:19.107308-05:00"
 }
