@@ -227,8 +227,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 21:24:54",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-17 18:13:11",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Semi-Urban"
     },
@@ -1187,8 +1187,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 21:35:07",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-17 18:18:09",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -1607,8 +1607,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-16 21:12:21",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-17 18:13:32",
+      "days_since_patrolled": "0",
       "name": "",
       "type": ""
     },
@@ -2557,8 +2557,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-15 17:17:05",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-17 18:21:18",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2577,8 +2577,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-15 17:17:09",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-17 18:19:49",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2627,8 +2627,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 15:34:57",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-11-17 18:22:25",
+      "days_since_patrolled": "0",
       "name": "MAPLE LN",
       "type": "Semi-Urban"
     },
@@ -3157,8 +3157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-16 21:11:27",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-17 18:12:32",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -3307,8 +3307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 16:06:41",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-17 18:15:12",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -3357,7 +3357,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-17 18:02:16",
+      "patrolled_datetime": "2023-11-17 18:02:20",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -3607,8 +3607,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-16 21:12:09",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-17 18:13:22",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -3617,8 +3617,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-16 16:14:30",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-17 18:13:25",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -3867,8 +3867,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 16:06:57",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-17 18:14:25",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -4477,8 +4477,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-16 21:10:14",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-17 18:11:19",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -4487,8 +4487,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-16 21:08:30",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-17 18:09:33",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -5867,8 +5867,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-16 21:11:59",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-17 18:13:08",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -5987,8 +5987,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-16 21:05:34",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-17 18:06:25",
+      "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
     },
@@ -5997,7 +5997,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-17 18:03:06",
+      "patrolled_datetime": "2023-11-17 18:06:04",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
@@ -6167,8 +6167,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 16:07:12",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-17 18:14:07",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -6957,8 +6957,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-09 14:01:18",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-11-17 18:21:39",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -6967,8 +6967,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 15:33:09",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-11-17 18:22:08",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Semi-Urban"
     },
@@ -7007,8 +7007,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-16 21:07:05",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-17 18:08:04",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -7087,8 +7087,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-13 21:36:43",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-17 18:16:50",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -7757,8 +7757,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 16:07:38",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-17 18:13:56",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-17T13:10:40.985150-05:00"
+  "current_datetime": "2023-11-17T13:29:37.889761-05:00"
 }
