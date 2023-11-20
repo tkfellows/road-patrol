@@ -787,7 +787,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 15:02:45",
+      "patrolled_datetime": "2023-11-20 16:38:21",
       "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
@@ -1157,8 +1157,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 21:21:47",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-20 16:37:30",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
     },
@@ -2487,8 +2487,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 21:20:15",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-20 16:41:00",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -2507,8 +2507,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-06 13:04:56",
-      "days_since_patrolled": "45",
+      "patrolled_datetime": "2023-11-20 16:43:00",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -2587,8 +2587,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 15:24:53",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-20 16:44:09",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -2597,8 +2597,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 15:28:23",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-20 16:44:38",
+      "days_since_patrolled": "0",
       "name": "GOLDEN POND DR",
       "type": "Semi-Urban"
     },
@@ -2607,8 +2607,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-20 16:48:52",
+      "days_since_patrolled": "0",
       "name": "GOLDEN POND DR",
       "type": "Semi-Urban"
     },
@@ -3157,7 +3157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-20 16:29:16",
+      "patrolled_datetime": "2023-11-20 16:29:33",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -7027,7 +7027,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 16:34:24",
+      "patrolled_datetime": "2023-11-20 16:36:09",
       "days_since_patrolled": "0",
       "name": "SOUTH DIAGONAL",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-20T14:16:54.140326-05:00"
+  "current_datetime": "2023-11-20T14:24:03.543455-05:00"
 }
