@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-20 18:19:23",
+      "patrolled_datetime": "2023-11-20 20:41:55",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 20:26:45",
+      "patrolled_datetime": "2023-11-20 20:34:43",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -7597,8 +7597,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-17 13:19:27",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-20 20:39:14",
+      "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
     },
@@ -7727,7 +7727,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 18:20:17",
+      "patrolled_datetime": "2023-11-20 20:41:11",
       "days_since_patrolled": "0",
       "name": "MCNAUGHTON ST",
       "type": "Urban"
@@ -8667,7 +8667,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 18:20:48",
+      "patrolled_datetime": "2023-11-20 20:40:12",
       "days_since_patrolled": "0",
       "name": "MCNAUGHTON ST",
       "type": "Urban"
@@ -8677,7 +8677,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 18:21:14",
+      "patrolled_datetime": "2023-11-20 20:39:41",
       "days_since_patrolled": "0",
       "name": "MCNAUGHTON ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-20T15:33:02.191365-05:00"
+  "current_datetime": "2023-11-20T15:42:31.518381-05:00"
 }
