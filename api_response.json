@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 18:01:40",
+      "patrolled_datetime": "2023-11-20 21:25:58",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-20 21:18:07",
+      "patrolled_datetime": "2023-11-20 21:28:08",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -8047,7 +8047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-20 21:22:32",
+      "patrolled_datetime": "2023-11-20 21:22:36",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8057,7 +8057,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-20 21:10:08",
+      "patrolled_datetime": "2023-11-20 21:23:08",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-20 21:09:42",
+      "patrolled_datetime": "2023-11-20 21:24:17",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8107,8 +8107,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 15:21:32",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-11-20 21:22:39",
+      "days_since_patrolled": "0",
       "name": "LAKELAND DR",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-20T16:26:15.012971-05:00"
+  "current_datetime": "2023-11-20T16:33:53.520052-05:00"
 }
