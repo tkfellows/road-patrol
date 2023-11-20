@@ -227,8 +227,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-17 18:13:11",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-20 16:30:37",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Semi-Urban"
     },
@@ -3157,7 +3157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-20 16:28:32",
+      "patrolled_datetime": "2023-11-20 16:29:16",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -3797,8 +3797,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 21:23:14",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-20 16:33:16",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
     },
@@ -5867,8 +5867,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-17 18:48:22",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-20 16:30:06",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -7027,8 +7027,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-11 12:52:30",
-      "days_since_patrolled": "40",
+      "patrolled_datetime": "2023-11-20 16:34:24",
+      "days_since_patrolled": "0",
       "name": "SOUTH DIAGONAL",
       "type": "Rural"
     },
@@ -8757,7 +8757,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 16:31:29",
+      "patrolled_datetime": "2023-11-20 16:31:48",
       "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-20T14:06:42.968413-05:00"
+  "current_datetime": "2023-11-20T14:16:54.140326-05:00"
 }
