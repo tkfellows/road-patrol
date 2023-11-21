@@ -1727,8 +1727,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 17:58:24",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 15:53:48",
+      "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": "Rural"
     },
@@ -1787,8 +1787,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 18:13:22",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 15:59:46",
+      "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": "Semi-Urban"
     },
@@ -1797,8 +1797,8 @@
       "class_number": "0",
       "class_name": "Local",
       "ownership": "Private",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-21 15:58:18",
+      "days_since_patrolled": "0",
       "name": "BAY DR (PVT)",
       "type": "Semi-Urban"
     },
@@ -2057,8 +2057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-21 15:33:33",
-      "days_since_patrolled": "92",
+      "patrolled_datetime": "2023-11-21 16:04:49",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2067,8 +2067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-08-21 15:33:30",
-      "days_since_patrolled": "92",
+      "patrolled_datetime": "2023-11-21 16:04:46",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2087,8 +2087,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 18:18:59",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 16:04:39",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2097,8 +2097,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 19:43:58",
-      "days_since_patrolled": "12",
+      "patrolled_datetime": "2023-11-21 16:07:28",
+      "days_since_patrolled": "0",
       "name": "AVELE RD",
       "type": "Semi-Urban"
     },
@@ -2107,8 +2107,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 19:47:56",
-      "days_since_patrolled": "12",
+      "patrolled_datetime": "2023-11-21 16:05:30",
+      "days_since_patrolled": "0",
       "name": "THOMAS ST",
       "type": "Semi-Urban"
     },
@@ -2127,8 +2127,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 18:17:26",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 16:04:24",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2147,8 +2147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 18:17:11",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 16:04:13",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2177,8 +2177,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 18:16:21",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 16:03:25",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2417,7 +2417,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-21 15:46:29",
+      "patrolled_datetime": "2023-11-21 15:46:33",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -3207,8 +3207,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-07 17:38:53",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 15:47:46",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -3217,8 +3217,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-07 17:38:10",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 15:47:12",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -4977,8 +4977,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 17:46:56",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 15:51:22",
+      "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": "Rural"
     },
@@ -4987,8 +4987,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-07 17:44:06",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 15:48:58",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -6197,8 +6197,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 18:01:32",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 15:56:36",
+      "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": ""
     },
@@ -6447,7 +6447,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 15:46:27",
+      "patrolled_datetime": "2023-11-21 16:06:10",
       "days_since_patrolled": "0",
       "name": "LOUISA ST",
       "type": "Urban"
@@ -7377,8 +7377,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 15:05:32",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-21 16:05:22",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -7387,8 +7387,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 18:13:32",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 15:59:57",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -7397,8 +7397,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 18:14:47",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 16:01:47",
+      "days_since_patrolled": "0",
       "name": "ORIOLE DR",
       "type": "Semi-Urban"
     },
@@ -7407,8 +7407,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-07 18:01:19",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 15:56:28",
+      "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": ""
     },
@@ -7477,8 +7477,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 18:04:48",
-      "days_since_patrolled": "14",
+      "patrolled_datetime": "2023-11-21 15:58:38",
+      "days_since_patrolled": "0",
       "name": "DOCK RD",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-21T10:52:25.071451-05:00"
+  "current_datetime": "2023-11-21T11:11:22.959789-05:00"
 }
