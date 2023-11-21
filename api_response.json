@@ -4557,7 +4557,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 14:37:04",
+      "patrolled_datetime": "2023-11-21 14:39:29",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -4567,8 +4567,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 13:18:10",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-11-21 14:39:19",
+      "days_since_patrolled": "0",
       "name": "SILVERLAKE CR",
       "type": "Semi-Urban"
     },
@@ -4597,8 +4597,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-14 14:27:14",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-21 14:42:04",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -4617,8 +4617,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 17:34:18",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-11-21 14:41:42",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -4627,8 +4627,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 17:33:59",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-11-21 14:41:18",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -4637,8 +4637,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 17:33:35",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-11-21 14:40:48",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -4647,8 +4647,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 17:33:13",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-11-21 14:40:26",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -4657,8 +4657,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-17 19:05:25",
-      "days_since_patrolled": "96",
+      "patrolled_datetime": "2023-11-21 14:40:52",
+      "days_since_patrolled": "0",
       "name": "HENDRY ST",
       "type": "Semi-Urban"
     },
@@ -5767,8 +5767,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-13 17:33:05",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-11-21 14:40:15",
+      "days_since_patrolled": "0",
       "name": "SOUTHAMPTON PKWY",
       "type": ""
     },
@@ -6537,7 +6537,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 13:57:26",
+      "patrolled_datetime": "2023-11-21 14:46:30",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -8007,8 +8007,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 21:20:56",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-21 14:43:37",
+      "days_since_patrolled": "0",
       "name": "BANNISTER DR",
       "type": "Semi-Urban"
     },
@@ -8017,8 +8017,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-16 14:11:31",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-11-21 14:43:58",
+      "days_since_patrolled": "0",
       "name": "COMMUNITY CENTRE DR",
       "type": "Semi-Urban"
     },
@@ -8057,8 +8057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-20 21:23:08",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-21 14:45:01",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8067,8 +8067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-20 21:24:17",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-21 14:45:58",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-21T09:43:06.777426-05:00"
+  "current_datetime": "2023-11-21T09:52:32.475320-05:00"
 }
