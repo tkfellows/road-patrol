@@ -3377,8 +3377,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 15:26:53",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-22 14:20:02",
+      "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-22T09:08:28.846506-05:00"
+  "current_datetime": "2023-11-22T09:26:05.667640-05:00"
 }
