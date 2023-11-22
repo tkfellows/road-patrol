@@ -7657,7 +7657,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-22 15:35:41",
+      "patrolled_datetime": "2023-11-22 15:40:41",
       "days_since_patrolled": "0",
       "name": "PENGALLY AVE",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-22T10:42:32.636694-05:00"
+  "current_datetime": "2023-11-22T10:52:16.147926-05:00"
 }
