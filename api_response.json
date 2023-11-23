@@ -517,7 +517,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 17:31:26",
+      "patrolled_datetime": "2023-11-23 17:46:31",
       "days_since_patrolled": "0",
       "name": "HOPE BAY RD",
       "type": "Semi-Urban"
@@ -527,7 +527,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 17:32:05",
+      "patrolled_datetime": "2023-11-23 17:45:46",
       "days_since_patrolled": "0",
       "name": "BROCK ST",
       "type": "Semi-Urban"
@@ -947,7 +947,7 @@
       "class_number": "0",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula - Not Maintained",
-      "patrolled_datetime": "2023-11-23 17:37:19",
+      "patrolled_datetime": "2023-11-23 17:44:15",
       "days_since_patrolled": "0",
       "name": "MARINO LN",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-23T12:42:11.383628-05:00"
+  "current_datetime": "2023-11-23T12:52:14.618810-05:00"
 }
