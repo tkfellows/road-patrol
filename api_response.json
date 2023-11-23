@@ -1167,7 +1167,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 18:36:06",
+      "patrolled_datetime": "2023-11-21 21:10:34",
       "days_since_patrolled": "2",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -2237,7 +2237,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 18:34:58",
+      "patrolled_datetime": "2023-11-21 21:09:22",
       "days_since_patrolled": "2",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -2497,7 +2497,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 18:35:12",
+      "patrolled_datetime": "2023-11-21 21:09:37",
       "days_since_patrolled": "2",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 18:32:05",
+      "patrolled_datetime": "2023-11-21 21:06:01",
       "days_since_patrolled": "2",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -5877,7 +5877,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 18:37:12",
+      "patrolled_datetime": "2023-11-21 21:11:50",
       "days_since_patrolled": "2",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -6537,7 +6537,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 18:33:43",
+      "patrolled_datetime": "2023-11-21 21:08:04",
       "days_since_patrolled": "2",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -7067,7 +7067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 18:36:13",
+      "patrolled_datetime": "2023-11-21 21:10:43",
       "days_since_patrolled": "2",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-23T08:32:44.643435-05:00"
+  "current_datetime": "2023-11-23T08:42:42.427218-05:00"
 }
