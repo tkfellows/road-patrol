@@ -557,7 +557,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 17:03:56",
+      "patrolled_datetime": "2023-11-23 17:08:09",
       "days_since_patrolled": "0",
       "name": "ADELAIDE ST",
       "type": "Semi-Urban"
@@ -1687,8 +1687,8 @@
       "class_number": "4",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 18:15:38",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 17:15:54",
+      "days_since_patrolled": "0",
       "name": "RED BAY RD",
       "type": "Rural"
     },
@@ -1997,7 +1997,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 16:58:58",
+      "patrolled_datetime": "2023-11-23 17:10:29",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -2017,7 +2017,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 16:59:28",
+      "patrolled_datetime": "2023-11-23 17:10:19",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -2027,7 +2027,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 16:59:39",
+      "patrolled_datetime": "2023-11-23 17:09:42",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -2037,8 +2037,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 18:24:52",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-11-23 17:09:39",
+      "days_since_patrolled": "0",
       "name": "HEA RD",
       "type": "Rural"
     },
@@ -2047,7 +2047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 16:59:54",
+      "patrolled_datetime": "2023-11-23 17:09:35",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -2057,7 +2057,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:00:24",
+      "patrolled_datetime": "2023-11-23 17:08:52",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -2067,7 +2067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:00:31",
+      "patrolled_datetime": "2023-11-23 17:08:49",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -2087,7 +2087,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:00:41",
+      "patrolled_datetime": "2023-11-23 17:08:41",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -2127,7 +2127,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:00:55",
+      "patrolled_datetime": "2023-11-23 17:08:27",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -6207,7 +6207,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 16:59:31",
+      "patrolled_datetime": "2023-11-23 17:09:46",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -7377,7 +7377,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:00:20",
+      "patrolled_datetime": "2023-11-23 17:09:21",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -8487,8 +8487,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 18:16:23",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 17:16:31",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-23T12:07:18.577031-05:00"
+  "current_datetime": "2023-11-23T12:22:13.515871-05:00"
 }
