@@ -1147,8 +1147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 17:55:51",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 16:27:57",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2437,8 +2437,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 15:41:13",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 16:28:01",
+      "days_since_patrolled": "0",
       "name": "QUARRY RD",
       "type": "Rural"
     },
@@ -2457,8 +2457,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 17:58:06",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 16:28:18",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2867,8 +2867,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 18:32:35",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-23 16:26:38",
+      "days_since_patrolled": "0",
       "name": "OLD OLIPHANT RD",
       "type": "Rural"
     },
@@ -2877,8 +2877,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 16:09:01",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-11-23 16:25:14",
+      "days_since_patrolled": "0",
       "name": "FOGDEN CR",
       "type": "Semi-Urban"
     },
@@ -6507,7 +6507,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 16:24:41",
+      "patrolled_datetime": "2023-11-23 16:24:59",
       "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-23T11:32:03.650345-05:00"
+  "current_datetime": "2023-11-23T11:43:15.132656-05:00"
 }
