@@ -1167,7 +1167,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 13:38:27",
+      "patrolled_datetime": "2023-11-23 19:09:45",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -2237,8 +2237,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 21:09:22",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 19:11:09",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
     },
@@ -2497,8 +2497,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 21:09:37",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 19:09:55",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
     },
@@ -2557,8 +2557,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-17 17:42:08",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-23 19:14:00",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2617,8 +2617,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-17 17:37:00",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-23 19:17:59",
+      "days_since_patrolled": "0",
       "name": "MAPLE DR",
       "type": "Semi-Urban"
     },
@@ -2627,8 +2627,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-17 17:39:56",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-23 19:18:20",
+      "days_since_patrolled": "0",
       "name": "MAPLE LN",
       "type": "Semi-Urban"
     },
@@ -3847,7 +3847,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 19:07:29",
+      "patrolled_datetime": "2023-11-23 19:07:51",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -5877,7 +5877,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 13:37:20",
+      "patrolled_datetime": "2023-11-23 19:08:46",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -6547,8 +6547,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-17 18:48:01",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-23 19:12:38",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -6967,8 +6967,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-17 17:40:19",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-23 19:18:35",
+      "days_since_patrolled": "0",
       "name": "MARYVILLE LAKE RD",
       "type": "Semi-Urban"
     },
@@ -7067,7 +7067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 13:37:31",
+      "patrolled_datetime": "2023-11-23 19:08:54",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 8",
       "type": ""
@@ -8327,8 +8327,8 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 16:54:24",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-23 19:12:42",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-23T14:15:55.770056-05:00"
+  "current_datetime": "2023-11-23T14:23:07.284598-05:00"
 }
