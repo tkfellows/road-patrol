@@ -707,8 +707,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 18:46:35",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 18:00:21",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -2917,7 +2917,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:51:18",
+      "patrolled_datetime": "2023-11-23 17:51:46",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -3237,8 +3237,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 18:37:13",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 17:56:39",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -3247,8 +3247,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-22 16:57:51",
-      "days_since_patrolled": "93",
+      "patrolled_datetime": "2023-11-23 17:58:43",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -5947,8 +5947,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 18:38:35",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 17:56:43",
+      "days_since_patrolled": "0",
       "name": "MCIVER RD",
       "type": "Rural"
     },
@@ -8357,8 +8357,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 18:35:58",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 17:55:34",
+      "days_since_patrolled": "0",
       "name": "WAUGH\\'S RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-23T13:10:11.904185-05:00"
+  "current_datetime": "2023-11-23T13:27:04.020922-05:00"
 }
