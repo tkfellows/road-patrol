@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 19:28:31",
+      "patrolled_datetime": "2023-11-23 19:37:28",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -8047,8 +8047,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 16:39:44",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 19:35:23",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8057,8 +8057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 20:43:53",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 19:35:49",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8067,8 +8067,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 20:44:59",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-11-23 19:36:51",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
     },
@@ -8107,8 +8107,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 21:22:39",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-23 19:31:16",
+      "days_since_patrolled": "0",
       "name": "LAKELAND DR",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-23T14:32:56.690157-05:00"
+  "current_datetime": "2023-11-23T14:42:12.379678-05:00"
 }
