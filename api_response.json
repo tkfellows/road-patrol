@@ -2457,7 +2457,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 16:28:18",
+      "patrolled_datetime": "2023-11-23 16:29:19",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-23T11:43:15.132656-05:00"
+  "current_datetime": "2023-11-23T11:52:56.791707-05:00"
 }
