@@ -297,8 +297,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 18:53:56",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-24 21:19:11",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1327,8 +1327,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 18:52:53",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-24 21:18:25",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1397,8 +1397,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 18:52:57",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-24 21:18:31",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1597,7 +1597,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 17:13:34",
+      "patrolled_datetime": "2023-11-24 21:07:52",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -2897,7 +2897,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 17:12:02",
+      "patrolled_datetime": "2023-11-24 21:08:09",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -2907,7 +2907,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 17:11:44",
+      "patrolled_datetime": "2023-11-24 21:09:11",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -2917,7 +2917,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 17:10:36",
+      "patrolled_datetime": "2023-11-24 21:10:32",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -2927,7 +2927,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 17:09:08",
+      "patrolled_datetime": "2023-11-24 21:11:19",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -2937,7 +2937,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 17:08:21",
+      "patrolled_datetime": "2023-11-24 21:13:44",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -2947,8 +2947,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-09 09:03:10",
-      "days_since_patrolled": "15",
+      "patrolled_datetime": "2023-11-24 21:15:24",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2957,8 +2957,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 18:06:09",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-11-24 21:16:49",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2967,8 +2967,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 18:52:27",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-24 21:18:03",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 21:13:41",
+      "patrolled_datetime": "2023-11-24 21:18:42",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -6987,8 +6987,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 18:52:42",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-24 21:18:18",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-24T16:17:30.439021-05:00"
+  "current_datetime": "2023-11-24T16:24:44.463877-05:00"
 }
