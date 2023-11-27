@@ -277,8 +277,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-08 18:32:46",
-      "days_since_patrolled": "111",
+      "patrolled_datetime": "2023-11-27 20:30:50",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -287,8 +287,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-08 18:33:04",
-      "days_since_patrolled": "111",
+      "patrolled_datetime": "2023-11-27 20:30:14",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -1127,8 +1127,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-21 15:46:25",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-27 20:34:16",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -1457,8 +1457,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-11-27 20:30:54",
+      "days_since_patrolled": "0",
       "name": "BECKONS LN",
       "type": "Rural"
     },
@@ -1467,8 +1467,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-08-08 18:32:00",
-      "days_since_patrolled": "111",
+      "patrolled_datetime": "2023-11-27 20:32:10",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -1627,8 +1627,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-20 17:22:46",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-27 20:29:56",
+      "days_since_patrolled": "0",
       "name": "",
       "type": ""
     },
@@ -1687,8 +1687,8 @@
       "class_number": "4",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-24 16:59:21",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-27 20:35:57",
+      "days_since_patrolled": "0",
       "name": "RED BAY RD",
       "type": "Rural"
     },
@@ -2417,8 +2417,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-21 15:46:33",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-27 20:34:46",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -3207,8 +3207,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-21 15:47:46",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-27 20:35:38",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -3217,8 +3217,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-21 15:47:12",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-27 20:35:02",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -3317,7 +3317,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-27 11:50:46",
+      "patrolled_datetime": "2023-11-27 20:28:31",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Semi-Urban"
@@ -3327,7 +3327,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-27 12:38:05",
+      "patrolled_datetime": "2023-11-27 20:27:37",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -4987,8 +4987,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-21 15:48:58",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-27 20:35:42",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -5027,8 +5027,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-15 18:07:21",
-      "days_since_patrolled": "104",
+      "patrolled_datetime": "2023-11-27 20:34:19",
+      "days_since_patrolled": "0",
       "name": "BIRCH LN",
       "type": "Rural"
     },
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 20:25:18",
+      "patrolled_datetime": "2023-11-27 20:35:19",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -5847,7 +5847,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-27 12:37:58",
+      "patrolled_datetime": "2023-11-27 20:27:34",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -5857,7 +5857,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-27 20:26:54",
+      "patrolled_datetime": "2023-11-27 20:27:16",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -6607,8 +6607,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-24 21:22:11",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-27 20:29:59",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-27T15:33:02.703360-05:00"
+  "current_datetime": "2023-11-27T15:42:18.907254-05:00"
 }
