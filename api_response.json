@@ -1687,7 +1687,7 @@
       "class_number": "4",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-27 20:35:57",
+      "patrolled_datetime": "2023-11-27 20:41:52",
       "days_since_patrolled": "0",
       "name": "RED BAY RD",
       "type": "Rural"
@@ -1937,7 +1937,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 16:55:43",
+      "patrolled_datetime": "2023-11-27 20:43:58",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -1957,7 +1957,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 16:55:18",
+      "patrolled_datetime": "2023-11-27 20:43:32",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -1967,7 +1967,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 16:54:46",
+      "patrolled_datetime": "2023-11-27 20:43:02",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -1997,7 +1997,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 16:53:56",
+      "patrolled_datetime": "2023-11-27 20:42:00",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -4157,7 +4157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 16:56:47",
+      "patrolled_datetime": "2023-11-27 20:45:10",
       "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
@@ -4167,7 +4167,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 16:56:58",
+      "patrolled_datetime": "2023-11-27 20:45:21",
       "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
@@ -4177,7 +4177,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 16:57:15",
+      "patrolled_datetime": "2023-11-27 20:45:38",
       "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
@@ -4297,8 +4297,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 16:49:59",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-27 20:47:24",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 20:35:19",
+      "patrolled_datetime": "2023-11-27 20:45:20",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -7787,7 +7787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 16:56:23",
+      "patrolled_datetime": "2023-11-27 20:44:49",
       "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-27T15:42:18.907254-05:00"
+  "current_datetime": "2023-11-27T15:52:20.095180-05:00"
 }
