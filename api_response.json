@@ -87,8 +87,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 15:10:55",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-11-27 16:31:00",
+      "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Rural"
     },
@@ -1267,8 +1267,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-24 16:50:05",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-27 16:31:25",
+      "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Semi-Urban"
     },
@@ -1927,7 +1927,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-27 16:28:41",
+      "patrolled_datetime": "2023-11-27 16:30:16",
       "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Rural"
@@ -1937,8 +1937,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 16:52:16",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-27 16:33:28",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -1957,8 +1957,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 16:52:47",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-27 16:33:59",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -1967,8 +1967,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 16:53:44",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-27 16:34:53",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -1997,8 +1997,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:10:29",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-27 16:35:00",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2017,8 +2017,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:10:19",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-27 16:35:28",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2027,8 +2027,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:09:42",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-27 16:35:35",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2047,8 +2047,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:09:35",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-27 16:35:53",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-27 16:28:55",
+      "patrolled_datetime": "2023-11-27 16:36:40",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -4157,8 +4157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 16:50:57",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-27 16:32:12",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4167,8 +4167,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 16:50:34",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-27 16:31:54",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4177,8 +4177,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 16:50:20",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-27 16:31:44",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -6207,8 +6207,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:09:46",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-27 16:35:31",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -7377,8 +7377,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-23 17:09:21",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-27 16:36:16",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -7787,8 +7787,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 16:51:48",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-27 16:33:02",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 16:29:41",
+      "patrolled_datetime": "2023-11-27 16:35:59",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-27T11:33:35.549419-05:00"
+  "current_datetime": "2023-11-27T11:43:30.028636-05:00"
 }
