@@ -1067,8 +1067,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 18:52:46",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-11-28 16:14:17",
+      "days_since_patrolled": "0",
       "name": "MALLORY BEACH RD",
       "type": "Semi-Urban"
     },
@@ -1327,7 +1327,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-28 16:04:34",
+      "patrolled_datetime": "2023-11-28 16:12:34",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -2957,8 +2957,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 21:16:49",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-11-28 16:11:09",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2967,7 +2967,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-28 16:05:19",
+      "patrolled_datetime": "2023-11-28 16:12:16",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -6987,7 +6987,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-28 16:04:49",
+      "patrolled_datetime": "2023-11-28 16:12:30",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-28T11:11:06.361078-05:00"
+  "current_datetime": "2023-11-28T11:33:11.659702-05:00"
 }
