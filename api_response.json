@@ -3717,7 +3717,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-29 00:16:10",
+      "patrolled_datetime": "2023-11-29 18:48:38",
       "days_since_patrolled": "0",
       "name": "JENNY",
       "type": ""
@@ -3727,7 +3727,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-29 00:16:21",
+      "patrolled_datetime": "2023-11-29 18:48:50",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-29 17:34:54",
+      "patrolled_datetime": "2023-11-29 18:59:36",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -7677,7 +7677,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-29 18:48:31",
+      "patrolled_datetime": "2023-11-29 18:48:35",
       "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-29T13:52:33.501718-05:00"
+  "current_datetime": "2023-11-29T14:06:58.315882-05:00"
 }
