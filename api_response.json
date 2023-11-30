@@ -3677,8 +3677,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 19:22:02",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-11-30 18:39:14",
+      "days_since_patrolled": "0",
       "name": "FIDDLEHEAD LN",
       "type": "Semi-Urban"
     },
@@ -3967,8 +3967,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 19:23:32",
-      "days_since_patrolled": "16",
+      "patrolled_datetime": "2023-11-30 18:38:48",
+      "days_since_patrolled": "0",
       "name": "BOULTON ST",
       "type": "Semi-Urban"
     },
@@ -4307,8 +4307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-27 20:48:31",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-30 18:35:08",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 18:33:12",
+      "patrolled_datetime": "2023-11-30 18:34:23",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4417,8 +4417,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 18:44:48",
-      "days_since_patrolled": "23",
+      "patrolled_datetime": "2023-11-30 18:36:35",
+      "days_since_patrolled": "0",
       "name": "PIERCE ST S",
       "type": "Semi-Urban"
     },
@@ -7897,8 +7897,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-27 17:09:55",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-11-30 18:37:56",
+      "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-30T13:38:20.459118-05:00"
+  "current_datetime": "2023-11-30T13:45:35.122354-05:00"
 }
