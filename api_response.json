@@ -127,7 +127,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 16:29:48",
+      "patrolled_datetime": "2023-11-30 16:38:32",
       "days_since_patrolled": "0",
       "name": "FOREMAN DR",
       "type": "Rural"
@@ -137,7 +137,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 16:31:47",
+      "patrolled_datetime": "2023-11-30 16:37:06",
       "days_since_patrolled": "0",
       "name": "KIMBERLY LN",
       "type": "Semi-Urban"
@@ -147,7 +147,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 16:29:03",
+      "patrolled_datetime": "2023-11-30 16:39:23",
       "days_since_patrolled": "0",
       "name": "BLIND LINE",
       "type": "Rural"
@@ -3337,7 +3337,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 14:39:42",
+      "patrolled_datetime": "2023-11-30 16:33:57",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -3347,7 +3347,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 14:39:58",
+      "patrolled_datetime": "2023-11-30 16:34:38",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 16:26:01",
+      "patrolled_datetime": "2023-11-30 16:33:33",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -8587,7 +8587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 16:19:55",
+      "patrolled_datetime": "2023-11-30 16:34:01",
       "days_since_patrolled": "0",
       "name": "FRANK ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-30T11:33:44.965369-05:00"
+  "current_datetime": "2023-11-30T11:44:28.887848-05:00"
 }
