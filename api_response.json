@@ -5257,8 +5257,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 16:26:07",
-      "days_since_patrolled": "30",
+      "patrolled_datetime": "2023-11-30 17:48:12",
+      "days_since_patrolled": "0",
       "name": "MANLEY CR",
       "type": "Semi-Urban"
     },
@@ -5267,8 +5267,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-24 16:29:08",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-30 17:46:58",
+      "days_since_patrolled": "0",
       "name": "DEER TRAIL RD",
       "type": "Semi-Urban"
     },
@@ -5277,7 +5277,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 17:36:13",
+      "patrolled_datetime": "2023-11-30 17:40:54",
       "days_since_patrolled": "0",
       "name": "BUNNYVIEW DR",
       "type": "Semi-Urban"
@@ -5367,7 +5367,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 17:29:17",
+      "patrolled_datetime": "2023-11-30 17:47:14",
       "days_since_patrolled": "0",
       "name": "D LINE",
       "type": "Rural"
@@ -5417,8 +5417,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 15:37:22",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-11-30 17:47:26",
+      "days_since_patrolled": "0",
       "name": "FIFTH ST N",
       "type": "Semi-Urban"
     },
@@ -8217,7 +8217,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 17:33:17",
+      "patrolled_datetime": "2023-11-30 17:40:37",
       "days_since_patrolled": "0",
       "name": "FEDY DR",
       "type": "Semi-Urban"
@@ -8227,8 +8227,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-24 16:29:00",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-11-30 17:46:51",
+      "days_since_patrolled": "0",
       "name": "MARTIN DR",
       "type": "Semi-Urban"
     },
@@ -8237,8 +8237,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-10-31 16:08:59",
-      "days_since_patrolled": "30",
+      "patrolled_datetime": "2023-11-30 17:42:28",
+      "days_since_patrolled": "0",
       "name": "DAVIES DR",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-30T12:42:28.973025-05:00"
+  "current_datetime": "2023-11-30T12:52:25.412716-05:00"
 }
