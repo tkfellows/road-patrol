@@ -3367,7 +3367,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-30 18:59:07",
+      "patrolled_datetime": "2023-11-30 19:06:36",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
@@ -3417,7 +3417,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 14:03:43",
+      "patrolled_datetime": "2023-11-30 19:07:04",
       "days_since_patrolled": "0",
       "name": "BROWN ST",
       "type": "Urban"
@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 19:02:20",
+      "patrolled_datetime": "2023-11-30 19:07:20",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -8367,7 +8367,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 18:24:31",
+      "patrolled_datetime": "2023-11-30 19:07:00",
       "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Semi-Urban"
@@ -8637,7 +8637,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 18:24:55",
+      "patrolled_datetime": "2023-11-30 19:07:25",
       "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-30T14:05:32.794803-05:00"
+  "current_datetime": "2023-11-30T14:15:31.835166-05:00"
 }
