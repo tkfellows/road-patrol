@@ -3737,7 +3737,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 13:08:32",
+      "patrolled_datetime": "2023-11-30 14:26:54",
       "days_since_patrolled": "0",
       "name": "DANIEL ST",
       "type": "Semi-Urban"
@@ -7667,7 +7667,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 14:18:00",
+      "patrolled_datetime": "2023-11-30 14:21:54",
       "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Semi-Urban"
@@ -7677,7 +7677,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 13:10:03",
+      "patrolled_datetime": "2023-11-30 14:25:02",
       "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-11-30T09:25:04.486512-05:00"
+  "current_datetime": "2023-11-30T09:33:42.671767-05:00"
 }
