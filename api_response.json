@@ -1127,7 +1127,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-01 10:31:44",
+      "patrolled_datetime": "2023-12-01 10:32:14",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -1137,8 +1137,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 15:43:58",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-12-01 10:33:14",
+      "days_since_patrolled": "0",
       "name": "GREIG SETTLEMENT RD",
       "type": "Rural"
     },
@@ -1237,8 +1237,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 17:33:11",
-      "days_since_patrolled": "24",
+      "patrolled_datetime": "2023-12-01 10:33:17",
+      "days_since_patrolled": "0",
       "name": "GREIG SETTLEMENT RD",
       "type": "Rural"
     },
@@ -1677,8 +1677,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 21:07:50",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 10:40:14",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -2437,8 +2437,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 16:28:01",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-01 10:35:03",
+      "days_since_patrolled": "0",
       "name": "QUARRY RD",
       "type": "Rural"
     },
@@ -2457,8 +2457,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 21:10:27",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 10:38:57",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
     },
@@ -4307,8 +4307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 21:05:46",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 10:40:47",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4397,8 +4397,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 21:06:21",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 10:40:36",
+      "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-01T05:37:38.811695-05:00"
+  "current_datetime": "2023-12-01T05:44:42.281825-05:00"
 }
