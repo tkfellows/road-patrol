@@ -487,8 +487,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 17:48:59",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-01 10:19:12",
+      "days_since_patrolled": "0",
       "name": "BEECH ST",
       "type": "Rural"
     },
@@ -507,8 +507,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 18:29:06",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-12-01 10:13:36",
+      "days_since_patrolled": "0",
       "name": "WATER ST",
       "type": "Semi-Urban"
     },
@@ -517,8 +517,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 17:47:38",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-01 10:18:13",
+      "days_since_patrolled": "0",
       "name": "HOPE BAY RD",
       "type": "Semi-Urban"
     },
@@ -527,8 +527,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 17:45:46",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-01 10:16:50",
+      "days_since_patrolled": "0",
       "name": "BROCK ST",
       "type": "Semi-Urban"
     },
@@ -707,8 +707,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 18:00:21",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-01 09:59:14",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -2567,8 +2567,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-03 15:44:20",
-      "days_since_patrolled": "120",
+      "patrolled_datetime": "2023-12-01 09:55:36",
+      "days_since_patrolled": "0",
       "name": "BARFOOT CR",
       "type": "Rural"
     },
@@ -2907,8 +2907,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 21:09:11",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-12-01 10:20:14",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2917,8 +2917,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 21:10:32",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-12-01 10:21:24",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2927,8 +2927,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 21:11:19",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-12-01 10:22:08",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2937,8 +2937,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 21:13:44",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-12-01 10:22:44",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2957,8 +2957,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 20:25:22",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:54:28",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2967,7 +2967,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-01 09:52:44",
+      "patrolled_datetime": "2023-12-01 09:53:13",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -3227,8 +3227,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 18:04:22",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-01 09:55:32",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -3237,8 +3237,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 17:56:39",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-01 10:07:17",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -5947,8 +5947,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 17:56:43",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-01 10:06:19",
+      "days_since_patrolled": "0",
       "name": "MCIVER RD",
       "type": "Rural"
     },
@@ -6057,8 +6057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "2023-11-21 18:41:49",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-12-01 10:02:46",
+      "days_since_patrolled": "0",
       "name": "PORT ELGIN RD",
       "type": ""
     },
@@ -6087,8 +6087,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "2023-11-21 18:40:59",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-12-01 10:04:22",
+      "days_since_patrolled": "0",
       "name": "BOUNDARY RD",
       "type": ""
     },
@@ -6107,8 +6107,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "2023-11-21 18:39:21",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-12-01 10:05:09",
+      "days_since_patrolled": "0",
       "name": "BOUNDARY RD",
       "type": ""
     },
@@ -6327,8 +6327,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 18:44:57",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-12-01 10:00:39",
+      "days_since_patrolled": "0",
       "name": "COVENEY\\'S RD",
       "type": "Rural"
     },
@@ -8357,8 +8357,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 17:55:34",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-01 10:10:29",
+      "days_since_patrolled": "0",
       "name": "WAUGH\\'S RD",
       "type": "Rural"
     },
@@ -8787,8 +8787,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 18:02:00",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-01 09:57:48",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -8797,8 +8797,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 18:03:07",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-01 09:56:30",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -8827,8 +8827,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 18:43:17",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-12-01 10:02:00",
+      "days_since_patrolled": "0",
       "name": "COVENEY\\'S RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-01T05:09:12.348854-05:00"
+  "current_datetime": "2023-12-01T05:28:37.315368-05:00"
 }
