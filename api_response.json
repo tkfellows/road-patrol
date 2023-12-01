@@ -77,8 +77,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 20:28:38",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-12-01 11:33:01",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
     },
@@ -767,8 +767,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 16:04:19",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 11:34:28",
+      "days_since_patrolled": "0",
       "name": "SIDEROAD 15",
       "type": "Rural"
     },
@@ -787,7 +787,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-01 10:52:12",
+      "patrolled_datetime": "2023-12-01 11:36:03",
       "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
@@ -1157,7 +1157,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-01 10:53:14",
+      "patrolled_datetime": "2023-12-01 11:37:09",
       "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
@@ -3797,7 +3797,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-01 10:54:30",
+      "patrolled_datetime": "2023-12-01 11:37:45",
       "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
@@ -5337,8 +5337,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 16:36:12",
-      "days_since_patrolled": "84",
+      "patrolled_datetime": "2023-12-01 11:29:37",
+      "days_since_patrolled": "0",
       "name": "SAUBLE PL",
       "type": "Semi-Urban"
     },
@@ -5347,8 +5347,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-09 20:45:03",
-      "days_since_patrolled": "22",
+      "patrolled_datetime": "2023-12-01 11:29:55",
+      "days_since_patrolled": "0",
       "name": "BIRCHWOOD DR",
       "type": "Semi-Urban"
     },
@@ -5357,8 +5357,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 18:03:13",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 11:32:18",
+      "days_since_patrolled": "0",
       "name": "JEWEL BRIDGE RD",
       "type": "Semi-Urban"
     },
@@ -5397,8 +5397,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 18:01:38",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 11:31:57",
+      "days_since_patrolled": "0",
       "name": "DORENA CR",
       "type": "Semi-Urban"
     },
@@ -5957,8 +5957,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-08 19:56:07",
-      "days_since_patrolled": "84",
+      "patrolled_datetime": "2023-12-01 11:31:05",
+      "days_since_patrolled": "0",
       "name": "FOREST PL",
       "type": "Semi-Urban"
     },
@@ -6377,7 +6377,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-01 11:28:45",
+      "patrolled_datetime": "2023-12-01 11:29:15",
       "days_since_patrolled": "0",
       "name": "SIXTH ST N",
       "type": "Semi-Urban"
@@ -6527,8 +6527,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 20:27:37",
-      "days_since_patrolled": "10",
+      "patrolled_datetime": "2023-12-01 11:34:24",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-01T06:33:08.910004-05:00"
+  "current_datetime": "2023-12-01T06:42:32.127719-05:00"
 }
