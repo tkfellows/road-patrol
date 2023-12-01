@@ -297,8 +297,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 20:28:00",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:50:32",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -307,8 +307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 20:28:07",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:49:45",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1327,8 +1327,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 20:26:57",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:52:04",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1337,8 +1337,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 13:46:58",
-      "days_since_patrolled": "17",
+      "patrolled_datetime": "2023-12-01 09:51:19",
+      "days_since_patrolled": "0",
       "name": "KRIBS RD",
       "type": "Rural"
     },
@@ -1357,8 +1357,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 13:47:25",
-      "days_since_patrolled": "17",
+      "patrolled_datetime": "2023-12-01 09:51:03",
+      "days_since_patrolled": "0",
       "name": "EDGAR ST",
       "type": "Semi-Urban"
     },
@@ -1377,8 +1377,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 20:13:08",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:51:49",
+      "days_since_patrolled": "0",
       "name": "URBAN ST",
       "type": "Semi-Urban"
     },
@@ -1387,8 +1387,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-12-01 09:51:32",
+      "days_since_patrolled": "0",
       "name": "MARTHA ST",
       "type": "Semi-Urban"
     },
@@ -1397,8 +1397,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 20:27:03",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:51:57",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1417,8 +1417,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 20:28:11",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:49:37",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1427,8 +1427,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 20:28:27",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:49:30",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -1627,8 +1627,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-30 20:11:23",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:49:05",
+      "days_since_patrolled": "0",
       "name": "",
       "type": ""
     },
@@ -2967,8 +2967,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 20:26:31",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:52:44",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -3317,8 +3317,8 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 23:55:49",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:47:45",
+      "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Semi-Urban"
     },
@@ -3327,8 +3327,8 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 23:55:14",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:47:06",
+      "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
     },
@@ -3707,8 +3707,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 18:06:01",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-12-01 09:47:35",
+      "days_since_patrolled": "0",
       "name": "JENNY St",
       "type": "Semi-Urban"
     },
@@ -5827,8 +5827,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 20:28:54",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:49:19",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -5847,8 +5847,8 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 23:55:10",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:47:03",
+      "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
     },
@@ -5857,7 +5857,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-01 09:46:45",
+      "patrolled_datetime": "2023-12-01 09:46:55",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -6177,8 +6177,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-24 21:19:49",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-12-01 09:49:33",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -6187,8 +6187,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 20:26:35",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:52:17",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -6607,8 +6607,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-30 20:30:30",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:48:51",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -6987,8 +6987,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 20:26:46",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 09:52:14",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-01T04:52:34.825538-05:00"
+  "current_datetime": "2023-12-01T05:09:12.348854-05:00"
 }
