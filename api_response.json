@@ -1657,8 +1657,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-24 14:41:01",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-12-01 10:46:47",
+      "days_since_patrolled": "0",
       "name": "RANKIN BRIDGE RD",
       "type": "Rural"
     },
@@ -4307,7 +4307,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-01 10:40:47",
+      "patrolled_datetime": "2023-12-01 10:41:16",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4317,8 +4317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 21:05:05",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 10:43:09",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -7817,8 +7817,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-09-11 16:29:26",
-      "days_since_patrolled": "81",
+      "patrolled_datetime": "2023-12-01 10:43:12",
+      "days_since_patrolled": "0",
       "name": "SOUTH OLIPHANT RD",
       "type": "Rural"
     },
@@ -8147,8 +8147,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 18:30:56",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 10:44:33",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -8157,8 +8157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-30 18:32:26",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-01 10:44:26",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-01T05:44:42.281825-05:00"
+  "current_datetime": "2023-12-01T05:52:24.226802-05:00"
 }
