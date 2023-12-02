@@ -47,8 +47,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 18:12:01",
-      "days_since_patrolled": "25",
+      "patrolled_datetime": "2023-12-02 06:41:38",
+      "days_since_patrolled": "0",
       "name": "SUNSET DR",
       "type": "Rural"
     },
@@ -1047,8 +1047,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 18:11:30",
-      "days_since_patrolled": "25",
+      "patrolled_datetime": "2023-12-02 06:42:19",
+      "days_since_patrolled": "0",
       "name": "SUNSET DR",
       "type": "Rural"
     },
@@ -1787,8 +1787,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 15:59:46",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-12-02 06:41:11",
+      "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": "Semi-Urban"
     },
@@ -2177,7 +2177,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-02 06:38:43",
+      "patrolled_datetime": "2023-12-02 06:39:21",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -6197,8 +6197,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 15:56:36",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-12-02 06:39:32",
+      "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": ""
     },
@@ -7387,8 +7387,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 15:59:57",
-      "days_since_patrolled": "11",
+      "patrolled_datetime": "2023-12-02 06:39:28",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-02T01:42:52.875964-05:00"
+  "current_datetime": "2023-12-02T01:52:26.572449-05:00"
 }
