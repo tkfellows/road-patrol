@@ -487,8 +487,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-01 10:19:12",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-02 08:35:49",
+      "days_since_patrolled": "0",
       "name": "BEECH ST",
       "type": "Rural"
     },
@@ -517,8 +517,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-01 10:18:13",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-02 08:37:31",
+      "days_since_patrolled": "0",
       "name": "HOPE BAY RD",
       "type": "Semi-Urban"
     },
@@ -527,8 +527,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-01 10:16:50",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-02 08:38:38",
+      "days_since_patrolled": "0",
       "name": "BROCK ST",
       "type": "Semi-Urban"
     },
@@ -1107,8 +1107,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-22 17:19:23",
-      "days_since_patrolled": "102",
+      "patrolled_datetime": "2023-12-02 08:29:56",
+      "days_since_patrolled": "0",
       "name": "KING\\'S CR",
       "type": "Rural"
     },
@@ -2907,8 +2907,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-01 10:20:14",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-02 08:34:37",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2917,8 +2917,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-01 10:21:24",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-02 08:33:28",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2927,8 +2927,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-01 10:22:08",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-02 08:31:58",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2937,7 +2937,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-02 08:26:58",
+      "patrolled_datetime": "2023-12-02 08:27:56",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-02T03:32:40.164504-05:00"
+  "current_datetime": "2023-12-02T03:42:26.988288-05:00"
 }
