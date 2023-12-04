@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-04 21:26:42",
+      "patrolled_datetime": "2023-12-04 21:36:44",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-04 21:30:50",
+      "patrolled_datetime": "2023-12-04 21:38:09",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8047,7 +8047,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-04 17:01:15",
+      "patrolled_datetime": "2023-12-04 21:38:17",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-04T16:32:44.721829-05:00"
+  "current_datetime": "2023-12-04T16:42:19.188342-05:00"
 }
