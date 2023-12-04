@@ -1607,7 +1607,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 12:22:35",
+      "patrolled_datetime": "2023-12-04 14:24:06",
       "days_since_patrolled": "0",
       "name": "",
       "type": ""
@@ -1617,8 +1617,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-01 11:44:06",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-12-04 14:24:02",
+      "days_since_patrolled": "0",
       "name": "",
       "type": ""
     },
@@ -3157,7 +3157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 12:53:41",
+      "patrolled_datetime": "2023-12-04 14:26:18",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -3587,8 +3587,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-28 21:59:22",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-12-04 14:22:57",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
     },
@@ -3597,8 +3597,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-11-28 21:59:18",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-12-04 14:23:52",
+      "days_since_patrolled": "0",
       "name": "QUEEN ST E",
       "type": ""
     },
@@ -3607,7 +3607,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 12:52:10",
+      "patrolled_datetime": "2023-12-04 14:24:13",
       "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
@@ -4477,7 +4477,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 12:55:19",
+      "patrolled_datetime": "2023-12-04 14:28:39",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -4487,7 +4487,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 12:56:39",
+      "patrolled_datetime": "2023-12-04 14:30:12",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -5867,7 +5867,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 12:52:41",
+      "patrolled_datetime": "2023-12-04 14:24:49",
       "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-04T09:25:50.097864-05:00"
+  "current_datetime": "2023-12-04T09:35:38.772685-05:00"
 }
