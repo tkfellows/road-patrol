@@ -367,8 +367,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 19:10:55",
-      "days_since_patrolled": "20",
+      "patrolled_datetime": "2023-12-04 05:25:27",
+      "days_since_patrolled": "0",
       "name": "OLD RED BAY RD",
       "type": "Rural"
     },
@@ -797,8 +797,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-02 06:31:55",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:24:03",
+      "days_since_patrolled": "0",
       "name": "OLD RED BAY RD",
       "type": "Rural"
     },
@@ -1257,7 +1257,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 05:20:26",
+      "patrolled_datetime": "2023-12-04 05:20:35",
       "days_since_patrolled": "0",
       "name": "SHORELINE AVE",
       "type": "Semi-Urban"
@@ -7827,8 +7827,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-14 19:11:19",
-      "days_since_patrolled": "20",
+      "patrolled_datetime": "2023-12-04 05:26:05",
+      "days_since_patrolled": "0",
       "name": "AMABEL-ALBEMARLE",
       "type": "Rural"
     },
@@ -7837,8 +7837,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-03 17:45:30",
-      "days_since_patrolled": "31",
+      "patrolled_datetime": "2023-12-04 05:25:30",
+      "days_since_patrolled": "0",
       "name": "AMABEL-ALBEMARLE",
       "type": "Rural"
     },
@@ -7857,8 +7857,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-02 06:31:19",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:23:01",
+      "days_since_patrolled": "0",
       "name": "SHORELINE AVE",
       "type": "Semi-Urban"
     },
@@ -8347,8 +8347,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-02 06:31:51",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:23:40",
+      "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-04T00:25:10.887403-05:00"
+  "current_datetime": "2023-12-04T00:32:53.342414-05:00"
 }
