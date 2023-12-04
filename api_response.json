@@ -7,8 +7,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-02 06:49:38",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:41:57",
+      "days_since_patrolled": "0",
       "name": "BELL DR",
       "type": "Urban"
     },
@@ -47,8 +47,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-02 06:41:38",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:34:37",
+      "days_since_patrolled": "0",
       "name": "SUNSET DR",
       "type": "Rural"
     },
@@ -107,8 +107,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-02 06:51:13",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:43:18",
+      "days_since_patrolled": "0",
       "name": "WEST ST",
       "type": ""
     },
@@ -117,8 +117,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "2023-12-02 06:47:35",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:40:05",
+      "days_since_patrolled": "0",
       "name": "PIKE BAY",
       "type": ""
     },
@@ -997,8 +997,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "2023-12-02 06:48:14",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:40:41",
+      "days_since_patrolled": "0",
       "name": "MAKELA RD",
       "type": ""
     },
@@ -1007,8 +1007,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "2023-11-07 18:12:05",
-      "days_since_patrolled": "27",
+      "patrolled_datetime": "2023-12-04 05:34:11",
+      "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": ""
     },
@@ -1017,8 +1017,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-02 06:47:06",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:39:39",
+      "days_since_patrolled": "0",
       "name": "SUNSET DR",
       "type": "Rural"
     },
@@ -1047,8 +1047,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-02 06:44:51",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:37:43",
+      "days_since_patrolled": "0",
       "name": "SUNSET DR",
       "type": "Rural"
     },
@@ -1727,8 +1727,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-02 06:58:36",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:48:59",
+      "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": "Rural"
     },
@@ -1787,7 +1787,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 05:33:24",
+      "patrolled_datetime": "2023-12-04 05:34:07",
       "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": "Semi-Urban"
@@ -6857,8 +6857,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "2023-12-02 06:48:07",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:40:38",
+      "days_since_patrolled": "0",
       "name": "BAYWATCH DR",
       "type": ""
     },
@@ -7447,8 +7447,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-07 18:03:16",
-      "days_since_patrolled": "27",
+      "patrolled_datetime": "2023-12-04 05:33:53",
+      "days_since_patrolled": "0",
       "name": "SIMPSON ST",
       "type": "Semi-Urban"
     },
@@ -7497,8 +7497,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-02 06:56:51",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:48:10",
+      "days_since_patrolled": "0",
       "name": "DADDY WEIR RD",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-04T00:42:26.225943-05:00"
+  "current_datetime": "2023-12-04T00:52:15.310577-05:00"
 }
