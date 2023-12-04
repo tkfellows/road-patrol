@@ -277,8 +277,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-02 07:37:21",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 20:01:51",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -287,8 +287,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-02 07:36:44",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 20:00:59",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -1407,7 +1407,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 07:09:08",
+      "patrolled_datetime": "2023-12-04 19:59:55",
       "days_since_patrolled": "0",
       "name": "BERFORD LAKE RD",
       "type": "Rural"
@@ -1457,8 +1457,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-27 20:30:54",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-12-04 20:07:38",
+      "days_since_patrolled": "0",
       "name": "BECKONS LN",
       "type": "Rural"
     },
@@ -3027,7 +3027,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 19:53:21",
+      "patrolled_datetime": "2023-12-04 19:54:49",
       "days_since_patrolled": "0",
       "name": "PARKSIDE AVE",
       "type": "Rural"
@@ -3177,8 +3177,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-02 08:20:01",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 19:59:11",
+      "days_since_patrolled": "0",
       "name": "BERFORD LAKE RD",
       "type": "Rural"
     },
@@ -3187,7 +3187,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 19:42:38",
+      "patrolled_datetime": "2023-12-04 19:57:33",
       "days_since_patrolled": "0",
       "name": "BERFORD LAKE RD",
       "type": "Rural"
@@ -5827,7 +5827,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-04 18:56:46",
+      "patrolled_datetime": "2023-12-04 20:00:33",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-04 20:01:35",
+      "patrolled_datetime": "2023-12-04 20:16:36",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-04T15:08:36.600495-05:00"
+  "current_datetime": "2023-12-04T15:22:17.139583-05:00"
 }
