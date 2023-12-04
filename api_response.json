@@ -487,8 +487,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-03 08:09:41",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-04 06:05:25",
+      "days_since_patrolled": "0",
       "name": "BEECH ST",
       "type": "Rural"
     },
@@ -1727,7 +1727,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 05:48:59",
+      "patrolled_datetime": "2023-12-04 05:50:28",
       "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": "Rural"
@@ -2907,8 +2907,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-03 08:10:50",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-04 06:05:09",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2917,8 +2917,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-03 08:12:02",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-04 06:03:56",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2927,8 +2927,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-03 08:12:43",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-04 06:02:28",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2937,8 +2937,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-03 08:15:02",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-04 06:01:44",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -4977,8 +4977,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-21 15:51:22",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-12-04 05:52:52",
+      "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": "Rural"
     },
@@ -4987,8 +4987,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-02 07:03:02",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 05:53:54",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -8267,8 +8267,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-03 08:17:23",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-04 05:59:02",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -8307,8 +8307,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-03 08:18:40",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-04 05:56:14",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -8487,8 +8487,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-03 08:19:31",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-04 05:54:55",
+      "days_since_patrolled": "0",
       "name": "MAR SIDEROAD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-04T00:52:15.310577-05:00"
+  "current_datetime": "2023-12-04T01:11:56.637986-05:00"
 }
