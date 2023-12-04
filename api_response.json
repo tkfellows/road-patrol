@@ -527,7 +527,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 06:23:38",
+      "patrolled_datetime": "2023-12-04 06:28:39",
       "days_since_patrolled": "0",
       "name": "BROCK ST",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-04T01:30:54.292291-05:00"
+  "current_datetime": "2023-12-04T01:42:18.698383-05:00"
 }
