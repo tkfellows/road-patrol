@@ -107,7 +107,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-04 05:43:18",
+      "patrolled_datetime": "2023-12-04 20:51:13",
       "days_since_patrolled": "0",
       "name": "WEST ST",
       "type": ""
@@ -1577,8 +1577,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-12-04 20:47:51",
+      "days_since_patrolled": "0",
       "name": "THE BURY RD",
       "type": ""
     },
@@ -1707,8 +1707,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-12-04 20:40:57",
+      "days_since_patrolled": "0",
       "name": "LIMBERLOST RD",
       "type": "Rural"
     },
@@ -1717,8 +1717,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-02 07:00:43",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-04 20:33:50",
+      "days_since_patrolled": "0",
       "name": "SUMMER AVE",
       "type": "Rural"
     },
@@ -1727,7 +1727,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 05:50:28",
+      "patrolled_datetime": "2023-12-04 20:31:06",
       "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": "Rural"
@@ -2387,8 +2387,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-12-04 20:36:28",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -2407,8 +2407,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-12-04 20:35:28",
+      "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
     },
@@ -4977,7 +4977,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 20:24:40",
+      "patrolled_datetime": "2023-12-04 20:29:40",
       "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": "Rural"
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-04 20:46:39",
+      "patrolled_datetime": "2023-12-04 20:56:39",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -7407,8 +7407,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-11-21 15:56:28",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-12-04 20:58:56",
+      "days_since_patrolled": "0",
       "name": "HOWDENVALE RD",
       "type": ""
     },
@@ -7487,8 +7487,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "0000-00-00 00:00:00",
-      "days_since_patrolled": "3652",
+      "patrolled_datetime": "2023-12-04 20:44:20",
+      "days_since_patrolled": "0",
       "name": "THE BURY RD",
       "type": "Rural"
     },
@@ -7497,7 +7497,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-04 05:48:10",
+      "patrolled_datetime": "2023-12-04 20:56:42",
       "days_since_patrolled": "0",
       "name": "DADDY WEIR RD",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-04T15:52:28.836574-05:00"
+  "current_datetime": "2023-12-04T16:06:51.748485-05:00"
 }
