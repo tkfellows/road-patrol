@@ -3157,7 +3157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 18:39:56",
+      "patrolled_datetime": "2023-12-04 18:40:50",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -3357,7 +3357,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 12:15:27",
+      "patrolled_datetime": "2023-12-04 18:47:18",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Urban"
@@ -3367,7 +3367,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 12:59:35",
+      "patrolled_datetime": "2023-12-04 18:47:08",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
@@ -3387,7 +3387,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 15:33:20",
+      "patrolled_datetime": "2023-12-04 18:47:12",
       "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Urban"
@@ -4477,7 +4477,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 14:28:39",
+      "patrolled_datetime": "2023-12-04 18:42:36",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -4487,7 +4487,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 14:30:12",
+      "patrolled_datetime": "2023-12-04 18:44:02",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-04 18:36:24",
+      "patrolled_datetime": "2023-12-04 18:46:26",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -5987,7 +5987,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 12:58:27",
+      "patrolled_datetime": "2023-12-04 18:45:55",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
@@ -5997,7 +5997,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 14:32:25",
+      "patrolled_datetime": "2023-12-04 18:46:55",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": ""
@@ -7007,7 +7007,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 14:31:23",
+      "patrolled_datetime": "2023-12-04 18:45:26",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-04T13:45:35.491102-05:00"
+  "current_datetime": "2023-12-04T13:52:49.631278-05:00"
 }
