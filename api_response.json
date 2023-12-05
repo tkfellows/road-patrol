@@ -837,7 +837,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 11:45:27",
+      "patrolled_datetime": "2023-12-05 11:50:37",
       "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
@@ -3407,7 +3407,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 11:41:20",
+      "patrolled_datetime": "2023-12-05 11:51:37",
       "days_since_patrolled": "0",
       "name": "BROWN ST",
       "type": "Urban"
@@ -3417,8 +3417,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 07:14:09",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 11:52:42",
+      "days_since_patrolled": "0",
       "name": "BROWN ST",
       "type": "Urban"
     },
@@ -7527,7 +7527,7 @@
       "class_number": "5",
       "class_name": "Arterial",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-05 11:41:30",
+      "patrolled_datetime": "2023-12-05 11:51:42",
       "days_since_patrolled": "0",
       "name": "FRANK ST",
       "type": "Urban"
@@ -7637,7 +7637,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 11:46:19",
+      "patrolled_datetime": "2023-12-05 11:50:08",
       "days_since_patrolled": "0",
       "name": "BAYVIEW ST",
       "type": "Semi-Urban"
@@ -7647,7 +7647,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 11:45:51",
+      "patrolled_datetime": "2023-12-05 11:50:32",
       "days_since_patrolled": "0",
       "name": "BAYVIEW ST",
       "type": "Urban"
@@ -8557,8 +8557,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 16:48:32",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 11:50:47",
+      "days_since_patrolled": "0",
       "name": "WILLIAM ST",
       "type": "Urban"
     },
@@ -8567,7 +8567,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 11:39:18",
+      "patrolled_datetime": "2023-12-05 11:51:14",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -8617,8 +8617,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 15:25:53",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 11:52:07",
+      "days_since_patrolled": "0",
       "name": "MARY ST",
       "type": "Urban"
     },
@@ -8637,8 +8637,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 15:32:13",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 11:53:18",
+      "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Semi-Urban"
     },
@@ -8697,8 +8697,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-30 19:45:19",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-12-05 11:52:03",
+      "days_since_patrolled": "0",
       "name": "BROWN ST",
       "type": "Urban"
     },
@@ -8707,8 +8707,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 16:48:49",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 11:51:06",
+      "days_since_patrolled": "0",
       "name": "BROWN ST",
       "type": "Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-05T06:52:21.746704-05:00"
+  "current_datetime": "2023-12-05T07:15:13.424632-05:00"
 }
