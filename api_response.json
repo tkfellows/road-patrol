@@ -1527,7 +1527,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 05:03:08",
+      "patrolled_datetime": "2023-12-05 14:20:16",
       "days_since_patrolled": "0",
       "name": "NORTHACRES RD",
       "type": "Rural"
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 13:59:40",
+      "patrolled_datetime": "2023-12-05 14:17:04",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -2857,7 +2857,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 05:03:55",
+      "patrolled_datetime": "2023-12-05 14:19:44",
       "days_since_patrolled": "0",
       "name": "MEADOWLAND RD",
       "type": "Rural"
@@ -4467,7 +4467,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 13:40:40",
+      "patrolled_datetime": "2023-12-05 14:18:44",
       "days_since_patrolled": "0",
       "name": "NORTH DIAGONAL",
       "type": "Rural"
@@ -4487,7 +4487,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-05 13:42:09",
+      "patrolled_datetime": "2023-12-05 14:03:50",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -7007,7 +7007,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-05 14:02:17",
+      "patrolled_datetime": "2023-12-05 14:02:25",
       "days_since_patrolled": "0",
       "name": "HWY 6",
       "type": ""
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-05 14:01:13",
+      "patrolled_datetime": "2023-12-05 14:04:59",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-05T09:08:11.504106-05:00"
+  "current_datetime": "2023-12-05T09:25:44.434090-05:00"
 }
