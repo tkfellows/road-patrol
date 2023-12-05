@@ -707,7 +707,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 07:21:37",
+      "patrolled_datetime": "2023-12-05 07:22:58",
       "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
@@ -2957,8 +2957,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-04 19:38:08",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:28:02",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -2967,8 +2967,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-04 18:59:53",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:29:07",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 9",
       "type": ""
     },
@@ -3227,8 +3227,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 19:36:16",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:26:40",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -8787,8 +8787,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 19:33:22",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:24:24",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -8797,8 +8797,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 19:34:37",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:25:27",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-05T02:26:34.011630-05:00"
+  "current_datetime": "2023-12-05T02:34:23.144508-05:00"
 }
