@@ -227,8 +227,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 12:22:09",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 15:42:01",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Semi-Urban"
     },
@@ -787,7 +787,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 15:35:45",
+      "patrolled_datetime": "2023-12-05 15:37:26",
       "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
@@ -1157,7 +1157,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 05:13:00",
+      "patrolled_datetime": "2023-12-05 15:38:44",
       "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
@@ -1607,7 +1607,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-05 05:16:37",
+      "patrolled_datetime": "2023-12-05 15:42:46",
       "days_since_patrolled": "0",
       "name": "",
       "type": ""
@@ -1617,7 +1617,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-05 13:40:14",
+      "patrolled_datetime": "2023-12-05 15:42:33",
       "days_since_patrolled": "0",
       "name": "",
       "type": ""
@@ -3607,8 +3607,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 18:39:09",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 15:42:26",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -3617,8 +3617,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-04 18:38:59",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 15:42:29",
+      "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
     },
@@ -3767,8 +3767,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 12:22:19",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 15:42:58",
+      "days_since_patrolled": "0",
       "name": "SOPHIA ST",
       "type": "Urban"
     },
@@ -3777,7 +3777,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-05 13:41:02",
+      "patrolled_datetime": "2023-12-05 15:45:28",
       "days_since_patrolled": "0",
       "name": "QUEEN ST W",
       "type": ""
@@ -3797,7 +3797,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 05:14:20",
+      "patrolled_datetime": "2023-12-05 15:40:15",
       "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
@@ -3867,7 +3867,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-05 05:17:29",
+      "patrolled_datetime": "2023-12-05 15:46:38",
       "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
@@ -6167,7 +6167,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-05 05:17:15",
+      "patrolled_datetime": "2023-12-05 15:46:19",
       "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
@@ -7757,7 +7757,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-05 05:17:04",
+      "patrolled_datetime": "2023-12-05 15:46:04",
       "days_since_patrolled": "0",
       "name": "BRUCE ST",
       "type": ""
@@ -8757,8 +8757,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-01 11:39:19",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-12-05 15:41:35",
+      "days_since_patrolled": "0",
       "name": "SPRING CREEK RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-05T10:42:20.059281-05:00"
+  "current_datetime": "2023-12-05T10:52:23.282952-05:00"
 }
