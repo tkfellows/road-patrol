@@ -707,8 +707,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 19:25:19",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:21:37",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -3237,8 +3237,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 06:42:51",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:11:52",
+      "days_since_patrolled": "0",
       "name": "PURPLE VALLEY RD",
       "type": "Rural"
     },
@@ -5947,8 +5947,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 06:44:24",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:14:53",
+      "days_since_patrolled": "0",
       "name": "MCIVER RD",
       "type": "Rural"
     },
@@ -6057,8 +6057,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "2023-12-04 06:48:08",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:18:20",
+      "days_since_patrolled": "0",
       "name": "PORT ELGIN RD",
       "type": ""
     },
@@ -6087,8 +6087,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "2023-12-04 06:47:13",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:17:29",
+      "days_since_patrolled": "0",
       "name": "BOUNDARY RD",
       "type": ""
     },
@@ -6107,8 +6107,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Other",
-      "patrolled_datetime": "2023-12-04 06:45:19",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:15:48",
+      "days_since_patrolled": "0",
       "name": "BOUNDARY RD",
       "type": ""
     },
@@ -6327,8 +6327,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 19:22:47",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:21:16",
+      "days_since_patrolled": "0",
       "name": "COVENEY\\'S RD",
       "type": "Rural"
     },
@@ -8357,7 +8357,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 07:09:39",
+      "patrolled_datetime": "2023-12-05 07:10:39",
       "days_since_patrolled": "0",
       "name": "WAUGH\\'S RD",
       "type": "Rural"
@@ -8827,8 +8827,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 19:20:36",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-05 07:19:39",
+      "days_since_patrolled": "0",
       "name": "COVENEY\\'S RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-05T02:19:22.755589-05:00"
+  "current_datetime": "2023-12-05T02:26:34.011630-05:00"
 }
