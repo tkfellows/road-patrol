@@ -1937,7 +1937,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-06 16:19:13",
+      "patrolled_datetime": "2023-12-06 17:47:19",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -1957,7 +1957,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-06 17:20:24",
+      "patrolled_datetime": "2023-12-06 17:46:47",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -1967,7 +1967,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-06 17:36:22",
+      "patrolled_datetime": "2023-12-06 17:37:03",
       "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
@@ -1987,7 +1987,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 17:18:10",
+      "patrolled_datetime": "2023-12-06 17:44:17",
       "days_since_patrolled": "0",
       "name": "ICE HUT LN",
       "type": "Rural"
@@ -4157,7 +4157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-06 16:17:54",
+      "patrolled_datetime": "2023-12-06 17:48:24",
       "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
@@ -7577,7 +7577,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 17:41:31",
+      "patrolled_datetime": "2023-12-06 17:41:38",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 11:53:57",
+      "patrolled_datetime": "2023-12-06 17:47:25",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -7787,7 +7787,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-06 16:18:47",
+      "patrolled_datetime": "2023-12-06 17:48:16",
       "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
@@ -8317,7 +8317,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 17:19:36",
+      "patrolled_datetime": "2023-12-06 17:46:03",
       "days_since_patrolled": "0",
       "name": "ADIS DR",
       "type": "Rural"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-06T12:42:30.292627-05:00"
+  "current_datetime": "2023-12-06T12:52:10.573419-05:00"
 }
