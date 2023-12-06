@@ -1187,7 +1187,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 18:44:58",
+      "patrolled_datetime": "2023-12-06 18:59:30",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -2557,8 +2557,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-05 18:35:23",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-06 18:55:59",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 14",
       "type": ""
     },
@@ -2577,7 +2577,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 18:45:22",
+      "patrolled_datetime": "2023-12-06 18:57:46",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -2617,8 +2617,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-23 19:24:35",
-      "days_since_patrolled": "13",
+      "patrolled_datetime": "2023-12-06 18:54:23",
+      "days_since_patrolled": "0",
       "name": "MAPLE DR",
       "type": "Semi-Urban"
     },
@@ -7087,7 +7087,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 18:43:14",
+      "patrolled_datetime": "2023-12-06 19:00:22",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 18:47:30",
+      "patrolled_datetime": "2023-12-06 18:57:31",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-06T13:52:38.589463-05:00"
+  "current_datetime": "2023-12-06T14:06:57.880499-05:00"
 }
