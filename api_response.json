@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-07 16:10:47",
+      "patrolled_datetime": "2023-12-07 20:44:41",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 20:35:48",
+      "patrolled_datetime": "2023-12-07 20:45:49",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -8007,7 +8007,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-07 20:36:21",
+      "patrolled_datetime": "2023-12-07 20:36:57",
       "days_since_patrolled": "0",
       "name": "BANNISTER DR",
       "type": "Semi-Urban"
@@ -8017,8 +8017,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 05:48:04",
-      "days_since_patrolled": "2",
+      "patrolled_datetime": "2023-12-07 20:37:10",
+      "days_since_patrolled": "0",
       "name": "COMMUNITY CENTRE DR",
       "type": "Semi-Urban"
     },
@@ -8057,7 +8057,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 16:12:35",
+      "patrolled_datetime": "2023-12-07 20:37:43",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -8067,7 +8067,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 16:12:10",
+      "patrolled_datetime": "2023-12-07 20:38:47",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-07T15:42:15.405176-05:00"
+  "current_datetime": "2023-12-07T15:52:19.665163-05:00"
 }
