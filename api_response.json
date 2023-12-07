@@ -4737,7 +4737,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-07 20:18:23",
+      "patrolled_datetime": "2023-12-07 20:19:01",
       "days_since_patrolled": "0",
       "name": "LAKESHORE BLVD N",
       "type": "Semi-Urban"
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 20:15:46",
+      "patrolled_datetime": "2023-12-07 20:25:48",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -8027,8 +8027,8 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 16:05:53",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-07 20:20:29",
+      "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": "Urban"
     },
@@ -8037,7 +8037,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 16:13:09",
+      "patrolled_datetime": "2023-12-07 20:26:01",
       "days_since_patrolled": "0",
       "name": "MAIN ST",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-07T15:23:00.189509-05:00"
+  "current_datetime": "2023-12-07T15:33:11.833041-05:00"
 }
