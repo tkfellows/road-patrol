@@ -3317,7 +3317,7 @@
       "class_number": "3",
       "class_name": "Arterial",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-07 17:16:34",
+      "patrolled_datetime": "2023-12-07 17:21:27",
       "days_since_patrolled": "0",
       "name": "BERFORD ST",
       "type": "Semi-Urban"
@@ -3717,7 +3717,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 17:16:44",
+      "patrolled_datetime": "2023-12-07 17:20:37",
       "days_since_patrolled": "0",
       "name": "JENNY",
       "type": ""
@@ -3727,7 +3727,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 17:16:52",
+      "patrolled_datetime": "2023-12-07 17:20:27",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -5837,7 +5837,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 17:20:09",
+      "patrolled_datetime": "2023-12-07 17:20:19",
       "days_since_patrolled": "0",
       "name": "JENNY ST",
       "type": ""
@@ -6467,7 +6467,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-07 12:08:43",
+      "patrolled_datetime": "2023-12-07 17:21:37",
       "days_since_patrolled": "0",
       "name": "DIVISION ST",
       "type": "Urban"
@@ -7587,7 +7587,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-07 17:14:38",
+      "patrolled_datetime": "2023-12-07 17:24:40",
       "days_since_patrolled": "0",
       "name": "GEORGE ST",
       "type": "Urban"
@@ -7637,7 +7637,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-07 17:09:17",
+      "patrolled_datetime": "2023-12-07 17:26:43",
       "days_since_patrolled": "0",
       "name": "BAYVIEW ST",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-07T12:24:26.869553-05:00"
+  "current_datetime": "2023-12-07T12:32:36.271398-05:00"
 }
