@@ -1937,8 +1937,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-06 17:47:19",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-07 16:39:36",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -1957,8 +1957,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-06 17:46:47",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-07 16:40:12",
+      "days_since_patrolled": "0",
       "name": "HURON RD",
       "type": ""
     },
@@ -1987,8 +1987,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 17:44:17",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-07 16:46:25",
+      "days_since_patrolled": "0",
       "name": "ICE HUT LN",
       "type": "Rural"
     },
@@ -4157,8 +4157,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-06 17:48:41",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-07 16:38:13",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4167,8 +4167,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-06 17:48:52",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-07 16:37:49",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4177,8 +4177,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-06 17:49:10",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-07 16:37:34",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4297,7 +4297,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 16:36:22",
+      "patrolled_datetime": "2023-12-07 16:37:18",
       "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
@@ -4377,8 +4377,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-08-03 18:03:22",
-      "days_since_patrolled": "126",
+      "patrolled_datetime": "2023-12-07 16:37:37",
+      "days_since_patrolled": "0",
       "name": "LAKEFIELD AVE",
       "type": "Semi-Urban"
     },
@@ -7787,8 +7787,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-06 17:48:16",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-07 16:39:06",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -8317,8 +8317,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 17:46:03",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-07 16:41:35",
+      "days_since_patrolled": "0",
       "name": "ADIS DR",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-07T11:44:29.372955-05:00"
+  "current_datetime": "2023-12-07T11:52:23.203301-05:00"
 }
