@@ -5507,7 +5507,7 @@
       "class_number": "5",
       "class_name": "Collector",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-08 17:20:33",
+      "patrolled_datetime": "2023-12-08 17:24:31",
       "days_since_patrolled": "0",
       "name": "SIXTH ST N",
       "type": "Semi-Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-08T12:23:02.894577-05:00"
+  "current_datetime": "2023-12-08T12:32:34.116026-05:00"
 }
