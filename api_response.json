@@ -1177,8 +1177,8 @@
       "class_number": "0",
       "class_name": "Local",
       "ownership": "Private",
-      "patrolled_datetime": "2023-08-03 14:06:20",
-      "days_since_patrolled": "130",
+      "patrolled_datetime": "2023-12-11 15:38:42",
+      "days_since_patrolled": "0",
       "name": "JESSIE RD (PVT)",
       "type": "Semi-Urban"
     },
@@ -1187,8 +1187,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-08 21:48:25",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-12-11 15:46:06",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2507,7 +2507,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-11 15:34:24",
+      "patrolled_datetime": "2023-12-11 15:41:12",
       "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
@@ -2577,8 +2577,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-08 21:46:51",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-12-11 15:36:17",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -2587,8 +2587,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 16:50:42",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-12-11 15:48:11",
+      "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
     },
@@ -2597,8 +2597,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-20 16:49:29",
-      "days_since_patrolled": "21",
+      "patrolled_datetime": "2023-12-11 15:47:44",
+      "days_since_patrolled": "0",
       "name": "GOLDEN POND DR",
       "type": "Semi-Urban"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-11T10:42:28.858017-05:00"
+  "current_datetime": "2023-12-11T10:52:20.061196-05:00"
 }
