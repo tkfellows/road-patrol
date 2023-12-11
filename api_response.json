@@ -7647,7 +7647,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-11 14:44:23",
+      "patrolled_datetime": "2023-12-11 15:04:26",
       "days_since_patrolled": "0",
       "name": "BAYVIEW ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-11T09:52:25.667073-05:00"
+  "current_datetime": "2023-12-11T10:09:03.358851-05:00"
 }
