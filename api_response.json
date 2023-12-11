@@ -1677,7 +1677,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-11 19:29:19",
+      "patrolled_datetime": "2023-12-11 21:01:46",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -2457,7 +2457,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-11 19:27:59",
+      "patrolled_datetime": "2023-12-11 21:02:48",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 13",
       "type": ""
@@ -2787,8 +2787,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "Provincial Highway",
-      "patrolled_datetime": "2023-12-07 13:37:26",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-12-11 20:46:44",
+      "days_since_patrolled": "0",
       "name": "HWY 21",
       "type": ""
     },
@@ -4307,7 +4307,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-11 19:30:29",
+      "patrolled_datetime": "2023-12-11 20:59:40",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4317,7 +4317,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-11 20:46:11",
+      "patrolled_datetime": "2023-12-11 20:58:56",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -4397,7 +4397,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-11 19:29:45",
+      "patrolled_datetime": "2023-12-11 21:00:33",
       "days_since_patrolled": "0",
       "name": "OLIPHANT WAY",
       "type": ""
@@ -4407,8 +4407,8 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-07 16:35:12",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-12-11 21:00:37",
+      "days_since_patrolled": "0",
       "name": "LAKEVIEW",
       "type": "Rural"
     },
@@ -4457,7 +4457,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-11 20:45:51",
+      "patrolled_datetime": "2023-12-11 20:46:01",
       "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
@@ -5907,8 +5907,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 13:36:27",
-      "days_since_patrolled": "4",
+      "patrolled_datetime": "2023-12-11 20:46:39",
+      "days_since_patrolled": "0",
       "name": "BRUCE ROAD 10",
       "type": ""
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-11T15:52:10.889811-05:00"
+  "current_datetime": "2023-12-11T16:07:45.010716-05:00"
 }
