@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-11 18:35:20",
+      "patrolled_datetime": "2023-12-11 18:45:21",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -3417,7 +3417,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-11 13:47:57",
+      "patrolled_datetime": "2023-12-11 18:46:01",
       "days_since_patrolled": "0",
       "name": "BROWN ST",
       "type": "Urban"
@@ -7517,8 +7517,8 @@
       "class_number": "5",
       "class_name": "Arterial",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-08 16:48:30",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-12-11 18:46:38",
+      "days_since_patrolled": "0",
       "name": "FRANK ST",
       "type": "Urban"
     },
@@ -7717,7 +7717,7 @@
       "class_number": "6",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-11 18:34:12",
+      "patrolled_datetime": "2023-12-11 18:44:17",
       "days_since_patrolled": "0",
       "name": "AMES ST",
       "type": "Urban"
@@ -8367,7 +8367,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-11 17:34:58",
+      "patrolled_datetime": "2023-12-11 18:45:30",
       "days_since_patrolled": "0",
       "name": "ELM ST",
       "type": "Semi-Urban"
@@ -8697,7 +8697,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-11 13:48:26",
+      "patrolled_datetime": "2023-12-11 18:46:26",
       "days_since_patrolled": "0",
       "name": "BROWN ST",
       "type": "Urban"
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-11T13:42:31.881108-05:00"
+  "current_datetime": "2023-12-11T13:52:29.469321-05:00"
 }
