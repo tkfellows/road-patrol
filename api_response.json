@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-11 14:06:16",
+      "patrolled_datetime": "2023-12-11 16:05:00",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -2577,7 +2577,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-11 15:36:17",
+      "patrolled_datetime": "2023-12-11 15:56:13",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -2587,7 +2587,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-11 15:48:11",
+      "patrolled_datetime": "2023-12-11 15:49:20",
       "days_since_patrolled": "0",
       "name": "ALLENFORD RD",
       "type": "Rural"
@@ -8327,8 +8327,8 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-08 21:45:09",
-      "days_since_patrolled": "3",
+      "patrolled_datetime": "2023-12-11 15:58:16",
+      "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-11T10:52:20.061196-05:00"
+  "current_datetime": "2023-12-11T11:11:12.607019-05:00"
 }
