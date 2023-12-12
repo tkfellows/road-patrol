@@ -87,8 +87,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-11-27 16:31:00",
-      "days_since_patrolled": "15",
+      "patrolled_datetime": "2023-12-12 19:10:52",
+      "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Rural"
     },
@@ -1267,8 +1267,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 14:42:40",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-12-12 19:06:26",
+      "days_since_patrolled": "0",
       "name": "SPRY LAKE RD",
       "type": "Semi-Urban"
     },
@@ -4187,8 +4187,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 16:53:41",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-12-12 19:04:00",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4297,8 +4297,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-07 16:53:33",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-12-12 19:05:55",
+      "days_since_patrolled": "0",
       "name": "BRYANT ST",
       "type": ""
     },
@@ -4307,8 +4307,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-11 20:59:40",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-12 19:03:51",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -4317,8 +4317,8 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-11 20:58:56",
-      "days_since_patrolled": "1",
+      "patrolled_datetime": "2023-12-12 19:02:58",
+      "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
     },
@@ -7697,7 +7697,7 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-12 18:57:19",
+      "patrolled_datetime": "2023-12-12 19:12:21",
       "days_since_patrolled": "0",
       "name": "GOULD ST",
       "type": "Urban"
@@ -7817,8 +7817,8 @@
       "class_number": "5",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-05 06:11:47",
-      "days_since_patrolled": "7",
+      "patrolled_datetime": "2023-12-12 19:00:48",
+      "days_since_patrolled": "0",
       "name": "SOUTH OLIPHANT RD",
       "type": "Rural"
     },
@@ -8157,7 +8157,7 @@
       "class_number": "0",
       "class_name": "",
       "ownership": "County Road",
-      "patrolled_datetime": "2023-12-12 19:00:23",
+      "patrolled_datetime": "2023-12-12 19:00:44",
       "days_since_patrolled": "0",
       "name": "SAUBLE FALLS PKWY",
       "type": ""
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-12T14:07:01.235325-05:00"
+  "current_datetime": "2023-12-12T14:17:18.300004-05:00"
 }
