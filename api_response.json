@@ -397,8 +397,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-06 19:17:23",
-      "days_since_patrolled": "6",
+      "patrolled_datetime": "2023-12-12 17:51:47",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -407,7 +407,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-12 17:26:25",
+      "patrolled_datetime": "2023-12-12 17:53:57",
       "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
@@ -927,8 +927,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-04 04:43:33",
-      "days_since_patrolled": "8",
+      "patrolled_datetime": "2023-12-12 17:47:06",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -1747,7 +1747,7 @@
       "class_number": "3",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-12 17:23:15",
+      "patrolled_datetime": "2023-12-12 17:57:23",
       "days_since_patrolled": "0",
       "name": "SILVER LAKE RD",
       "type": "Rural"
@@ -2227,7 +2227,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-12 17:25:53",
+      "patrolled_datetime": "2023-12-12 17:56:04",
       "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
@@ -2537,7 +2537,7 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-12 14:45:06",
+      "patrolled_datetime": "2023-12-12 18:03:59",
       "days_since_patrolled": "0",
       "name": "MUNICIPAL RD",
       "type": "Rural"
@@ -8477,8 +8477,8 @@
       "class_number": "4",
       "class_name": "Local",
       "ownership": "Town of South Bruce Peninsula",
-      "patrolled_datetime": "2023-12-07 13:47:47",
-      "days_since_patrolled": "5",
+      "patrolled_datetime": "2023-12-12 17:49:51",
+      "days_since_patrolled": "0",
       "name": "ELSINORE RD",
       "type": "Rural"
     },
@@ -9153,5 +9153,5 @@
       "type": "Semi-Urban"
     }
   ],
-  "current_datetime": "2023-12-12T12:52:30.173985-05:00"
+  "current_datetime": "2023-12-12T13:10:32.665600-05:00"
 }
